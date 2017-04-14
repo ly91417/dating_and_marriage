@@ -1,0 +1,7537 @@
+----------------------------------------------------------------
+title: RTB Fillmore
+yelpPage: https://www.yelp.com/ /biz/rtb-fillmore-san-francisco
+categories: American (Traditional),Asian Fusion,Pop-Up Restaurants
+price: Above $61
+rating: 4.5 star rating
+mon: 5:30 pm-9:00 pm
+tue: Closed
+wed: Closed
+thu: Closed
+fri: 5:30 pm-9:00 pm
+sat: 5:30 pm-9:00 pm
+sun: 5:30 pm-9:00 pm
+addr: 71 Stevenson StSan Francisco, CA 94105
+reservations: Yes
+delivery: No
+takeout: No
+creditCard: Yes
+applePay: Yes
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: Free
+hasTV: No
+waiterService: Yes
+caters: Yes
+
+
+
+----------------------------------------------------------------
+title: Chloe’s Cafe
+yelpPage: https://www.yelp.com/ /biz/chloes-cafe-san-francisco
+categories: Breakfast & Brunch
+price: $11-30
+rating: 4.0 star rating
+mon: 8:00 am-3:00 pm
+tue: 8:00 am-3:00 pm
+wed: 8:00 am-3:00 pm
+thu: 8:00 am-3:00 pm
+fri: 8:00 am-3:00 pm
+sat: 8:00 am-2:30 pm
+sun: 8:00 am-2:30 pm
+addr: 1399 Church StSan Francisco, CA 94114
+phone: (415) 648-4116
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Breakfast, Brunch
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: No
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Chez Maman West
+yelpPage: https://www.yelp.com/ /biz/chez-maman-west-san-francisco-2
+categories: French,Burgers
+price: $11-30
+rating: 4.0 star rating
+mon: 11:30 am-10:30 pm
+tue: 11:30 am-10:30 pm
+wed: 11:30 am-10:30 pm
+thu: 11:30 am-10:30 pm
+fri: 11:30 am-10:30 pm
+sat: 10:30 am-10:30 pm
+sun: 10:30 am-10:30 pm
+addr: 401 Gough StSan Francisco, CA 94102
+phone: (415) 355-9067
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: No
+goodForKids: No
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: Yes
+driveThrough: No
+caters: Yes
+
+
+----------------------------------------------------------------
+title: La Mediterranee
+yelpPage: https://www.yelp.com/ /biz/la-mediterranee-san-francisco-7
+categories: Mediterranean,Middle Eastern,Breakfast & Brunch
+price: $11-30
+rating: 4.0 star rating
+mon: 11:00 am-10:00 pm
+tue: 11:00 am-10:00 pm
+wed: 11:00 am-10:00 pm
+thu: 11:00 am-10:00 pm
+fri: 11:00 am-10:30 pm
+sat: 11:00 am-10:30 pm
+sun: 11:00 am-9:00 pm
+addr: 288 Noe StSan Francisco, CA 94114
+phone: (415) 431-7210
+reservations: No
+delivery: Yes
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Lunch, Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Topsy’s Fun House
+yelpPage: https://www.yelp.com/ /biz/topsys-fun-house-san-francisco
+categories: Cocktail Bars,Lounges
+price: Moderate
+rating: 4.5 star rating
+mon: 2:00 pm-2:00 am
+tue: 2:00 pm-2:00 am
+wed: 2:00 pm-2:00 am
+thu: 2:00 pm-2:00 am
+fri: 2:00 pm-2:00 am
+sat: 5:00 pm-2:00 am
+sun: 2:00 pm-9:00 pm
+addr: 260 Kearny StSan Francisco, CA 94108
+phone: (415) 757-0290
+reservations: Yes
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: Yes
+goodForGroups: Yes
+ambience: Trendy
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: Yes
+hasTV: Yes
+
+
+----------------------------------------------------------------
+title: Maven
+yelpPage: https://www.yelp.com/ /biz/maven-san-francisco
+categories: American (New),Gastropubs,Cocktail Bars
+price: $11-30
+rating: 4.0 star rating
+mon: Closed
+tue: 5:30 pm-11:30 pm
+wed: 5:30 pm-11:30 pm
+thu: 5:30 pm-11:30 pm
+fri: 5:30 pm-11:30 pm
+sat: 11:00 am-11:30 pm
+sun: 11:00 am-2:30 pm
+addr: 598 Haight StSan Francisco, CA 94117
+phone: (415) 829-7982
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+ambience: Trendy
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Kazan
+yelpPage: https://www.yelp.com/ /biz/kazan-san-francisco
+categories: Japanese,Sushi Bars,Soup
+price: $11-30
+rating: 4.0 star rating
+mon: 11:30 am-2:30 pm5:00 pm-10:00 pm
+tue: 11:30 am-2:30 pm5:00 pm-10:00 pm
+wed: 11:30 am-2:30 pm5:00 pm-10:00 pm
+thu: 11:30 am-2:30 pm5:00 pm-10:00 pm
+fri: 11:30 am-2:30 pm5:00 pm-11:00 pm
+sat: 12:30 pm-11:00 pm
+sun: 12:30 pm-9:00 pm
+addr: 2809 24th StSan Francisco, CA 94110
+phone: (415) 282-2001
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: Yes
+
+
+----------------------------------------------------------------
+title: PizzaHacker
+yelpPage: https://www.yelp.com/ /biz/pizzahacker-san-francisco-4
+categories: Pizza
+price: $11-30
+rating: 4.0 star rating
+mon: Closed
+tue: 5:00 pm-10:00 pm
+wed: 5:00 pm-10:00 pm
+thu: 5:00 pm-10:00 pm
+fri: 5:00 pm-10:00 pm
+sat: 5:00 pm-10:00 pm
+sun: 5:00 pm-10:00 pm
+addr: 3299 Mission StSan Francisco, CA 94110
+phone: (415) 991-6911
+reservations: No
+delivery: Yes
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: No
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Hipster, Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Sightglass Coffee
+yelpPage: https://www.yelp.com/ /biz/sightglass-coffee-san-francisco
+categories: Coffee & Tea
+price: Moderate
+rating: 4.0 star rating
+mon: 7:00 am-7:00 pm
+tue: 7:00 am-7:00 pm
+wed: 7:00 am-7:00 pm
+thu: 7:00 am-7:00 pm
+fri: 7:00 am-7:00 pm
+sat: 7:00 am-7:00 pm
+sun: 7:00 am-7:00 pm
+addr: 270 7th StSan Francisco, CA 94103
+phone: (415) 861-1313
+takeout: Yes
+creditCard: Yes
+applePay: Yes
+parking: Street
+bikeParking: Yes
+outdoorSeating: No
+wifi: No
+caters: No
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=180&attrs=RestaurantsPriceRange2.2
+----------------------------------------------------------------
+title: Indian Paradox
+yelpPage: https://www.yelp.com/ /biz/indian-paradox-san-francisco-2
+categories: Wine Bars,Indian
+price: $11-30
+rating: 4.5 star rating
+mon: Closed
+tue: 5:00 pm-10:00 pm
+wed: 5:00 pm-10:00 pm
+thu: 5:00 pm-11:00 pm
+fri: 5:00 pm-11:00 pm
+sat: 5:00 pm-11:00 pm
+sun: 4:00 pm-9:30 pm
+addr: 258 Divisadero StSan Francisco, CA 94117
+phone: (415) 593-5386
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: No
+goodForKids: No
+goodForGroups: No
+attire: Casual
+ambience: Casual, Intimate
+noiseLevel: Quiet
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Nopalito
+yelpPage: https://www.yelp.com/ /biz/nopalito-san-francisco-3
+categories: Mexican,Comfort Food,Gluten-Free
+price: $11-30
+rating: 4.0 star rating
+mon: 11:30 am-10:00 pm
+tue: 11:30 am-10:00 pm
+wed: 11:30 am-10:00 pm
+thu: 11:30 am-10:00 pm
+fri: 11:30 am-10:00 pm
+sat: 11:30 am-10:00 pm
+sun: 11:30 am-10:00 pm
+addr: 1224 9th AveSan Francisco, CA 94122
+phone: (415) 233-9966
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Lunch, Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Sip Wine Bar
+yelpPage: https://www.yelp.com/ /biz/sip-wine-bar-san-francisco-3
+categories: Wine Bars
+price: Moderate
+rating: 5.0 star rating
+mon: Closed
+tue: Closed
+wed: 6:00 pm-2:00 am
+thu: 6:00 pm-2:00 am
+fri: 6:00 pm-2:00 am
+sat: 8:00 pm-2:00 am
+sun: Closed
+addr: 4704 Mission StSan Francisco, CA 94112
+phone: (628) 400-4065
+reservations: Yes
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: No
+goodForGroups: Yes
+ambience: Trendy, Intimate, Classy
+noiseLevel: Quiet
+alcohol: Full Bar
+outdoorSeating: No
+hasTV: Yes
+
+
+----------------------------------------------------------------
+title: Le Cafe du Soleil
+yelpPage: https://www.yelp.com/ /biz/le-cafe-du-soleil-san-francisco-3
+categories: Coffee & Tea,Sandwiches,French
+price: $11-30
+rating: 4.0 star rating
+mon: 7:00 am-9:00 pm
+tue: 7:00 am-9:00 pm
+wed: 7:00 am-9:00 pm
+thu: 7:00 am-9:00 pm
+fri: 7:00 am-9:00 pm
+sat: 7:00 am-9:00 pm
+sun: 8:00 am-9:00 pm
+addr: 200 Fillmore StSan Francisco, CA 94102
+phone: (415) 934-8637
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Breakfast, Lunch
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: Free
+hasTV: No
+waiterService: No
+caters: No
+
+
+----------------------------------------------------------------
+title: Wish
+yelpPage: https://www.yelp.com/ /biz/wish-san-francisco
+categories: Lounges,Music Venues
+price: Moderate
+rating: 4.0 star rating
+mon: Closed
+tue: 5:00 pm-2:00 am
+wed: 5:00 pm-2:00 am
+thu: 5:00 pm-2:00 am
+fri: 5:00 pm-2:00 am
+sat: 7:00 pm-2:00 am
+sun: Closed
+addr: 1539 Folsom StSan Francisco, CA 94103
+phone: (415) 496-9530
+reservations: Yes
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+hasTV: Yes
+
+
+----------------------------------------------------------------
+title: Corridor Cafe
+yelpPage: https://www.yelp.com/ /biz/corridor-cafe-san-francisco-2
+categories: Coffee & Tea,Sandwiches,Breakfast & Brunch
+price: $11-30
+rating: 4.5 star rating
+mon: 7:00 am-4:00 pm
+tue: 7:00 am-4:00 pm
+wed: 7:00 am-4:00 pm
+thu: 7:00 am-4:00 pm
+fri: 7:00 am-4:00 pm
+sat: 8:00 am-2:00 pm
+sun: Closed
+addr: 100 Van Ness AveSan Francisco, CA 94102
+phone: (415) 400-4979
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: Yes
+goodFor: Breakfast, Brunch
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: No
+outdoorSeating: Yes
+wifi: Free
+hasTV: No
+waiterService: No
+caters: Yes
+
+
+----------------------------------------------------------------
+title: San Tung
+yelpPage: https://www.yelp.com/ /biz/san-tung-san-francisco-2
+categories: Chinese,Korean,Asian Fusion
+price: $11-30
+rating: 4.0 star rating
+mon: 11:00 am-3:00 pm5:00 pm-9:30 pm
+tue: 11:00 am-3:00 pm5:00 pm-9:30 pm
+wed: Closed
+thu: 11:00 am-3:00 pm5:00 pm-9:30 pm
+fri: 11:00 am-3:00 pm5:00 pm-9:30 pm
+sat: 11:00 am-3:00 pm5:00 pm-9:30 pm
+sun: 11:00 am-3:00 pm5:00 pm-9:30 pm
+addr: 1031 Irving StSan Francisco, CA 94122
+phone: (415) 242-0828
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Lunch, Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Loud
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Smuggler’s Cove
+yelpPage: https://www.yelp.com/ /biz/smugglers-cove-san-francisco
+categories: Venues & Event Spaces,Tiki Bars,Cocktail Bars
+price: Moderate
+rating: 4.0 star rating
+mon: 5:00 pm-2:00 am
+tue: 5:00 pm-2:00 am
+wed: 5:00 pm-2:00 am
+thu: 5:00 pm-2:00 am
+fri: 5:00 pm-2:00 am
+sat: 5:00 pm-2:00 am
+sun: 5:00 pm-2:00 am
+addr: 650 Gough StSan Francisco, CA 94102
+phone: (415) 869-1900
+reservations: No
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: Yes
+goodForGroups: Yes
+ambience: Casual
+noiseLevel: Loud
+alcohol: Full Bar
+outdoorSeating: No
+hasTV: No
+
+
+----------------------------------------------------------------
+title: Trick Dog
+yelpPage: https://www.yelp.com/ /biz/trick-dog-san-francisco
+categories: Cocktail Bars
+price: Moderate
+rating: 4.0 star rating
+mon: 3:00 pm-2:00 am
+tue: 3:00 pm-2:00 am
+wed: 3:00 pm-2:00 am
+thu: 3:00 pm-2:00 am
+fri: 3:00 pm-2:00 am
+sat: 3:00 pm-2:00 am
+sun: 3:00 pm-2:00 am
+addr: 3010 20th StSan Francisco, CA 94110
+phone: (415) 471-2999
+reservations: No
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: Yes
+goodForGroups: Yes
+ambience: Hipster
+noiseLevel: Loud
+alcohol: Full Bar
+outdoorSeating: No
+hasTV: No
+
+
+----------------------------------------------------------------
+title: 24th Street Bar
+yelpPage: https://www.yelp.com/ /biz/24th-street-bar-san-francisco
+categories: Cocktail Bars
+price: Moderate
+rating: 4.5 star rating
+mon: 4:30 pm-2:00 am
+tue: 4:30 pm-2:00 am
+wed: 4:30 pm-2:00 am
+thu: 4:30 pm-2:00 am
+fri: 4:30 pm-2:00 am
+sat: 4:30 pm-2:00 am
+sun: 4:30 pm-2:00 am
+addr: 3336 24th StSan Francisco, CA 94110
+phone: (415) 282-2440
+reservations: No
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: Yes
+goodForGroups: Yes
+ambience: Casual
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+hasTV: Yes
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=190&attrs=RestaurantsPriceRange2.2
+----------------------------------------------------------------
+title: DOSA on Valencia
+yelpPage: https://www.yelp.com/ /biz/dosa-on-valencia-san-francisco
+categories: Indian
+price: $11-30
+rating: 4.0 star rating
+mon: 5:30 pm-10:00 pm
+tue: 5:30 pm-10:00 pm
+wed: 5:30 pm-10:00 pm
+thu: 5:30 pm-11:00 pm
+fri: 5:30 pm-11:00 pm
+sat: 11:00 am-3:00 pm5:30 pm-11:00 pm
+sun: 11:00 am-3:00 pm5:30 pm-10:00 pm
+addr: 995 Valencia StSan Francisco, CA 94110
+phone: (415) 642-3672
+reservations: Yes
+delivery: Yes
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Garage, Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+ambience: Trendy
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Domo
+yelpPage: https://www.yelp.com/ /biz/domo-san-francisco
+categories: Sushi Bars,Japanese
+price: $11-30
+rating: 4.0 star rating
+mon: 12:00 pm-2:30 pm5:30 pm-10:00 pm
+tue: 12:00 pm-2:30 pm5:30 pm-10:00 pm
+wed: 12:00 pm-2:30 pm5:30 pm-10:00 pm
+thu: 12:00 pm-2:30 pm5:30 pm-10:00 pm
+fri: 12:00 pm-2:30 pm5:30 pm-11:00 pm
+sat: 5:30 pm-11:00 pm
+sun: 5:30 pm-10:00 pm
+addr: 511 Laguna StSan Francisco, CA 94102
+phone: (415) 861-8887
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: No
+attire: Casual
+ambience: Intimate
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Red Hill Station
+yelpPage: https://www.yelp.com/ /biz/red-hill-station-san-francisco
+categories: Seafood
+price: $11-30
+rating: 4.5 star rating
+mon: 11:00 am-10:00 pm
+tue: 11:00 am-10:00 pm
+wed: 11:00 am-10:00 pm
+thu: 11:00 am-10:00 pm
+fri: 11:00 am-10:00 pm
+sat: 11:00 am-10:00 pm
+sun: 11:00 am-10:00 pm
+addr: 803 Cortland AveSan Francisco, CA 94110
+phone: (415) 757-0480
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: The Residence
+yelpPage: https://www.yelp.com/ /biz/the-residence-san-francisco
+categories: Lounges
+price: Moderate
+rating: 4.0 star rating
+mon: 5:00 pm-2:00 am
+tue: 5:00 pm-2:00 am
+wed: 5:00 pm-2:00 am
+thu: 5:00 pm-2:00 am
+fri: 5:00 pm-2:00 am
+sat: 5:00 pm-2:00 am
+sun: 5:00 pm-2:00 am
+addr: 718 14th StSan Francisco, CA 94114
+phone: (415) 797-8866
+reservations: No
+creditCard: No
+applePay: No
+parking: Street
+bikeParking: Yes
+goodForGroups: Yes
+ambience: Casual
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+hasTV: Yes
+
+
+----------------------------------------------------------------
+title: BEL
+yelpPage: https://www.yelp.com/ /biz/bel-san-francisco
+categories: Belgian,Bars,Modern European
+price: $11-30
+rating: 4.5 star rating
+mon: Closed
+tue: 5:00 pm-9:30 pm
+wed: 5:00 pm-9:30 pm
+thu: 5:00 pm-9:30 pm
+fri: 5:00 pm-10:00 pm
+sat: 5:00 pm-10:00 pm
+sun: Closed
+addr: 3215 Mission StSan Francisco, CA 94110
+phone: (415) 206-1000
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: Free
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Taylor Street Coffee Shop
+yelpPage: https://www.yelp.com/ /biz/taylor-street-coffee-shop-san-francisco
+categories: Breakfast & Brunch,Burgers,Sandwiches
+price: $11-30
+rating: 4.0 star rating
+mon: 7:00 am-2:00 pm
+tue: 7:00 am-2:00 pm
+wed: 7:00 am-2:00 pm
+thu: 7:00 am-2:00 pm
+fri: 7:00 am-2:00 pm
+sat: 7:00 am-2:00 pm
+sun: 7:00 am-2:00 pm
+addr: 375 Taylor StSan Francisco, CA 94102
+phone: (415) 567-4031
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Breakfast, Brunch
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: No
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+driveThrough: No
+caters: No
+
+
+----------------------------------------------------------------
+title: Manora’s Thai Cuisine
+yelpPage: https://www.yelp.com/ /biz/manoras-thai-cuisine-san-francisco
+categories: Thai,Cocktail Bars
+price: $11-30
+rating: 4.0 star rating
+mon: 11:30 am-2:30 pm5:30 pm-9:30 pm
+tue: 11:30 am-2:30 pm5:30 pm-9:30 pm
+wed: 11:30 am-2:30 pm5:30 pm-9:30 pm
+thu: 11:30 am-2:30 pm5:30 pm-9:30 pm
+fri: 11:30 am-2:30 pm5:30 pm-10:00 pm
+sat: 5:30 pm-10:00 pm
+sun: Closed
+addr: 1600 Folsom StSan Francisco, CA 94103
+phone: (415) 861-6224
+reservations: Yes
+delivery: Yes
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Delessio Market &amp; Bakery
+yelpPage: https://www.yelp.com/ /biz/delessio-market-and-bakery-san-francisco
+categories: Bakeries,Delis,Caterers
+price: $11-30
+rating: 4.0 star rating
+mon: 7:00 am-7:30 pm
+tue: 7:00 am-7:30 pm
+wed: 7:00 am-7:30 pm
+thu: 7:00 am-7:30 pm
+fri: 7:00 am-7:30 pm
+sat: 9:00 am-4:30 pm
+sun: 9:00 am-4:30 pm
+addr: 1695 Market StSan Francisco, CA 94103
+phone: (415) 552-5559
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Lunch
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: No
+
+
+----------------------------------------------------------------
+title: Repose Coffee Bar
+yelpPage: https://www.yelp.com/ /biz/repose-coffee-bar-san-francisco
+categories: Coffee & Tea,Bakeries,Donuts
+price: Moderate
+rating: 4.5 star rating
+mon: 7:00 am-4:00 pm
+tue: 7:00 am-4:00 pm
+wed: 7:00 am-4:00 pm
+thu: 7:00 am-4:00 pm
+fri: 7:00 am-4:00 pm
+sat: 8:00 am-4:00 pm
+sun: 8:00 am-4:00 pm
+addr: 262 Divisadero StSan Francisco, CA 94117
+phone: (415) 874-9110
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: Yes
+parking: Street
+bikeParking: Yes
+outdoorSeating: Yes
+wifi: Free
+
+
+----------------------------------------------------------------
+title: Okina Sushi
+yelpPage: https://www.yelp.com/ /biz/okina-sushi-san-francisco
+categories: Sushi Bars,Japanese
+price: $11-30
+rating: 4.0 star rating
+mon: Closed
+tue: Closed
+wed: Closed
+thu: 5:00 pm-9:00 pm
+fri: 5:00 pm-9:00 pm
+sat: 5:00 pm-9:00 pm
+sun: Closed
+addr: 776 Arguello BlvdSan Francisco, CA 94118
+phone: (415) 387-8882
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: No
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: No
+attire: Casual
+ambience: Intimate
+noiseLevel: Quiet
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=200&attrs=RestaurantsPriceRange2.2
+----------------------------------------------------------------
+title: Leopold’s
+yelpPage: https://www.yelp.com/ /biz/leopolds-san-francisco-2
+categories: Austrian,Bars
+price: $11-30
+rating: 4.5 star rating
+mon: 5:30 pm-10:00 pm
+tue: 5:30 pm-10:00 pm
+wed: 5:30 pm-10:00 pm
+thu: 5:30 pm-10:00 pm
+fri: 5:30 pm-10:30 pm
+sat: 11:00 am-2:30 pm5:30 pm-10:30 pm
+sun: 11:00 am-2:30 pm5:30 pm-10:00 pm
+addr: 2400 Polk StSan Francisco, CA 94109
+phone: (415) 474-2000
+reservations: No
+delivery: No
+takeout: No
+creditCard: Yes
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Very Loud
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Mela Tandoori Kitchen
+yelpPage: https://www.yelp.com/ /biz/mela-tandoori-kitchen-san-francisco-2
+categories: Indian,Pakistani,Halal
+price: $11-30
+rating: 4.0 star rating
+mon: 5:30 pm-10:00 pm
+tue: 5:30 pm-10:00 pm
+wed: 5:30 pm-10:00 pm
+thu: 11:30 am-2:30 pm5:30 pm-10:00 pm
+fri: 11:30 am-2:30 pm5:30 pm-10:00 pm
+sat: 5:30 pm-10:00 pm
+sun: Closed
+addr: 536 Golden Gate AveSan Francisco, CA 94102
+phone: (415) 447-4041
+reservations: Yes
+delivery: Yes
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Garage, Street
+bikeParking: No
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: Free
+hasTV: Yes
+waiterService: Yes
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Dottie’s True Blue Cafe
+yelpPage: https://www.yelp.com/ /biz/dotties-true-blue-cafe-san-francisco
+categories: American (Traditional),Breakfast & Brunch,Cafes
+price: $11-30
+rating: 4.0 star rating
+mon: 7:30 am-3:00 pm
+tue: Closed
+wed: Closed
+thu: 7:30 am-3:00 pm
+fri: 7:30 am-3:00 pm
+sat: 7:30 am-4:00 pm
+sun: 7:30 am-4:00 pm
+addr: 28 6th StSan Francisco, CA 94103
+phone: (415) 885-2767
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Breakfast, Brunch
+parking: Street
+bikeParking: No
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+
+----------------------------------------------------------------
+title: Robert R Johnson Coin and Stamp Co
+yelpPage: https://www.yelp.com/ /biz/robert-r-johnson-coin-and-stamp-co-san-francisco-2
+categories: Hobby Shops,Gold Buyers
+price: Ultra High-End
+rating: 4.0 star rating
+mon: 10:00 am-6:00 pm
+tue: 10:00 am-6:00 pm
+wed: 10:00 am-6:00 pm
+thu: 10:00 am-6:00 pm
+fri: 10:00 am-6:00 pm
+sat: Closed
+sun: Closed
+addr: 5 3rd StreetSan Francisco, CA 94103
+phone: (415) 421-9701
+creditCard: No
+parking: Garage, Private Lot
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Walnut Cleaners
+yelpPage: https://www.yelp.com/ /biz/walnut-cleaners-san-francisco
+categories: Dry Cleaning & Laundry
+price: Ultra High-End
+rating: 3.5 star rating
+mon: 7:00 am-7:00 pm
+tue: 7:00 am-7:00 pm
+wed: 7:00 am-7:00 pm
+thu: 7:00 am-7:00 pm
+fri: 7:00 am-7:00 pm
+sat: 8:00 am-6:00 pm
+sun: Closed
+addr: 2266 Chestnut StSan Francisco, CA 94123
+phone: (415) 921-0495
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+wifi: No
+
+
+----------------------------------------------------------------
+title: Spaghetti Ravioli Hair Salon
+yelpPage: https://www.yelp.com/ /biz/spaghetti-ravioli-hair-salon-san-francisco-2
+categories: Hair Salons
+price: Ultra High-End
+rating: 4.0 star rating
+addr: 1204 Sutter StSan Francisco, CA 94109
+parking: Street
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=160&attrs=RestaurantsPriceRange2.4
+----------------------------------------------------------------
+title: Magnolia Audio Video Design Center
+yelpPage: https://www.yelp.com/ /biz/magnolia-audio-video-design-center-san-francisco
+categories: Home Theatre Installation,Electronics
+price: Ultra High-End
+rating: 3.5 star rating
+mon: 10:00 am-9:00 pm
+tue: 10:00 am-9:00 pm
+wed: 10:00 am-9:00 pm
+thu: 10:00 am-9:00 pm
+fri: 10:00 am-10:00 pm
+sat: 10:00 am-10:00 pm
+sun: 10:00 am-8:00 pm
+addr: 1717 Harrison StSan Francisco, CA 94103
+phone: (415) 575-1022
+creditCard: Yes
+parking: Private Lot
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Louis Vuitton San Francisco Union Square
+yelpPage: https://www.yelp.com/ /biz/louis-vuitton-san-francisco-union-square-san-francisco
+categories: Leather Goods
+price: Ultra High-End
+rating: 3.0 star rating
+mon: 10:00 am-7:00 pm
+tue: 10:00 am-7:00 pm
+wed: 10:00 am-7:00 pm
+thu: 10:00 am-7:00 pm
+fri: 10:00 am-8:00 pm
+sat: 10:00 am-7:00 pm
+sun: 12:00 pm-7:00 pm
+addr: 233 Geary StSan Francisco, CA 94102
+phone: (415) 391-6200
+creditCard: Yes
+applePay: No
+parking: Garage, Street
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: Fujiya Cosmetics NW3
+yelpPage: https://www.yelp.com/ /biz/fujiya-cosmetics-nw3-san-francisco
+categories: Cosmetics & Beauty Supply
+price: Ultra High-End
+rating: 4.0 star rating
+mon: 10:00 am-6:00 pm
+tue: 10:00 am-6:00 pm
+wed: 10:00 am-6:00 pm
+thu: 10:00 am-6:00 pm
+fri: 10:00 am-6:00 pm
+sat: 10:00 am-6:00 pm
+sun: 11:00 am-4:00 pm
+addr: 1662 Post StSan Francisco, CA 94115
+phone: (415) 563-9888
+creditCard: Yes
+parking: Garage, Street
+
+
+----------------------------------------------------------------
+title: Moncler
+yelpPage: https://www.yelp.com/ /biz/moncler-san-francisco-2
+categories: Women's Clothing,Men's Clothing,Accessories
+price: Ultra High-End
+rating: 4.0 star rating
+mon: 10:00 am-6:00 pm
+tue: 10:00 am-6:00 pm
+wed: 10:00 am-6:00 pm
+thu: 10:00 am-6:00 pm
+fri: 10:00 am-6:00 pm
+sat: 10:00 am-6:00 pm
+sun: 12:00 pm-6:00 pm
+addr: 212 Stockton StSan Francisco, CA 94108
+phone: (628) 221-7945
+creditCard: Yes
+applePay: No
+parking: Garage
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: BSC Culinary Resource
+yelpPage: https://www.yelp.com/ /biz/bsc-culinary-resource-san-francisco-2
+categories: Appliances
+price: Ultra High-End
+rating: 3.0 star rating
+mon: 9:00 am-5:00 pm
+tue: 9:00 am-5:00 pm
+wed: 9:00 am-5:00 pm
+thu: 9:00 am-5:00 pm
+fri: 9:00 am-5:00 pm
+sat: 9:30 am-4:00 pm
+sun: Closed
+addr: 1665 Mission StSan Francisco, CA 94103
+phone: (415) 626-6246
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Elizabeth Charles
+yelpPage: https://www.yelp.com/ /biz/elizabeth-charles-san-francisco
+categories: Women's Clothing
+price: Ultra High-End
+rating: 3.5 star rating
+mon: 11:00 am-7:00 pm
+tue: 11:00 am-7:00 pm
+wed: 11:00 am-7:00 pm
+thu: 11:00 am-7:00 pm
+fri: 11:00 am-7:00 pm
+sat: 11:00 am-7:00 pm
+sun: 11:00 am-5:00 pm
+addr: 2056 Fillmore StSan Francisco, CA 94115
+phone: (415) 440-2100
+creditCard: Yes
+parking: Street
+
+
+----------------------------------------------------------------
+title: Biro &amp; Sons Silversmiths
+yelpPage: https://www.yelp.com/ /biz/biro-and-sons-silversmiths-san-francisco
+categories: Antiques
+price: Ultra High-End
+rating: 4.0 star rating
+mon: 7:30 am-4:00 pm
+tue: 7:30 am-4:00 pm
+wed: 7:30 am-4:00 pm
+thu: 7:30 am-4:00 pm
+fri: 7:30 am-4:00 pm
+sat: Closed
+sun: Closed
+addr: 1160 Folsom StSan Francisco, CA 94103
+phone: (415) 431-3480
+creditCard: No
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Chaps
+yelpPage: https://www.yelp.com/ /biz/chaps-san-francisco
+categories: Men's Clothing,Women's Clothing,Children's Clothing
+price: Ultra High-End
+rating: 4.0 star rating
+mon: 9:00 am-6:00 pm
+tue: 9:00 am-6:00 pm
+wed: 9:00 am-6:00 pm
+thu: 9:00 am-6:00 pm
+fri: 9:00 am-6:00 pm
+sat: 10:00 am-6:00 pm
+sun: 10:00 am-6:00 pm
+addr: 4057 18th StSan Francisco, CA 94114
+phone: (415) 863-1699
+creditCard: Yes
+applePay: No
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Analog Tattoo Arts Kolectiv SF
+yelpPage: https://www.yelp.com/ /biz/analog-tattoo-arts-kolectiv-sf-san-francisco
+categories: Art Galleries
+price: Ultra High-End
+rating: 5.0 star rating
+addr: 1038 Larkin StSan Francisco, CA 94109
+phone: (415) 932-6250
+creditCard: Yes
+applePay: No
+bikeParking: Yes
+goodForKids: No
+
+
+----------------------------------------------------------------
+title: House of Music
+yelpPage: https://www.yelp.com/ /biz/house-of-music-san-francisco
+categories: Electronics,Home Theatre Installation
+price: Ultra High-End
+rating: 3.0 star rating
+mon: 10:00 am-5:00 pm
+tue: 10:00 am-5:00 pm
+wed: 10:00 am-5:00 pm
+thu: 10:00 am-5:00 pm
+fri: 10:00 am-5:00 pm
+sat: 10:00 am-5:00 pm
+sun: Closed
+phone: (415) 255-0888
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: Yes
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=170&attrs=RestaurantsPriceRange2.4
+----------------------------------------------------------------
+title: Hosfelt Gallery
+yelpPage: https://www.yelp.com/ /biz/hosfelt-gallery-san-francisco
+categories: Art Galleries
+price: Ultra High-End
+rating: 4.5 star rating
+mon: Closed
+tue: 10:00 am-5:30 pm
+wed: 10:00 am-5:30 pm
+thu: 11:00 am-7:00 pm
+fri: 10:00 am-5:30 pm
+sat: 10:00 am-5:30 pm
+sun: Closed
+addr: 260 Utah StSan Francisco, CA 94103
+phone: (415) 495-5454
+creditCard: Yes
+parking: Street
+goodForKids: Yes
+
+
+----------------------------------------------------------------
+title: B&amp;B Italia
+yelpPage: https://www.yelp.com/ /biz/b-and-b-italia-san-francisco
+categories: Home Decor,Furniture Stores,Furniture Assembly
+price: Ultra High-End
+rating: 4.0 star rating
+mon: 10:00 am-6:00 pm
+tue: 10:00 am-6:00 pm
+wed: 10:00 am-6:00 pm
+thu: 10:00 am-6:00 pm
+fri: 10:00 am-6:00 pm
+sat: 10:00 am-6:00 pm
+sun: Closed
+addr: 2211 Alameda StSan Francisco, CA 94103
+phone: (415) 565-0900
+delivery: Yes
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Thos. Moser Cabinetmakers
+yelpPage: https://www.yelp.com/ /biz/thos-moser-cabinetmakers-san-francisco
+categories: Furniture Stores
+price: Ultra High-End
+rating: 4.0 star rating
+addr: 3395 Sacramento StSan Francisco, CA 94118
+phone: (415) 931-8131
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: Shreve &amp; Co.
+yelpPage: https://www.yelp.com/ /biz/shreve-and-co-san-francisco-2
+categories: Jewelry,Watches,Jewelry Repair
+price: Ultra High-End
+rating: 3.5 star rating
+mon: 10:00 am-6:00 pm
+tue: 10:00 am-6:00 pm
+wed: 10:00 am-6:00 pm
+thu: 10:00 am-6:00 pm
+fri: 10:00 am-6:00 pm
+sat: 10:00 am-6:00 pm
+sun: 12:00 pm-5:00 pm
+addr: 150 Post StSan Francisco, CA 94108
+phone: (415) 421-2600
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Venezia Fine Arts &amp; Antiques
+yelpPage: https://www.yelp.com/ /biz/venezia-fine-arts-and-antiques-san-francisco
+categories: Antiques,Art Galleries
+price: Ultra High-End
+rating: 4.5 star rating
+mon: 9:00 am-8:00 pm
+tue: 9:00 am-8:00 pm
+wed: 9:00 am-8:00 pm
+thu: 9:00 am-8:00 pm
+fri: 9:00 am-6:00 pm
+sat: 9:00 am-8:00 pm
+sun: 9:00 am-8:00 pm
+addr: 430 Grant AveSan Francisco, CA 94108
+phone: (628) 400-6004
+creditCard: Yes
+parking: Street
+bikeParking: No
+goodForKids: No
+
+
+----------------------------------------------------------------
+title: St. John Boutique
+yelpPage: https://www.yelp.com/ /biz/st-john-boutique-san-francisco-2
+categories: Women's Clothing
+price: Ultra High-End
+rating: 3.5 star rating
+addr: 767A Market Street, Suite BSan Francisco, CA 94103
+phone: (415) 856-0420
+creditCard: Yes
+parking: Garage, Street
+
+
+----------------------------------------------------------------
+title: Food Guru GraceAnn Walden’s Walking Tours
+yelpPage: https://www.yelp.com/ /biz/food-guru-graceann-waldens-walking-tours-san-francisco
+categories: Tours,Food
+price: Ultra High-End
+rating: 4.5 star rating
+addr: San Francisco, CA 94133
+phone: (415) 302-5898
+creditCard: No
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: Sue Fisher King
+yelpPage: https://www.yelp.com/ /biz/sue-fisher-king-san-francisco
+categories: Home Decor,Furniture Stores
+price: Ultra High-End
+rating: 4.0 star rating
+addr: 3067 Sacramento StSan Francisco, CA 94115
+phone: (415) 922-7276
+creditCard: Yes
+applePay: Yes
+parking: Street
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: Park Plaza Fine Foods
+yelpPage: https://www.yelp.com/ /biz/park-plaza-fine-foods-san-francisco
+categories: Grocery,Delis
+price: Above $61
+rating: 2.5 star rating
+mon: 8:00 am-10:00 pm
+tue: 8:00 am-10:00 pm
+wed: 8:00 am-10:00 pm
+thu: 8:00 am-10:30 pm
+fri: 8:00 am-11:00 pm
+sat: 8:00 am-11:00 pm
+sun: 8:00 am-9:30 pm
+addr: 111 Cambon DrSan Francisco, CA 94132
+phone: (628) 400-6077
+reservations: No
+delivery: Yes
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Late Night
+parking: Private Lot
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+noiseLevel: Quiet
+alcohol: Full Bar
+outdoorSeating: No
+wifi: No
+hasTV: Yes
+waiterService: No
+caters: Yes
+
+
+----------------------------------------------------------------
+title: One Hour Cleaners
+yelpPage: https://www.yelp.com/ /biz/one-hour-cleaners-san-francisco
+categories: Dry Cleaning & Laundry
+price: Ultra High-End
+rating: 3.5 star rating
+mon: 7:00 am-6:30 pm
+tue: 7:00 am-6:30 pm
+wed: 7:00 am-6:30 pm
+thu: 7:00 am-6:30 pm
+fri: 7:00 am-6:30 pm
+sat: 8:00 am-6:00 pm
+sun: Closed
+addr: 2233 Market StSan Francisco, CA 94114
+phone: (415) 552-6035
+creditCard: Yes
+parking: Street
+wifi: No
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=180&attrs=RestaurantsPriceRange2.4
+----------------------------------------------------------------
+title: Alexander McQueen
+yelpPage: https://www.yelp.com/ /biz/alexander-mcqueen-san-francisco
+categories: Women's Clothing,Men's Clothing
+price: Ultra High-End
+rating: 4.0 star rating
+mon: 10:00 am-6:00 pm
+tue: 10:00 am-6:00 pm
+wed: 10:00 am-6:00 pm
+thu: 10:00 am-6:00 pm
+fri: 10:00 am-6:00 pm
+sat: 10:00 am-6:00 pm
+sun: 12:00 pm-5:00 pm
+addr: 58 Geary StSan Francisco, CA 94108
+phone: (415) 956-2721
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Montblanc
+yelpPage: https://www.yelp.com/ /biz/montblanc-san-francisco
+categories: Accessories,Leather Goods,Watches
+price: Ultra High-End
+rating: 3.5 star rating
+mon: 10:00 am-6:00 pm
+tue: 10:00 am-6:00 pm
+wed: 10:00 am-6:00 pm
+thu: 10:00 am-6:00 pm
+fri: 10:00 am-6:00 pm
+sat: 10:00 am-6:00 pm
+sun: 12:00 pm-5:00 pm
+addr: 120 Grant AvenueSan Francisco, CA 94108
+phone: (415) 403-4000
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Gallery 444
+yelpPage: https://www.yelp.com/ /biz/gallery-444-san-francisco
+categories: Art Galleries
+price: Ultra High-End
+rating: 4.5 star rating
+phone: (415) 434-4477
+creditCard: Yes
+parking: Street
+bikeParking: No
+goodForKids: No
+
+
+----------------------------------------------------------------
+title: Ocularium The
+yelpPage: https://www.yelp.com/ /biz/the-ocularium-san-francisco-2
+categories: Eyewear & Opticians
+price: Ultra High-End
+rating: 4.0 star rating
+addr: 2336 Chestnut StSan Francisco, CA 94123
+phone: (415) 563-2475
+creditCard: Yes
+parking: Street
+
+
+----------------------------------------------------------------
+title: April In Paris
+yelpPage: https://www.yelp.com/ /biz/april-in-paris-san-francisco
+categories: Leather Goods
+price: Ultra High-End
+rating: 4.5 star rating
+mon: 10:00 am-6:00 pm
+tue: 10:00 am-6:00 pm
+wed: 10:00 am-6:00 pm
+thu: 10:00 am-6:00 pm
+fri: 10:00 am-6:00 pm
+sat: 10:00 am-5:00 pm
+sun: 10:00 am-6:00 pm
+addr: 15 Clement StSan Francisco, CA 94118
+phone: (415) 750-9910
+creditCard: Yes
+parking: Street
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: Vine Vera
+yelpPage: https://www.yelp.com/ /biz/vine-vera-san-francisco-4
+categories: Skin Care
+price: Ultra High-End
+rating: 3.5 star rating
+mon: 10:00 am-9:00 pm
+tue: 10:00 am-9:00 pm
+wed: 10:00 am-9:00 pm
+thu: 10:00 am-9:00 pm
+fri: 10:00 am-9:00 pm
+sat: 10:00 am-9:00 pm
+sun: 10:00 am-7:00 pm
+addr: 60 Grant StSan Francisco, CA 94108
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Living Green Design
+yelpPage: https://www.yelp.com/ /biz/living-green-design-san-francisco
+categories: Nurseries & Gardening,Gardeners
+price: Ultra High-End
+rating: 4.5 star rating
+mon: 10:00 am-5:00 pm
+tue: 10:00 am-5:00 pm
+wed: 10:00 am-5:00 pm
+thu: 10:00 am-5:00 pm
+fri: 10:00 am-5:00 pm
+sat: 11:00 am-4:00 pm
+sun: Closed
+addr: 1465 Custer AveSan Francisco, CA 94124
+phone: (415) 864-2251
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Verizon
+yelpPage: https://www.yelp.com/ /biz/verizon-wireless-san-francisco-44
+categories: Mobile Phones,Internet Service Providers,Mobile Phone Accessories
+price: Ultra High-End
+rating: 3.0 star rating
+mon: 10:00 am-8:00 pm
+tue: 10:00 am-8:00 pm
+wed: 10:00 am-8:00 pm
+thu: 10:00 am-8:00 pm
+fri: 10:00 am-8:00 pm
+sat: 10:00 am-8:00 pm
+sun: 11:00 am-7:00 pm
+addr: 2654 Mission StSan Francisco, CA 94110
+phone: (415) 695-8400
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Andy Goldsworthy’s Spire
+yelpPage: https://www.yelp.com/ /biz/andy-goldsworthys-spire-san-francisco
+categories: Hiking,Art Galleries
+price: Ultra High-End
+rating: 4.5 star rating
+mon: Open 24 hours
+tue: Open 24 hours
+wed: Open 24 hours
+thu: Open 24 hours
+fri: Open 24 hours
+sat: Open 24 hours
+sun: Open 24 hours
+addr: San Francisco, CA 94129
+phone: (415) 561-5300
+creditCard: No
+applePay: Yes
+bikeParking: Yes
+goodForKids: Yes
+
+
+----------------------------------------------------------------
+title: Caldwell Snyder Gallery
+yelpPage: https://www.yelp.com/ /biz/caldwell-snyder-gallery-san-francisco
+categories: Art Galleries
+price: Ultra High-End
+rating: 4.0 star rating
+mon: 10:00 am-6:00 pm
+tue: 10:00 am-6:00 pm
+wed: 10:00 am-6:00 pm
+thu: 10:00 am-6:00 pm
+fri: 10:00 am-6:00 pm
+sat: 10:00 am-6:00 pm
+sun: 11:00 am-5:00 pm
+addr: 341 Sutter StSan Francisco, CA 94108
+phone: (415) 392-2299
+creditCard: Yes
+goodForKids: No
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=190&attrs=RestaurantsPriceRange2.4
+----------------------------------------------------------------
+title: The Art of Dr. Seuss - Dennis Rae Fine Art
+yelpPage: https://www.yelp.com/ /biz/the-art-of-dr-seuss-dennis-rae-fine-art-san-francisco
+categories: Art Galleries
+price: Ultra High-End
+rating: 4.0 star rating
+addr: 351-A Geary StSan Francisco, CA 94102
+phone: (415) 391-1948
+creditCard: Yes
+applePay: No
+bikeParking: No
+goodForKids: Yes
+
+
+----------------------------------------------------------------
+title: Candace Barnes
+yelpPage: https://www.yelp.com/ /biz/candace-barnes-san-francisco
+categories: Antiques,Interior Design
+price: Ultra High-End
+rating: 5.0 star rating
+mon: 9:00 am-5:00 pm
+tue: 9:00 am-5:00 pm
+wed: 9:00 am-5:00 pm
+thu: 9:00 am-5:00 pm
+fri: 9:00 am-5:00 pm
+sat: Closed
+sun: Closed
+addr: 2013 17th StSan Francisco, CA 94103
+phone: (415) 431-1018
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Will Leather Goods ‘Self Expression’
+yelpPage: https://www.yelp.com/ /biz/will-leather-goods-san-francisco
+categories: Leather Goods,Accessories
+price: Ultra High-End
+rating: 4.0 star rating
+mon: 11:00 am-8:00 pm
+tue: 11:00 am-8:00 pm
+wed: 11:00 am-8:00 pm
+thu: 11:00 am-8:00 pm
+fri: 11:00 am-8:00 pm
+sat: 11:00 am-8:00 pm
+sun: 12:00 pm-6:00 pm
+addr: 568 Hayes StSan Francisco, CA 94102
+phone: (415) 690-1188
+creditCard: Yes
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Infinitel Communications
+yelpPage: https://www.yelp.com/ /biz/infinitel-communications-san-francisco-10
+categories: Mobile Phones,Mobile Phone Accessories,Mobile Phone Repair
+price: Ultra High-End
+rating: 4.0 star rating
+mon: 10:00 am-7:00 pm
+tue: 10:00 am-7:00 pm
+wed: 10:00 am-7:00 pm
+thu: 10:00 am-7:00 pm
+fri: 10:00 am-7:00 pm
+sat: 10:00 am-7:00 pm
+sun: 11:00 am-6:00 pm
+phone: (415) 504-9688
+creditCard: Yes
+parking: Street
+
+
+----------------------------------------------------------------
+title: CK Contemporary
+yelpPage: https://www.yelp.com/ /biz/ck-contemporary-san-francisco
+categories: Art Galleries
+price: Ultra High-End
+rating: 4.5 star rating
+mon: 9:00 am-7:00 pm
+tue: 9:00 am-7:00 pm
+wed: 9:00 am-7:00 pm
+thu: 9:00 am-9:00 pm
+fri: 9:00 am-9:00 pm
+sat: 10:00 am-9:00 pm
+sun: 10:00 am-6:00 pm
+phone: (415) 397-0114
+creditCard: Yes
+bikeParking: Yes
+goodForKids: No
+
+
+----------------------------------------------------------------
+title: Curve
+yelpPage: https://www.yelp.com/ /biz/curve-san-francisco
+categories: Women's Clothing,Accessories
+price: Ultra High-End
+rating: 3.5 star rating
+mon: 10:00 am-6:00 pm
+tue: 10:00 am-6:00 pm
+wed: 10:00 am-6:00 pm
+thu: 10:00 am-6:00 pm
+fri: 10:00 am-6:00 pm
+sat: 10:00 am-6:00 pm
+sun: 11:00 am-5:00 pm
+addr: 2360 Fillmore StSan Francisco, CA 94115
+phone: (415) 885-4200
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: Giorgio Armani
+yelpPage: https://www.yelp.com/ /biz/giorgio-armani-san-francisco-2
+categories: Women's Clothing,Accessories,Children's Clothing
+price: Ultra High-End
+rating: 5.0 star rating
+addr: 166 Grant AveSan Francisco, CA 94102
+phone: (415) 434-2500
+
+
+----------------------------------------------------------------
+title: Sunglass Hut
+yelpPage: https://www.yelp.com/ /biz/sunglass-hut-san-francisco-16
+categories: Eyewear & Opticians,Accessories
+price: Ultra High-End
+rating: 4.5 star rating
+mon: 10:00 am-7:00 pm
+tue: 10:00 am-7:00 pm
+wed: 10:00 am-7:00 pm
+thu: 10:00 am-7:00 pm
+fri: 10:00 am-8:00 pm
+sat: 10:00 am-8:00 pm
+sun: 10:00 am-7:00 pm
+addr: 250 Stockton StSan Francisco, CA 94108
+phone: (415) 399-1606
+creditCard: Yes
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: ScriptSite Pharmacy &amp; Compounding Lab
+yelpPage: https://www.yelp.com/ /biz/scriptsite-pharmacy-and-compounding-lab-san-francisco-2
+categories: Drugstores
+price: Ultra High-End
+rating: 3.5 star rating
+mon: 9:30 am-5:30 pm
+tue: 9:30 am-5:30 pm
+wed: 9:30 am-5:30 pm
+thu: 9:30 am-5:30 pm
+fri: 9:30 am-5:30 pm
+sat: Closed
+sun: Closed
+addr: 490 Post StSan Francisco, CA 94102
+phone: (415) 800-8060
+creditCard: Yes
+parking: Garage, Street
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=260&attrs=RestaurantsPriceRange2.4
+----------------------------------------------------------------
+title: TSE
+yelpPage: https://www.yelp.com/ /biz/tse-san-francisco
+categories: Women's Clothing,Men's Clothing
+price: Ultra High-End
+rating: 4.5 star rating
+mon: 10:00 am-6:00 pm
+tue: 10:00 am-6:00 pm
+wed: 10:00 am-6:00 pm
+thu: 10:00 am-6:00 pm
+fri: 10:00 am-6:00 pm
+sat: 10:00 am-6:00 pm
+sun: Closed
+phone: (415) 391-1112
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: Gadgetronics
+yelpPage: https://www.yelp.com/ /biz/gadgetronics-san-francisco
+categories: Electronics
+price: Ultra High-End
+rating: 3.0 star rating
+mon: 10:00 am-9:00 pm
+tue: 10:00 am-9:00 pm
+wed: 10:00 am-9:00 pm
+thu: 10:00 am-9:00 pm
+fri: 10:00 am-10:00 pm
+sat: 10:00 am-10:00 pm
+sun: 10:00 am-9:00 pm
+addr: Pier 39San Francisco, CA 94133
+phone: (858) 344-9297
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: Berggruen Gallery
+yelpPage: https://www.yelp.com/ /biz/berggruen-gallery-san-francisco
+categories: Art Galleries
+price: Ultra High-End
+rating: 3.0 star rating
+mon: 9:30 am-5:30 pm
+tue: 9:30 am-5:30 pm
+wed: 9:30 am-5:30 pm
+thu: 9:30 am-5:30 pm
+fri: 9:30 am-5:30 pm
+sat: 10:00 am-5:00 pm
+sun: Closed
+addr: 10 Hawthorne StSan Francisco, CA 94105
+phone: (415) 781-4629
+creditCard: Yes
+parking: Garage, Street
+bikeParking: No
+goodForKids: Yes
+
+
+----------------------------------------------------------------
+title: John Windle Antiquarian Bookseller
+yelpPage: https://www.yelp.com/ /biz/john-windle-antiquarian-bookseller-san-francisco
+categories: Antiques,Bookstores
+price: Ultra High-End
+rating: 4.5 star rating
+mon: 10:00 am-6:00 pm
+tue: 10:00 am-6:00 pm
+wed: 10:00 am-6:00 pm
+thu: 10:00 am-6:00 pm
+fri: 10:00 am-6:00 pm
+sat: 11:00 am-5:00 pm
+sun: Closed
+addr: 49 Geary StSan Francisco, CA 94108
+phone: (415) 986-5826
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: Tune Get Jewelry
+yelpPage: https://www.yelp.com/ /biz/tune-get-jewelry-san-francisco
+categories: Jewelry
+price: Ultra High-End
+rating: 5.0 star rating
+addr: 1060 Stockton StreetSan Francisco, CA 94108
+phone: (415) 397-3889
+creditCard: Yes
+parking: Street
+
+
+----------------------------------------------------------------
+title: Robert Berry Design
+yelpPage: https://www.yelp.com/ /biz/robert-berry-design-san-francisco
+categories: Women's Clothing
+price: Ultra High-End
+rating: 4.0 star rating
+mon: Closed
+tue: Closed
+wed: 12:00 pm-7:00 pm
+thu: 12:00 pm-7:00 pm
+fri: 12:00 pm-7:00 pm
+sat: 12:00 pm-7:00 pm
+sun: 12:00 pm-5:00 pm
+addr: 2764 Octavia StSan Francisco, CA 94123
+phone: (415) 563-4211
+creditCard: Yes
+parking: Street
+
+
+----------------------------------------------------------------
+title: Charisma Crafts
+yelpPage: https://www.yelp.com/ /biz/charisma-crafts-san-francisco
+categories: Antiques,Home Decor,Rugs
+price: Ultra High-End
+rating: 4.0 star rating
+mon: 10:00 am-9:00 pm
+tue: 10:00 am-9:00 pm
+wed: 10:00 am-9:00 pm
+thu: 10:00 am-9:00 pm
+fri: 10:00 am-9:00 pm
+sat: 10:00 am-9:00 pm
+sun: 10:00 am-7:00 pm
+addr: 950 Mason StSan Francisco, CA 94108
+phone: (415) 399-1799
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: Asian Arts Center
+yelpPage: https://www.yelp.com/ /biz/asian-arts-center-san-francisco
+categories: Art Galleries
+price: Ultra High-End
+rating: 4.0 star rating
+mon: 10:00 am-6:30 pm
+tue: 10:00 am-6:30 pm
+wed: 10:00 am-6:30 pm
+thu: 10:00 am-6:30 pm
+fri: 10:00 am-6:30 pm
+sat: 10:00 am-6:30 pm
+sun: 12:00 pm-6:00 pm
+addr: 45 Kearny StSan Francisco, CA 94108
+phone: (415) 296-8508
+creditCard: Yes
+parking: Street
+goodForKids: Yes
+
+
+----------------------------------------------------------------
+title: The Butler &amp; The Chef
+yelpPage: https://www.yelp.com/ /biz/the-butler-and-the-chef-san-francisco-5
+categories: Antiques,Home Decor
+price: Ultra High-End
+rating: 4.5 star rating
+mon: 10:00 am-5:00 pm
+tue: 10:00 am-5:00 pm
+wed: 10:00 am-5:00 pm
+thu: 10:00 am-5:00 pm
+fri: 10:00 am-5:00 pm
+sat: 11:00 am-4:00 pm
+sun: Closed
+addr: 1118 Harrison StSan Francisco, CA 94103
+phone: (415) 626-9600
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Cottage Market
+yelpPage: https://www.yelp.com/ /biz/cottage-market-san-francisco
+categories: Grocery
+price: Ultra High-End
+rating: 3.0 star rating
+addr: 798 Bush StreetSan Francisco, CA 94108
+phone: (415) 989-8121
+takeout: No
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=270&attrs=RestaurantsPriceRange2.4
+----------------------------------------------------------------
+title: Antiquities of California
+yelpPage: https://www.yelp.com/ /biz/antiquities-of-california-san-francisco
+categories: Hobby Shops,Art Galleries
+price: Ultra High-End
+rating: 3.0 star rating
+mon: 10:00 am-9:00 pm
+tue: 10:00 am-9:00 pm
+wed: 10:00 am-9:00 pm
+thu: 10:00 am-9:00 pm
+fri: 10:00 am-10:00 pm
+sat: 10:00 am-10:00 pm
+sun: 10:00 am-9:00 pm
+addr: Pier 39San Francisco, CA 94133
+phone: (415) 421-8400
+creditCard: Yes
+parking: Garage, Street
+bikeParking: Yes
+goodForKids: Yes
+
+
+----------------------------------------------------------------
+title: Golden Skin Care
+yelpPage: https://www.yelp.com/ /biz/golden-skin-care-san-francisco
+categories: Cosmetics & Beauty Supply
+price: Ultra High-End
+rating: 2.5 star rating
+addr: 3251 20th AveSan Francisco, CA 94132
+phone: (877) 554-1777
+creditCard: Yes
+parking: Garage
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: Ho Kee Market
+yelpPage: https://www.yelp.com/ /biz/ho-kee-market-san-francisco
+categories: Grocery
+price: Ultra High-End
+rating: 4.5 star rating
+addr: 1251 Stockton StreetSan Francisco, CA 94133
+phone: (415) 837-1489
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: RED Valentino
+yelpPage: https://www.yelp.com/ /biz/red-valentino-san-francisco-2
+categories: Women's Clothing
+price: Ultra High-End
+rating: 4.0 star rating
+mon: 10:00 am-8:30 pm
+tue: 10:00 am-8:30 pm
+wed: 10:00 am-8:30 pm
+thu: 10:00 am-8:30 pm
+fri: 10:00 am-8:30 pm
+sat: 10:00 am-8:30 pm
+sun: Closed
+phone: (415) 543-4900
+creditCard: Yes
+parking: Garage
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: The Finest Watches
+yelpPage: https://www.yelp.com/ /biz/the-finest-watches-san-francisco
+categories: Watches,Watch Repair
+price: Ultra High-End
+rating: 2.5 star rating
+mon: 9:00 am-5:00 pm
+tue: 9:00 am-5:00 pm
+wed: 9:00 am-5:00 pm
+thu: 9:00 am-5:00 pm
+fri: 9:00 am-5:00 pm
+sat: Closed
+sun: Closed
+addr: 360 Post StSan Francisco, CA 94108
+phone: (415) 864-3615
+creditCard: Yes
+parking: Garage, Street, Validated
+
+
+----------------------------------------------------------------
+title: The Other Artist
+yelpPage: https://www.yelp.com/ /biz/the-other-artist-san-francisco
+categories: Framing
+price: Ultra High-End
+rating: 3.5 star rating
+addr: 3200 Buchanan StSan Francisco, CA 94123
+phone: (415) 563-5641
+
+
+----------------------------------------------------------------
+title: Kneedler-Fauchere
+yelpPage: https://www.yelp.com/ /biz/kneedler-fauchere-san-francisco
+categories: Interior Design,Furniture Stores
+price: Ultra High-End
+rating: 4.5 star rating
+addr: 101 Henry Adams StSan Francisco, CA 94103
+phone: (415) 487-6180
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: Fell Depot Cleaners
+yelpPage: https://www.yelp.com/ /biz/fell-depot-cleaners-san-francisco
+categories: Dry Cleaning & Laundry,Sewing & Alterations
+price: Ultra High-End
+rating: 2.5 star rating
+mon: 7:30 am-6:30 pm
+tue: 7:30 am-6:30 pm
+wed: 7:30 am-6:30 pm
+thu: 7:30 am-6:30 pm
+fri: 7:30 am-6:30 pm
+sat: 9:00 am-5:00 pm
+sun: Closed
+addr: 1263 Fell StSan Francisco, CA 94117
+phone: (415) 701-7788
+creditCard: Yes
+bikeParking: Yes
+wifi: No
+
+
+----------------------------------------------------------------
+title: Luckyrice Feast
+yelpPage: https://www.yelp.com/ /biz/luckyrice-feast-san-francisco
+categories: Asian Fusion
+price: Above $61
+rating: 3.5 star rating
+addr: 1 Ferry BldgSan Francisco, CA 94111
+delivery: No
+takeout: No
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+noiseLevel: Loud
+waiterService: No
+
+
+----------------------------------------------------------------
+title: Tangent Contemporary Art
+yelpPage: https://www.yelp.com/ /biz/tangent-contemporary-art-san-francisco
+categories: Art Galleries
+price: Ultra High-End
+rating: 4.0 star rating
+addr: 373 Geary StSan Francisco, CA 94102
+phone: (415) 956-9999
+creditCard: Yes
+bikeParking: No
+goodForKids: No
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=280&attrs=RestaurantsPriceRange2.4
+----------------------------------------------------------------
+title: Miele San Francisco Experience Center
+yelpPage: https://www.yelp.com/ /biz/miele-san-francisco-experience-center-san-francisco
+categories: Appliances
+price: Ultra High-End
+rating: 2.5 star rating
+mon: 10:00 am-5:00 pm
+tue: 10:00 am-5:00 pm
+wed: 10:00 am-5:00 pm
+thu: 10:00 am-5:00 pm
+fri: 10:00 am-5:00 pm
+sat: 10:00 am-5:00 pm
+sun: Closed
+addr: 680 8th StSan Francisco, CA 94103
+phone: (800) 843-7231
+creditCard: Yes
+applePay: No
+parking: Street
+
+
+----------------------------------------------------------------
+title: SS21
+yelpPage: https://www.yelp.com/ /biz/ss21-san-francisco-2
+categories: Office Equipment
+price: Ultra High-End
+rating: 3.0 star rating
+mon: Closed
+tue: Closed
+wed: Closed
+thu: Closed
+fri: Closed
+sat: Closed
+sun: 10:00 am-5:00 pm
+addr: 132 Eddy StSan Francisco, CA 94102
+creditCard: No
+parking: Street
+
+
+----------------------------------------------------------------
+title: Fendi
+yelpPage: https://www.yelp.com/ /biz/fendi-san-francisco
+categories: Leather Goods
+price: Ultra High-End
+rating: 4.5 star rating
+mon: 10:00 am-7:00 pm
+tue: 10:00 am-7:00 pm
+wed: 10:00 am-7:00 pm
+thu: 10:00 am-8:00 pm
+fri: 10:00 am-8:00 pm
+sat: 10:00 am-8:00 pm
+sun: 12:00 pm-7:00 pm
+addr: 384 Post StSan Francisco, CA 94108
+phone: (415) 986-0349
+creditCard: Yes
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: Lombard Heights Market
+yelpPage: https://www.yelp.com/ /biz/lombard-heights-market-san-francisco
+categories: Grocery
+price: Ultra High-End
+rating: 3.5 star rating
+addr: 1877 Stockton StSan Francisco, CA 94133
+phone: (415) 781-2480
+creditCard: Yes
+parking: Street
+
+
+----------------------------------------------------------------
+title: Body, Soul and Spirit Salon
+yelpPage: https://www.yelp.com/ /biz/body-soul-and-spirit-salon-san-francisco-2
+categories: Hair Salons
+price: Ultra High-End
+rating: 4.5 star rating
+addr: 222 Leland AveSan Francisco, CA 94134
+phone: (415) 333-7261
+creditCard: Yes
+parking: Street
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: Post Street Creamery
+yelpPage: https://www.yelp.com/ /biz/post-street-creamery-san-francisco-2
+categories: Ice Cream & Frozen Yogurt
+price: Ultra High-End
+rating: 3.5 star rating
+addr: 428 11th StSan Francisco, CA 94103
+takeout: Yes
+creditCard: Yes
+bikeParking: Yes
+wifi: No
+
+
+----------------------------------------------------------------
+title: La Perla
+yelpPage: https://www.yelp.com/ /biz/la-perla-san-francisco
+categories: Women's Clothing,Lingerie,Swimwear
+price: Ultra High-End
+rating: 3.5 star rating
+mon: 10:00 am-6:00 pm
+tue: 10:00 am-6:00 pm
+wed: 10:00 am-6:00 pm
+thu: 10:00 am-6:00 pm
+fri: 10:00 am-6:00 pm
+sat: 10:00 am-6:00 pm
+sun: 12:00 pm-5:00 pm
+addr: 170 Geary StSan Francisco, CA 94108
+phone: (415) 445-0108
+creditCard: Yes
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: Escada
+yelpPage: https://www.yelp.com/ /biz/escada-san-francisco
+categories: Women's Clothing
+price: Ultra High-End
+rating: 4.5 star rating
+addr: 135 Maiden LnSan Francisco, CA 94108
+phone: (415) 391-3500
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: Valentino
+yelpPage: https://www.yelp.com/ /biz/valentino-san-francisco
+categories: Women's Clothing,Men's Clothing
+price: Ultra High-End
+rating: 3.0 star rating
+mon: 10:00 am-6:00 pm
+tue: 10:00 am-6:00 pm
+wed: 10:00 am-6:00 pm
+thu: 10:00 am-6:00 pm
+fri: 10:00 am-6:00 pm
+sat: 10:00 am-6:00 pm
+sun: 12:00 pm-5:00 pm
+addr: 105 Grant AveSan Francisco, CA 94108
+phone: (415) 772-9835
+creditCard: Yes
+parking: Street
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: Orogold cosmetics
+yelpPage: https://www.yelp.com/ /biz/orogold-cosmetics-san-francisco-4
+categories: Skin Care,Cosmetics & Beauty Supply
+price: Ultra High-End
+rating: 2.5 star rating
+addr: 450 Powell StSan Francisco, CA 94108
+phone: (415) 951-1929
+creditCard: Yes
+applePay: No
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: Taylor Pham
+yelpPage: https://www.yelp.com/ /biz/taylor-pham-san-francisco
+categories: Makeup Artists,Hair Salons
+price: Ultra High-End
+rating: 5.0 star rating
+addr: San Francisco, CA
+creditCard: No
+
+
+----------------------------------------------------------------
+title: Christian Louboutin
+yelpPage: https://www.yelp.com/ /biz/christian-louboutin-san-francisco
+categories: Shoe Stores
+price: Ultra High-End
+rating: 4.0 star rating
+mon: 10:00 am-6:00 pm
+tue: 10:00 am-6:00 pm
+wed: 10:00 am-6:00 pm
+thu: 10:00 am-6:00 pm
+fri: 10:00 am-6:00 pm
+sat: 10:00 am-6:00 pm
+sun: 12:00 pm-5:00 pm
+addr: 29 Maiden LaneSan Francisco, CA 94108
+phone: (415) 658-9079
+creditCard: Yes
+applePay: Yes
+parking: Street
+bikeParking: No
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=120&attrs=RestaurantsPriceRange2.4
+----------------------------------------------------------------
+title: Cherish Yourself Massage Services
+yelpPage: https://www.yelp.com/ /biz/cherish-yourself-massage-services-san-francisco
+categories: Massage
+price: Ultra High-End
+rating: 5.0 star rating
+mon: Closed
+tue: 9:00 am-1:00 pm3:00 pm-8:00 pm
+wed: Closed
+thu: 9:00 am-1:00 pm3:00 pm-8:00 pm
+fri: 9:00 am-1:00 pm3:00 pm-8:00 pm
+sat: 12:00 pm-1:30 pm2:30 pm-8:00 pm
+sun: Closed
+addr: 4248 - 20th StSan Francisco, CA 94114
+phone: (415) 875-9510
+creditCard: Yes
+parking: Street
+
+
+----------------------------------------------------------------
+title: Le Point
+yelpPage: https://www.yelp.com/ /biz/le-point-san-francisco
+categories: Women's Clothing,Men's Clothing,Accessories
+price: Ultra High-End
+rating: 4.5 star rating
+mon: 11:00 am-7:00 pm
+tue: 11:00 am-7:00 pm
+wed: 11:00 am-7:00 pm
+thu: 11:00 am-7:00 pm
+fri: 11:00 am-7:00 pm
+sat: 11:00 am-7:00 pm
+sun: 10:00 am-7:00 pm
+addr: 301 Valencia StSan Francisco, CA 94103
+phone: (415) 400-4275
+creditCard: Yes
+parking: Street
+
+
+----------------------------------------------------------------
+title: Neiman Marcus
+yelpPage: https://www.yelp.com/ /biz/neiman-marcus-san-francisco
+categories: Men's Clothing,Women's Clothing,Shoe Stores
+price: Ultra High-End
+rating: 3.5 star rating
+mon: 10:00 am-7:00 pm
+tue: 10:00 am-7:00 pm
+wed: 10:00 am-7:00 pm
+thu: 10:00 am-8:00 pm
+fri: 10:00 am-7:00 pm
+sat: 10:00 am-7:00 pm
+sun: 12:00 pm-6:00 pm
+addr: 150 Stockton StSan Francisco, CA 94108
+phone: (415) 362-3900
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: Hermès
+yelpPage: https://www.yelp.com/ /biz/herm%C3%A8s-san-francisco-2
+categories: Women's Clothing,Accessories,Leather Goods
+price: Ultra High-End
+rating: 3.5 star rating
+mon: 10:00 am-6:00 pm
+tue: 10:00 am-6:00 pm
+wed: 10:00 am-6:00 pm
+thu: 10:00 am-6:00 pm
+fri: 10:00 am-6:00 pm
+sat: 10:00 am-6:00 pm
+sun: Closed
+addr: 125 Grant AveSan Francisco, CA 94108
+phone: (415) 391-7200
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: Saint Laurent
+yelpPage: https://www.yelp.com/ /biz/saint-laurent-san-francisco-2
+categories: Accessories
+price: Ultra High-End
+rating: 4.5 star rating
+mon: 10:00 am-7:00 pm
+tue: 10:00 am-7:00 pm
+wed: 10:00 am-7:00 pm
+thu: 10:00 am-7:00 pm
+fri: 10:00 am-7:00 pm
+sat: 10:00 am-7:00 pm
+sun: 12:00 pm-6:00 pm
+addr: 108 Geary StSan Francisco, CA 94108
+phone: (415) 765-0975
+creditCard: Yes
+parking: Garage
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Ritz Carlton Club
+yelpPage: https://www.yelp.com/ /biz/ritz-carlton-club-san-francisco
+categories: Venues & Event Spaces,Hotels
+price: Ultra High-End
+rating: 4.5 star rating
+addr: 658 Market StSan Francisco, CA 94105
+creditCard: Yes
+applePay: No
+wifi: Free
+
+
+----------------------------------------------------------------
+title: ROLO on Market
+yelpPage: https://www.yelp.com/ /biz/rolo-on-market-san-francisco
+categories: Men's Clothing
+price: Ultra High-End
+rating: 4.0 star rating
+mon: 11:00 am-7:00 pm
+tue: 11:00 am-7:00 pm
+wed: 11:00 am-7:00 pm
+thu: 11:00 am-7:00 pm
+fri: 11:00 am-7:00 pm
+sat: 11:00 am-7:00 pm
+sun: 12:00 pm-6:00 pm
+addr: 2351 Market StSan Francisco, CA 94114
+phone: (415) 431-4545
+creditCard: Yes
+parking: Street
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: Coup d’Etat
+yelpPage: https://www.yelp.com/ /biz/coup-d-etat-san-francisco-2
+categories: Antiques
+price: Ultra High-End
+rating: 4.5 star rating
+mon: 9:00 am-5:00 pm
+tue: 9:00 am-5:00 pm
+wed: 9:00 am-5:00 pm
+thu: 9:00 am-5:00 pm
+fri: 9:00 am-5:00 pm
+sat: 11:00 am-4:00 pm
+sun: Closed
+addr: 111 Rhode Island StSan Francisco, CA 94103
+phone: (415) 241-9300
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Empire Nuj
+yelpPage: https://www.yelp.com/ /biz/empire-nuj-san-francisco
+categories: Dance Clubs
+price: Ultra High-End
+rating: 4.5 star rating
+addr: 425 1st StSan Francisco, CA 94105
+creditCard: Yes
+bikeParking: Yes
+goodForGroups: Yes
+ambience: Trendy
+noiseLevel: Very Loud
+alcohol: Full Bar
+outdoorSeating: Yes
+hasTV: Yes
+
+
+----------------------------------------------------------------
+title: ZenTreks Ltd
+yelpPage: https://www.yelp.com/ /biz/zentreks-ltd-san-francisco
+categories: Outdoor Gear
+price: Ultra High-End
+rating: 5.0 star rating
+addr: 177 Townsend StSan Francisco, CA 94107
+phone: (415) 967-7778
+creditCard: Yes
+parking: Street
+
+
+----------------------------------------------------------------
+title: Barcelino Per Donna
+yelpPage: https://www.yelp.com/ /biz/barcelino-per-donna-san-francisco
+categories: Women's Clothing,Accessories
+price: Ultra High-End
+rating: 3.5 star rating
+phone: (415) 912-5700
+creditCard: Yes
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: Jim Avila, Consulting in Style and Image
+yelpPage: https://www.yelp.com/ /biz/jim-avila-consulting-in-style-and-image-san-francisco
+categories: Makeup Artists
+price: Ultra High-End
+rating: 4.5 star rating
+addr: San Francisco, CA 94199
+phone: (415) 861-2857
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=350&attrs=RestaurantsPriceRange2.4
+----------------------------------------------------------------
+title: Casa Luna SF
+yelpPage: https://www.yelp.com/ /biz/casa-luna-sf-san-francisco
+categories: Hotels
+price: Ultra High-End
+rating: 4.5 star rating
+mon: Open 24 hours
+tue: Open 24 hours
+wed: Open 24 hours
+thu: Open 24 hours
+fri: Open 24 hours
+sat: Open 24 hours
+sun: Open 24 hours
+addr: 4058 17th StSan Francisco, CA 94114
+phone: (415) 738-8121
+creditCard: Yes
+wifi: Free
+
+
+----------------------------------------------------------------
+title: ALNO San Francisco
+yelpPage: https://www.yelp.com/ /biz/alno-san-francisco-san-francisco
+categories: Kitchen & Bath,Interior Design,Cabinetry
+price: Ultra High-End
+rating: 3.0 star rating
+mon: 10:00 am-5:00 pm
+tue: 10:00 am-5:00 pm
+wed: 10:00 am-5:00 pm
+thu: 10:00 am-5:00 pm
+fri: 10:00 am-5:00 pm
+sat: Closed
+sun: Closed
+addr: 243 Brannan StSan Francisco, CA 94107
+phone: (415) 541-0754
+creditCard: Yes
+parking: Street, Validated
+
+
+----------------------------------------------------------------
+title: PIA The Store
+yelpPage: https://www.yelp.com/ /biz/pia-the-store-san-francisco
+categories: Women's Clothing,Jewelry,Accessories
+price: Ultra High-End
+rating: 5.0 star rating
+mon: 11:00 am-6:00 pm
+tue: 11:00 am-6:00 pm
+wed: 11:00 am-6:00 pm
+thu: 11:00 am-6:00 pm
+fri: 11:00 am-6:00 pm
+sat: 11:00 am-6:00 pm
+sun: Closed
+addr: 414 Jackson StSan Francisco, CA 94111
+phone: (628) 222-5713
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: Sui Generis Consignment Womens
+yelpPage: https://www.yelp.com/ /biz/sui-generis-consignment-womens-san-francisco-5
+categories: Women's Clothing,Used, Vintage & Consignment
+price: Ultra High-End
+rating: 3.0 star rating
+mon: 11:00 am-7:00 pm
+tue: 11:00 am-7:00 pm
+wed: 11:00 am-7:00 pm
+thu: 11:00 am-7:00 pm
+fri: 11:00 am-7:00 pm
+sat: 11:00 am-7:00 pm
+sun: 11:00 am-5:00 pm
+addr: 2147 Union StSan Francisco, CA 94123
+phone: (415) 800-7584
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Sarah Stocking Fine Vintage Posters
+yelpPage: https://www.yelp.com/ /biz/sarah-stocking-fine-vintage-posters-san-francisco
+categories: Art Galleries,Framing,Antiques
+price: Ultra High-End
+rating: 5.0 star rating
+mon: 10:00 am-5:30 pm
+tue: 10:00 am-5:30 pm
+wed: 10:00 am-7:00 pm
+thu: 10:00 am-5:30 pm
+fri: 10:00 am-5:30 pm
+sat: 10:00 am-5:30 pm
+sun: Closed
+addr: 368 Jackson StSan Francisco, CA 94111
+phone: (415) 984-0700
+creditCard: Yes
+goodForKids: Yes
+
+
+----------------------------------------------------------------
+title: Villa Aroma Spa
+yelpPage: https://www.yelp.com/ /biz/villa-aroma-spa-san-francisco
+categories: Massage,Day Spas
+price: Ultra High-End
+rating: 2.5 star rating
+addr: 801 Geary StSan Francisco, CA 94109
+phone: (415) 346-8884
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: Mason Liquor &amp; Deli
+yelpPage: https://www.yelp.com/ /biz/mason-liquor-and-deli-san-francisco
+categories: Convenience Stores,Beer, Wine & Spirits
+price: Ultra High-End
+rating: 2.5 star rating
+mon: 8:30 am-12:00 am
+tue: 8:30 am-12:00 am
+wed: 8:30 am-12:00 am
+thu: 8:30 am-12:00 am
+fri: 9:30 am-12:00 am
+sat: 10:30 am-12:00 am
+sun: 10:30 am-12:00 am
+addr: 530 Mason StSan Francisco, CA 94102
+phone: (415) 956-8976
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Deep Sea Cosmetics 1 - Kiosk
+yelpPage: https://www.yelp.com/ /biz/deep-sea-cosmetics-1-kiosk-san-francisco
+categories: Cosmetics & Beauty Supply
+price: Ultra High-End
+rating: 2.0 star rating
+phone: (415) 812-7277
+creditCard: Yes
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Ruti
+yelpPage: https://www.yelp.com/ /biz/ruti-san-francisco
+categories: Accessories,Women's Clothing,Jewelry
+price: Ultra High-End
+rating: 3.0 star rating
+mon: 10:00 am-7:00 pm
+tue: 10:00 am-7:00 pm
+wed: 10:00 am-7:00 pm
+thu: 10:00 am-7:00 pm
+fri: 10:00 am-7:00 pm
+sat: 10:00 am-7:00 pm
+sun: 11:00 am-6:00 pm
+addr: 2119 Fillmore StSan Francisco, CA 94115
+phone: (415) 441-4412
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: Wharf Outdoors
+yelpPage: https://www.yelp.com/ /biz/wharf-outdoors-san-francisco-2
+categories: Sports Wear,Flowers & Gifts
+price: Ultra High-End
+rating: 3.5 star rating
+mon: 9:00 am-11:00 pm
+tue: 9:00 am-11:00 pm
+wed: 9:00 am-11:00 pm
+thu: 9:00 am-11:00 pm
+fri: 9:00 am-11:00 pm
+sat: 9:00 am-11:00 pm
+sun: 9:00 am-11:00 pm
+addr: 2801 Leavenworth StSan Francisco, CA 94133
+phone: (415) 775-5060
+creditCard: Yes
+parking: Garage, Street
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=360&attrs=RestaurantsPriceRange2.4
+----------------------------------------------------------------
+title: Gallery Paule Anglim
+yelpPage: https://www.yelp.com/ /biz/gallery-paule-anglim-san-francisco
+categories: Art Galleries
+price: Ultra High-End
+rating: 3.5 star rating
+mon: Closed
+tue: 10:00 am-5:30 pm
+wed: 10:00 am-5:30 pm
+thu: 10:00 am-5:30 pm
+fri: 10:00 am-5:30 pm
+sat: 10:30 am-5:00 pm
+sun: Closed
+addr: 14 Geary StSan Francisco, CA 94108
+phone: (415) 433-2710
+goodForKids: Yes
+
+
+----------------------------------------------------------------
+title: Button Down
+yelpPage: https://www.yelp.com/ /biz/button-down-san-francisco-2
+categories: Women's Clothing,Men's Clothing,Sports Wear
+price: Ultra High-End
+rating: 3.0 star rating
+addr: 3415 Sacramento StSan Francisco, CA 94118
+phone: (415) 563-1311
+creditCard: Yes
+parking: Street
+
+
+----------------------------------------------------------------
+title: Mo’s Seafood Mac Salad
+yelpPage: https://www.yelp.com/ /biz/mos-seafood-mac-salad-san-francisco
+categories: Food
+price: Ultra High-End
+rating: 5.0 star rating
+addr: SOMA  San FranciscoSan Francisco, CA 94105
+
+
+----------------------------------------------------------------
+title: Sunglass Hut
+yelpPage: https://www.yelp.com/ /biz/sunglass-hut-san-francisco-22
+categories: Eyewear & Opticians,Accessories
+price: Ultra High-End
+rating: 2.5 star rating
+mon: 10:00 am-9:00 pm
+tue: 10:00 am-9:00 pm
+wed: 10:00 am-9:00 pm
+thu: 10:00 am-9:00 pm
+fri: 10:00 am-9:00 pm
+sat: 10:00 am-9:00 pm
+sun: 12:00 pm-6:00 pm
+addr: 3251 20th AvenueSan Francisco, CA 94132
+phone: (415) 665-4167
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: Gallery 55
+yelpPage: https://www.yelp.com/ /biz/gallery-55-san-francisco
+categories: Jewelry,Home Decor
+price: Ultra High-End
+rating: 2.5 star rating
+mon: 9:00 am-7:00 pm
+tue: 9:00 am-9:00 pm
+wed: 9:00 am-9:00 pm
+thu: 9:00 am-9:00 pm
+fri: 9:00 am-9:00 pm
+sat: 9:00 am-9:00 pm
+sun: 10:00 am-9:00 pm
+addr: 51 Jefferson StSan Francisco, CA 94133
+phone: (415) 834-1872
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: Caviar
+yelpPage: https://www.yelp.com/ /biz/caviar-san-francisco-8
+categories: Food Delivery Services
+price: Ultra High-End
+rating: 2.0 star rating
+addr: 1455 Market StSan Francisco, CA 94103
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: Grace Jewelry
+yelpPage: https://www.yelp.com/ /biz/grace-jewelry-san-francisco
+categories: Jewelry
+price: Ultra High-End
+rating: 1.5 star rating
+addr: 121 Ofarrell StreetSan Francisco, CA 94102
+phone: (415) 398-1868
+creditCard: Yes
+parking: Garage
+
+
+----------------------------------------------------------------
+title: Alcatraz Mini Market
+yelpPage: https://www.yelp.com/ /biz/alcatraz-mini-market-san-francisco
+categories: Grocery
+price: Ultra High-End
+rating: 4.0 star rating
+mon: 9:00 am-12:00 am
+tue: 9:00 am-12:00 am
+wed: 9:00 am-12:00 am
+thu: 9:00 am-12:00 am
+fri: 9:00 am-2:00 am
+sat: 9:00 am-2:00 am
+sun: 9:00 am-12:00 am
+addr: 757 Beach StSan Francisco, CA 94109
+phone: (415) 931-9103
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Clean-X-Press
+yelpPage: https://www.yelp.com/ /biz/clean-x-press-san-francisco-4
+categories: Dry Cleaning & Laundry
+price: Ultra High-End
+rating: 1.5 star rating
+mon: 7:00 am-11:00 pm
+tue: 7:00 am-11:00 pm
+wed: 7:00 am-11:00 pm
+thu: 7:00 am-11:00 pm
+fri: 7:00 am-11:00 pm
+sat: 7:00 am-11:00 pm
+sun: 7:00 am-11:00 pm
+addr: 401 Judah StSan Francisco, CA 94122
+phone: (415) 681-7830
+creditCard: No
+parking: Private Lot
+bikeParking: No
+wifi: No
+
+
+----------------------------------------------------------------
+title: Lakeshore Cleaners
+yelpPage: https://www.yelp.com/ /biz/lakeshore-cleaners-san-francisco
+categories: Dry Cleaning & Laundry
+price: Ultra High-End
+rating: 2.0 star rating
+mon: 7:30 am-6:30 pm
+tue: 7:30 am-6:30 pm
+wed: 7:30 am-6:30 pm
+thu: 7:30 am-6:30 pm
+fri: 7:30 am-6:30 pm
+sat: 8:30 am-5:30 pm
+sun: Closed
+addr: 1557 Sloat BlvdSan Francisco, CA 94132
+phone: (415) 753-5458
+creditCard: Yes
+parking: Private Lot
+wifi: No
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=370&attrs=RestaurantsPriceRange2.4
+----------------------------------------------------------------
+title: Venusian Gardens West
+yelpPage: https://www.yelp.com/ /biz/venusian-gardens-west-san-francisco
+categories: Art Galleries
+price: Ultra High-End
+rating: 4.0 star rating
+addr: 1286 Folsom StSan Francisco, CA 94103
+phone: (415) 692-1952
+goodForKids: No
+
+
+----------------------------------------------------------------
+title: Kiton
+yelpPage: https://www.yelp.com/ /biz/kiton-san-francisco
+categories: Bespoke Clothing
+price: Ultra High-End
+rating: 4.0 star rating
+phone: (415) 989-7000
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: Snow Skin Spa
+yelpPage: https://www.yelp.com/ /biz/snow-skin-spa-san-francisco
+categories: Waxing,Skin Care,Cosmetics & Beauty Supply
+price: Ultra High-End
+rating: 3.5 star rating
+mon: 11:00 am-8:00 pm
+tue: 11:00 am-8:00 pm
+wed: 11:00 am-8:00 pm
+thu: 11:00 am-8:00 pm
+fri: 11:00 am-7:00 pm
+sat: 11:00 am-7:00 pm
+sun: 11:00 am-7:00 pm
+addr: 3443 Balboa StSan Francisco, CA 94121
+phone: (415) 702-6468
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Coiniop Washidry
+yelpPage: https://www.yelp.com/ /biz/coiniop-washidry-san-francisco
+categories: Dry Cleaning & Laundry
+price: Ultra High-End
+rating: 4.0 star rating
+addr: 1101 Irving StSan Francisco, CA 94122
+creditCard: No
+applePay: No
+bikeParking: No
+wifi: No
+
+
+----------------------------------------------------------------
+title: Firenze Fine Arts Inc
+yelpPage: https://www.yelp.com/ /biz/firenze-fine-arts-inc-san-francisco-2
+categories: Art Galleries,Framing
+price: Ultra High-End
+rating: 3.0 star rating
+addr: 235 Jefferson StSan Francisco, CA 94133
+creditCard: Yes
+parking: Street
+goodForKids: No
+
+
+----------------------------------------------------------------
+title: Bosley - Hair Restoration
+yelpPage: https://www.yelp.com/ /biz/bosley-hair-restoration-san-francisco
+categories: Cosmetic Surgeons,Medical Spas,Hair Loss Centers
+price: Ultra High-End
+rating: 3.0 star rating
+mon: 8:00 am-5:00 pm
+tue: 8:00 am-5:00 pm
+wed: 8:00 am-5:00 pm
+thu: 8:00 am-5:00 pm
+fri: 8:00 am-5:00 pm
+sat: Closed
+sun: Closed
+addr: 50 Francisco StSan Francisco, CA 94133
+phone: (888) 439-6570
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: Kindersport
+yelpPage: https://www.yelp.com/ /biz/kindersport-san-francisco
+categories: Children's Clothing,Sports Wear
+price: Ultra High-End
+rating: 4.0 star rating
+addr: 3566 Sacramento StSan Francisco, CA 94118
+phone: (415) 563-7778
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: Surprise Party
+yelpPage: https://www.yelp.com/ /biz/surprise-party-san-francisco
+categories: Arts & Crafts,Antiques
+price: Ultra High-End
+rating: 1.5 star rating
+mon: 1:00 am-6:00 pm
+tue: 1:00 pm-6:00 pm
+wed: 1:00 pm-6:00 pm
+thu: 1:00 pm-6:00 pm
+fri: 1:00 pm-6:00 pm
+sat: 1:00 pm-6:00 pm
+sun: Closed
+addr: 1900A Fillmore StSan Francisco, CA 94115
+phone: (415) 771-8550
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Mandarin Lounge
+yelpPage: https://www.yelp.com/ /biz/mandarin-lounge-san-francisco
+categories: Lounges
+price: Ultra High-End
+rating: 1.0 star rating
+addr: 222 Sansome StSan Francisco, CA 94104
+phone: (415) 276-9888
+creditCard: No
+goodForGroups: Yes
+alcohol: Full Bar
+outdoorSeating: Yes
+hasTV: Yes
+
+
+----------------------------------------------------------------
+title: Ealge Jewelry
+yelpPage: https://www.yelp.com/ /biz/ealge-jewelry-san-francisco-2
+categories: Pawn Shops
+price: Ultra High-End
+rating: 2.5 star rating
+addr: 2255 Mission StSan Francisco, CA 94110
+phone: (415) 285-5100
+creditCard: Yes
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=380&attrs=RestaurantsPriceRange2.4
+----------------------------------------------------------------
+title: Rent-A-Center
+yelpPage: https://www.yelp.com/ /biz/rent-a-center-san-francisco
+categories: Furniture Stores,Appliances
+price: Ultra High-End
+rating: 1.5 star rating
+mon: 10:00 am-7:00 pm
+tue: 10:00 am-7:00 pm
+wed: 10:00 am-7:00 pm
+thu: 10:00 am-7:00 pm
+fri: 10:00 am-7:00 pm
+sat: 9:00 am-6:00 pm
+sun: Closed
+addr: 2853 Mission StSan Francisco, CA 94110
+phone: (415) 282-2522
+creditCard: Yes
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Mark Kai Company
+yelpPage: https://www.yelp.com/ /biz/mark-kai-company-san-francisco
+categories: Watches,Jewelry
+price: Ultra High-End
+rating: 2.0 star rating
+mon: 10:30 am-5:30 pm
+tue: 10:30 am-5:30 pm
+wed: 10:30 am-5:30 pm
+thu: 10:30 am-5:30 pm
+fri: 10:30 am-5:30 pm
+sat: 10:30 am-5:30 pm
+sun: Closed
+addr: 802 Clement StSan Francisco, CA 94118
+phone: (415) 751-7232
+creditCard: No
+applePay: No
+
+
+----------------------------------------------------------------
+title: Gregory Lind Gallery
+yelpPage: https://www.yelp.com/ /biz/gregory-lind-gallery-san-francisco
+categories: Art Galleries
+price: Ultra High-End
+rating: 4.5 star rating
+addr: 49 Geary StreetSan Francisco, CA 94108
+phone: (415) 296-9661
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: Botanica Ibeyi
+yelpPage: https://www.yelp.com/ /biz/botanica-ibeyi-san-francisco
+categories: Home Decor
+price: Ultra High-End
+rating: 2.5 star rating
+addr: 205 Ocean AveSan Francisco, CA 94112
+phone: (415) 587-8001
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: China Gem Company
+yelpPage: https://www.yelp.com/ /biz/china-gem-company-san-francisco
+categories: Art Supplies,Jewelry
+price: Ultra High-End
+rating: 4.0 star rating
+addr: 500 Grant AveSan Francisco, CA 94108
+phone: (415) 397-5070
+creditCard: No
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: Hair Club
+yelpPage: https://www.yelp.com/ /biz/hair-club-san-francisco
+categories: Hair Loss Centers
+price: Ultra High-End
+rating: 2.5 star rating
+mon: Closed
+tue: 11:00 am-7:00 pm
+wed: 11:00 am-7:00 pm
+thu: 9:00 am-5:00 pm
+fri: 9:00 am-5:00 pm
+sat: 8:00 am-4:00 pm
+sun: Closed
+addr: 221 Main StSan Francisco, CA 94105
+phone: (919) 205-0991
+creditCard: No
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: SOHO
+yelpPage: https://www.yelp.com/ /biz/soho-san-francisco
+categories: Accessories
+price: Ultra High-End
+rating: 2.0 star rating
+mon: 9:00 am-8:30 pm
+tue: 9:00 am-8:30 pm
+wed: 9:00 am-8:30 pm
+thu: 9:00 am-8:30 pm
+fri: 9:00 am-8:30 pm
+sat: 9:00 am-8:30 pm
+sun: 11:00 am-7:00 pm
+addr: 865 Market StSan Francisco, CA 94105
+phone: (415) 543-1021
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: SuiteAmerica
+yelpPage: https://www.yelp.com/ /biz/suiteamerica-san-francisco
+categories: Hotels
+price: Ultra High-End
+rating: 3.0 star rating
+mon: 8:30 am-5:00 pm
+tue: 8:30 am-5:00 pm
+wed: 8:30 am-5:00 pm
+thu: 8:30 am-5:00 pm
+fri: 8:30 am-5:00 pm
+sat: Closed
+sun: Closed
+addr: 680 Mission StSan Francisco, CA 94105
+phone: (415) 341-1738
+creditCard: Yes
+wifi: Free
+
+
+----------------------------------------------------------------
+title: Pacific Pulmonary Service
+yelpPage: https://www.yelp.com/ /biz/pacific-pulmonary-service-san-francisco
+categories: Medical Supplies
+price: Ultra High-End
+rating: 1.5 star rating
+addr: 2121 Evans AveSan Francisco, CA 94124
+phone: (415) 647-7544
+
+
+----------------------------------------------------------------
+title: Vitra
+yelpPage: https://www.yelp.com/ /biz/vitra-san-francisco
+categories: Office Equipment,Furniture Stores
+price: Ultra High-End
+rating: 4.0 star rating
+addr: 557 Pacific AveSan Francisco, CA 94133
+phone: (415) 296-0711
+creditCard: Yes
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=390&attrs=RestaurantsPriceRange2.4
+----------------------------------------------------------------
+title: Daily Produce
+yelpPage: https://www.yelp.com/ /biz/daily-produce-san-francisco
+categories: Grocery
+price: Ultra High-End
+rating: 3.0 star rating
+addr: 1215 Stockton StreetSan Francisco, CA 94133
+phone: (415) 296-9598
+
+
+----------------------------------------------------------------
+title: Unitfone Wireless
+yelpPage: https://www.yelp.com/ /biz/unitfone-wireless-san-francisco-2
+categories: Mobile Phones
+price: Ultra High-End
+rating: 3.0 star rating
+mon: 10:00 am-7:00 pm
+tue: 10:00 am-7:00 pm
+wed: 10:00 am-7:00 pm
+thu: 10:00 am-7:00 pm
+fri: 10:00 am-7:00 pm
+sat: 10:00 am-7:00 pm
+sun: 10:00 am-7:00 pm
+addr: 2700 San Bruno AveSan Francisco, CA 94134
+phone: (415) 715-0118
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: Ivy Hotel
+yelpPage: https://www.yelp.com/ /biz/ivy-hotel-san-francisco
+categories: Hotels
+price: Ultra High-End
+rating: 3.0 star rating
+addr: 539 Octavia StreetSan Francisco, CA 94102
+phone: (415) 863-6388
+creditCard: Yes
+wifi: Free
+
+
+----------------------------------------------------------------
+title: Barneys New York
+yelpPage: https://www.yelp.com/ /biz/barneys-new-york-san-francisco
+categories: Men's Clothing,Women's Clothing,Shoe Stores
+price: Ultra High-End
+rating: 3.5 star rating
+mon: 10:00 am-7:00 pm
+tue: 10:00 am-7:00 pm
+wed: 10:00 am-7:00 pm
+thu: 10:00 am-8:00 pm
+fri: 10:00 am-7:00 pm
+sat: 10:00 am-7:00 pm
+sun: 12:00 pm-7:00 pm
+addr: 77 O&#39;Farrell StSan Francisco, CA 94108
+phone: (415) 268-3500
+creditCard: Yes
+applePay: Yes
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: Van Cleef &amp; Arpels
+yelpPage: https://www.yelp.com/ /biz/van-cleef-and-arpels-san-francisco-2
+categories: Jewelry,Watches
+price: Ultra High-End
+rating: 5.0 star rating
+mon: 10:00 am-5:30 pm
+tue: 10:00 am-5:30 pm
+wed: 10:00 am-5:30 pm
+thu: 10:00 am-5:30 pm
+fri: 10:00 am-5:30 pm
+sat: 10:00 am-5:30 pm
+sun: 12:00 pm-4:30 pm
+addr: 150 Stockton StSan Francisco, CA 94108
+phone: (415) 362-3900
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: Yes
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=130&attrs=RestaurantsPriceRange2.4
+----------------------------------------------------------------
+title: Kent Cleaners
+yelpPage: https://www.yelp.com/ /biz/kent-cleaners-san-francisco
+categories: Dry Cleaning & Laundry
+price: Ultra High-End
+rating: 3.5 star rating
+mon: 7:30 am-6:30 pm
+tue: 7:30 am-6:30 pm
+wed: 7:30 am-6:30 pm
+thu: 7:30 am-6:30 pm
+fri: 7:30 am-6:30 pm
+sat: 8:30 am-5:30 pm
+sun: Closed
+addr: 601 3rd AveSan Francisco, CA 94118
+phone: (415) 751-5478
+creditCard: Yes
+parking: Street
+wifi: No
+
+
+----------------------------------------------------------------
+title: Saks Fifth Avenue
+yelpPage: https://www.yelp.com/ /biz/saks-fifth-avenue-san-francisco
+categories: Women's Clothing,Accessories,Shoe Stores
+price: Ultra High-End
+rating: 3.5 star rating
+mon: 10:00 am-7:00 pm
+tue: 10:00 am-7:00 pm
+wed: 10:00 am-7:00 pm
+thu: 10:00 am-8:00 pm
+fri: 10:00 am-8:00 pm
+sat: 10:00 am-8:00 pm
+sun: 12:00 pm-7:00 pm
+addr: 384 Post StSan Francisco, CA 94108
+phone: (415) 986-4300
+creditCard: Yes
+applePay: Yes
+parking: Garage
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Adore Organic Innovations
+yelpPage: https://www.yelp.com/ /biz/adore-organic-innovations-san-francisco
+categories: Cosmetics & Beauty Supply,Skin Care
+price: Ultra High-End
+rating: 3.5 star rating
+mon: 10:00 am-10:00 pm
+tue: 10:00 am-10:00 pm
+wed: 10:00 am-10:00 pm
+thu: 10:00 am-10:00 pm
+fri: 10:00 am-10:00 pm
+sat: 10:00 am-10:00 pm
+sun: 10:00 am-10:00 pm
+addr: 188 Ofarrell StSan Francisco, CA 94102
+phone: (844) 377-7753
+creditCard: Yes
+parking: Garage
+bikeParking: Yes
+
+
+
+----------------------------------------------------------------
+title: Mi Lindo Peru
+yelpPage: https://www.yelp.com/ /biz/mi-lindo-peru-san-francisco-3
+categories: Peruvian
+price: $11-30
+rating: 4.0 star rating
+mon: 11:30 am-2:30 pm5:00 pm-9:00 pm
+tue: 11:30 am-2:30 pm5:00 pm-9:00 pm
+wed: 11:30 am-2:30 pm5:00 pm-9:00 pm
+thu: 11:30 am-2:30 pm5:00 pm-9:00 pm
+fri: 11:30 am-2:30 pm5:00 pm-9:00 pm
+sat: 12:00 pm-4:00 pm5:00 pm-9:00 pm
+sun: 12:00 pm-4:00 pm5:00 pm-9:00 pm
+addr: 3226 Mission StSan Francisco, CA 94110
+phone: (415) 642-4897
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=160&attrs=RestaurantsPriceRange2.2
+----------------------------------------------------------------
+title: Fable
+yelpPage: https://www.yelp.com/ /biz/fable-san-francisco
+categories: American (New)
+price: $11-30
+rating: 4.0 star rating
+mon: Closed
+tue: 5:00 pm-10:00 pm
+wed: 5:00 pm-10:00 pm
+thu: 5:00 pm-10:00 pm
+fri: 5:00 pm-10:00 pm
+sat: 11:00 am-2:00 pm5:00 pm-10:00 pm
+sun: 11:00 am-2:00 pm5:00 pm-9:00 pm
+addr: 558 Castro StSan Francisco, CA 94114
+phone: (415) 590-2404
+reservations: Yes
+delivery: No
+takeout: No
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Third Rail
+yelpPage: https://www.yelp.com/ /biz/third-rail-san-francisco
+categories: Cocktail Bars
+price: Moderate
+rating: 4.5 star rating
+mon: 3:00 pm-12:00 am
+tue: 3:00 pm-12:00 am
+wed: 3:00 pm-12:00 am
+thu: 3:00 pm-2:00 am
+fri: 3:00 pm-2:00 am
+sat: 3:00 pm-2:00 am
+sun: 3:00 pm-12:00 am
+addr: 628 20th StSan Francisco, CA 94107
+phone: (415) 252-7966
+reservations: No
+creditCard: Yes
+applePay: Yes
+parking: Street
+bikeParking: Yes
+goodForGroups: Yes
+ambience: Hipster
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+hasTV: Yes
+
+
+----------------------------------------------------------------
+title: Waystone
+yelpPage: https://www.yelp.com/ /biz/waystone-san-francisco-2
+categories: Salad,Sandwiches,Wine Bars
+price: $11-30
+rating: 5.0 star rating
+mon: 12:00 pm-10:00 pm
+tue: 12:00 pm-10:00 pm
+wed: 12:00 pm-10:00 pm
+thu: 12:00 pm-10:00 pm
+fri: 12:00 pm-10:00 pm
+sat: 1:00 pm-8:00 pm
+sun: 1:00 pm-6:00 pm
+addr: 992 Market StSan Francisco, CA 94102
+phone: (628) 444-3323
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: Free
+hasTV: No
+
+
+----------------------------------------------------------------
+title: Garaje
+yelpPage: https://www.yelp.com/ /biz/garaje-san-francisco
+categories: Mexican,Burgers,Gastropubs
+price: $11-30
+rating: 4.5 star rating
+mon: 11:30 am-10:00 pm
+tue: 11:30 am-10:00 pm
+wed: 11:30 am-10:00 pm
+thu: 11:30 am-10:00 pm
+fri: 11:30 am-10:00 pm
+sat: 5:00 pm-10:00 pm
+sun: Closed
+addr: 475 3rd StSan Francisco, CA 94107
+phone: (415) 644-0838
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: No
+applePay: No
+goodFor: Lunch, Dinner
+parking: Street
+bikeParking: No
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: Yes
+waiterService: No
+driveThrough: No
+caters: No
+
+
+----------------------------------------------------------------
+title: PianoFight
+yelpPage: https://www.yelp.com/ /biz/pianofight-san-francisco
+categories: Bars,American (New),Performing Arts
+price: $11-30
+rating: 4.5 star rating
+mon: 5:00 pm-10:00 pm
+tue: 5:00 pm-10:00 pm
+wed: 5:00 pm-12:00 am
+thu: 5:00 pm-12:00 am
+fri: 5:00 pm-2:00 am
+sat: 5:00 pm-2:00 am
+sun: 5:00 pm-10:00 pm
+addr: 144 Taylor StSan Francisco, CA 94102
+phone: (415) 816-3691
+reservations: No
+delivery: No
+takeout: No
+creditCard: Yes
+applePay: No
+goodFor: Dinner, Late Night
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+wifi: Free
+hasTV: No
+waiterService: No
+caters: No
+
+
+----------------------------------------------------------------
+title: Etcetera Wine Bar
+yelpPage: https://www.yelp.com/ /biz/etcetera-wine-bar-san-francisco
+categories: Wine Bars,American (New),Tapas/Small Plates
+price: $11-30
+rating: 4.0 star rating
+mon: 5:00 pm-12:00 am
+tue: 5:00 pm-12:00 am
+wed: 5:00 pm-12:00 am
+thu: 5:00 pm-12:00 am
+fri: 5:00 pm-1:30 am
+sat: 5:00 pm-1:30 am
+sun: 5:00 pm-11:00 pm
+addr: 795 Valencia StSan Francisco, CA 94110
+phone: (415) 926-5477
+reservations: No
+delivery: No
+takeout: No
+creditCard: Yes
+applePay: No
+goodFor: Dinner, Late Night
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+ambience: Intimate
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: Free
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: New Eritrea Restaurant &amp; Bar
+yelpPage: https://www.yelp.com/ /biz/new-eritrea-restaurant-and-bar-san-francisco
+categories: Ethiopian,Vegetarian
+price: $11-30
+rating: 4.0 star rating
+mon: 4:00 pm-10:00 pm
+tue: 4:00 pm-10:00 pm
+wed: 4:00 pm-10:00 pm
+thu: 4:00 pm-10:00 pm
+fri: 4:00 pm-10:00 pm
+sat: 4:00 pm-10:00 pm
+sun: 4:00 pm-9:00 pm
+addr: 907 Irving StSan Francisco, CA 94122
+phone: (415) 681-1288
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+wifi: No
+hasTV: Yes
+waiterService: Yes
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Nabe
+yelpPage: https://www.yelp.com/ /biz/nabe-san-francisco-3
+categories: Hot Pot,Japanese
+price: $11-30
+rating: 4.0 star rating
+mon: 5:00 pm-10:30 pm
+tue: 5:00 pm-10:30 pm
+wed: 5:00 pm-10:30 pm
+thu: 5:00 pm-10:30 pm
+fri: 5:00 pm-11:00 pm
+sat: 5:00 pm-11:00 pm
+sun: 5:00 pm-10:30 pm
+addr: 1325 9th AveSan Francisco, CA 94122
+phone: (415) 731-2658
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Swan Oyster Depot
+yelpPage: https://www.yelp.com/ /biz/swan-oyster-depot-san-francisco
+categories: Seafood
+price: $11-30
+rating: 4.0 star rating
+mon: 10:30 am-5:30 pm
+tue: 10:30 am-5:30 pm
+wed: 10:30 am-5:30 pm
+thu: 10:30 am-5:30 pm
+fri: 10:30 am-5:30 pm
+sat: 10:30 am-5:30 pm
+sun: Closed
+addr: 1517 Polk StSan Francisco, CA 94109
+phone: (415) 673-1101
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: No
+applePay: No
+goodFor: Lunch
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Molinari Delicatessen
+yelpPage: https://www.yelp.com/ /biz/molinari-delicatessen-san-francisco
+categories: Delis
+price: $11-30
+rating: 4.5 star rating
+mon: 9:00 am-6:00 pm
+tue: 9:00 am-6:00 pm
+wed: 9:00 am-6:00 pm
+thu: 9:00 am-6:00 pm
+fri: 9:00 am-6:00 pm
+sat: 9:00 am-5:30 pm
+sun: Closed
+addr: 373 Columbus AveSan Francisco, CA 94133
+phone: (415) 421-2337
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Lunch
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: No
+caters: Yes
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=170&attrs=RestaurantsPriceRange2.2
+----------------------------------------------------------------
+title: Plow
+yelpPage: https://www.yelp.com/ /biz/plow-san-francisco
+categories: Breakfast & Brunch,American (New)
+price: $11-30
+rating: 4.0 star rating
+mon: 7:00 am-2:00 pm
+tue: 7:00 am-2:00 pm
+wed: 7:00 am-2:00 pm
+thu: 7:00 am-2:00 pm
+fri: 7:00 am-2:00 pm
+sat: 8:00 am-2:00 pm
+sun: 8:00 am-2:00 pm
+addr: 1299 18th StSan Francisco, CA 94107
+phone: (415) 821-7569
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Breakfast, Brunch
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Gialina Pizzeria
+yelpPage: https://www.yelp.com/ /biz/gialina-pizzeria-san-francisco
+categories: Pizza,Italian
+price: $11-30
+rating: 4.0 star rating
+mon: 5:00 pm-10:00 pm
+tue: 5:00 pm-10:00 pm
+wed: 5:00 pm-10:00 pm
+thu: 5:00 pm-10:00 pm
+fri: 5:00 pm-10:30 pm
+sat: 5:00 pm-10:30 pm
+sun: 5:00 pm-10:00 pm
+addr: 2842 Diamond StSan Francisco, CA 94131
+phone: (415) 239-8500
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Chloe’s Cafe
+yelpPage: https://www.yelp.com/ /biz/chloes-cafe-san-francisco
+categories: Breakfast & Brunch
+price: $11-30
+rating: 4.0 star rating
+mon: 8:00 am-3:00 pm
+tue: 8:00 am-3:00 pm
+wed: 8:00 am-3:00 pm
+thu: 8:00 am-3:00 pm
+fri: 8:00 am-3:00 pm
+sat: 8:00 am-2:30 pm
+sun: 8:00 am-2:30 pm
+addr: 1399 Church StSan Francisco, CA 94114
+phone: (415) 648-4116
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Breakfast, Brunch
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: No
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Chez Maman West
+yelpPage: https://www.yelp.com/ /biz/chez-maman-west-san-francisco-2
+categories: French,Burgers
+price: $11-30
+rating: 4.0 star rating
+mon: 11:30 am-10:30 pm
+tue: 11:30 am-10:30 pm
+wed: 11:30 am-10:30 pm
+thu: 11:30 am-10:30 pm
+fri: 11:30 am-10:30 pm
+sat: 10:30 am-10:30 pm
+sun: 10:30 am-10:30 pm
+addr: 401 Gough StSan Francisco, CA 94102
+phone: (415) 355-9067
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: No
+goodForKids: No
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: Yes
+driveThrough: No
+caters: Yes
+
+
+----------------------------------------------------------------
+title: La Mediterranee
+yelpPage: https://www.yelp.com/ /biz/la-mediterranee-san-francisco-7
+categories: Mediterranean,Middle Eastern,Breakfast & Brunch
+price: $11-30
+rating: 4.0 star rating
+mon: 11:00 am-10:00 pm
+tue: 11:00 am-10:00 pm
+wed: 11:00 am-10:00 pm
+thu: 11:00 am-10:00 pm
+fri: 11:00 am-10:30 pm
+sat: 11:00 am-10:30 pm
+sun: 11:00 am-9:00 pm
+addr: 288 Noe StSan Francisco, CA 94114
+phone: (415) 431-7210
+reservations: No
+delivery: Yes
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Lunch, Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Topsy’s Fun House
+yelpPage: https://www.yelp.com/ /biz/topsys-fun-house-san-francisco
+categories: Cocktail Bars,Lounges
+price: Moderate
+rating: 4.5 star rating
+mon: 2:00 pm-2:00 am
+tue: 2:00 pm-2:00 am
+wed: 2:00 pm-2:00 am
+thu: 2:00 pm-2:00 am
+fri: 2:00 pm-2:00 am
+sat: 5:00 pm-2:00 am
+sun: 2:00 pm-9:00 pm
+addr: 260 Kearny StSan Francisco, CA 94108
+phone: (415) 757-0290
+reservations: Yes
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: Yes
+goodForGroups: Yes
+ambience: Trendy
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: Yes
+hasTV: Yes
+
+
+
+----------------------------------------------------------------
+title: Modernist
+yelpPage: https://www.yelp.com/ /biz/modernist-san-francisco
+categories: Supper Clubs,Cocktail Bars,Social Clubs
+price: Above $61
+rating: 3.5 star rating
+mon: Closed
+tue: 6:00 pm-11:00 pm
+wed: 6:00 pm-11:00 pm
+thu: 6:00 pm-11:00 pm
+fri: 6:00 pm-1:00 am
+sat: 6:00 pm-1:00 am
+sun: Closed
+addr: 139 Steuart StSan Francisco, CA 94105
+reservations: Yes
+delivery: No
+takeout: No
+creditCard: Yes
+applePay: No
+bikeParking: No
+goodForKids: No
+goodForGroups: Yes
+attire: Dressy
+noiseLevel: Loud
+alcohol: Full Bar
+outdoorSeating: No
+wifi: Free
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Martin Lawrence Galleries
+yelpPage: https://www.yelp.com/ /biz/martin-lawrence-galleries-san-francisco
+categories: Art Galleries
+price: Ultra High-End
+rating: 4.0 star rating
+mon: 10:00 am-6:00 pm
+tue: 10:00 am-6:00 pm
+wed: 10:00 am-6:00 pm
+thu: 10:00 am-6:00 pm
+fri: 10:00 am-8:00 pm
+sat: 10:00 am-8:00 pm
+sun: 10:00 am-6:00 pm
+addr: 366 Geary StSan Francisco, CA 94102
+phone: (415) 956-0345
+creditCard: Yes
+parking: Street
+goodForKids: No
+
+
+----------------------------------------------------------------
+title: Steven’s Manufacturing Jewelers
+yelpPage: https://www.yelp.com/ /biz/stevens-manufacturing-jewelers-san-francisco-4
+categories: Gold Buyers,Watches,Jewelry Repair
+price: Ultra High-End
+rating: 5.0 star rating
+mon: 10:00 am-4:30 pm
+tue: 10:00 am-4:30 pm
+wed: 10:00 am-4:30 pm
+thu: 10:00 am-4:30 pm
+fri: 10:00 am-4:30 pm
+sat: Closed
+sun: Closed
+addr: 490 Post StSan Francisco, CA 94102
+phone: (415) 398-8783
+creditCard: No
+applePay: No
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Golden Gate Needlepoint
+yelpPage: https://www.yelp.com/ /biz/golden-gate-needlepoint-san-francisco
+categories: Arts & Crafts
+price: Ultra High-End
+rating: 5.0 star rating
+mon: Closed
+tue: 10:00 am-5:00 pm
+wed: 10:00 am-5:00 pm
+thu: 10:00 am-5:00 pm
+fri: 10:00 am-5:00 pm
+sat: 10:30 am-4:30 pm
+sun: Closed
+addr: 3310 Sacramento StSan Francisco, CA 94118
+phone: (415) 345-8779
+creditCard: Yes
+parking: Street
+
+
+----------------------------------------------------------------
+title: Christopher Clark Fine Art
+yelpPage: https://www.yelp.com/ /biz/christopher-clark-fine-art-san-francisco
+categories: Art Galleries
+price: Ultra High-End
+rating: 4.5 star rating
+mon: 10:00 am-6:00 pm
+tue: 10:00 am-6:00 pm
+wed: 10:00 am-6:00 pm
+thu: 10:00 am-9:00 pm
+fri: 10:00 am-6:00 pm
+sat: 10:00 am-6:00 pm
+sun: 10:00 am-6:00 pm
+phone: (415) 397-7781
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+
+
+----------------------------------------------------------------
+title: Uomo European Menswear
+yelpPage: https://www.yelp.com/ /biz/uomo-european-menswear-san-francisco
+categories: Men's Clothing
+price: Ultra High-End
+rating: 4.0 star rating
+mon: 9:30 am-6:30 pm
+tue: 9:30 am-6:30 pm
+wed: 9:30 am-6:30 pm
+thu: 9:30 am-6:30 pm
+fri: 9:30 am-6:30 pm
+sat: 9:30 am-6:30 pm
+sun: Closed
+addr: 475 Sutter StSan Francisco, CA 94108
+phone: (415) 989-8666
+creditCard: Yes
+parking: Garage, Street
+bikeParking: Yes
+
+
+
+----------------------------------------------------------------
+title: Red Hill Station
+yelpPage: https://www.yelp.com/ /biz/red-hill-station-san-francisco
+categories: Seafood
+price: $11-30
+rating: 4.5 star rating
+mon: 11:00 am-10:00 pm
+tue: 11:00 am-10:00 pm
+wed: 11:00 am-10:00 pm
+thu: 11:00 am-10:00 pm
+fri: 11:00 am-10:00 pm
+sat: 11:00 am-10:00 pm
+sun: 11:00 am-10:00 pm
+addr: 803 Cortland AveSan Francisco, CA 94110
+phone: (415) 757-0480
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: The Residence
+yelpPage: https://www.yelp.com/ /biz/the-residence-san-francisco
+categories: Lounges
+price: Moderate
+rating: 4.0 star rating
+mon: 5:00 pm-2:00 am
+tue: 5:00 pm-2:00 am
+wed: 5:00 pm-2:00 am
+thu: 5:00 pm-2:00 am
+fri: 5:00 pm-2:00 am
+sat: 5:00 pm-2:00 am
+sun: 5:00 pm-2:00 am
+addr: 718 14th StSan Francisco, CA 94114
+phone: (415) 797-8866
+reservations: No
+creditCard: No
+applePay: No
+parking: Street
+bikeParking: Yes
+goodForGroups: Yes
+ambience: Casual
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+hasTV: Yes
+
+
+----------------------------------------------------------------
+title: BEL
+yelpPage: https://www.yelp.com/ /biz/bel-san-francisco
+categories: Belgian,Bars,Modern European
+price: $11-30
+rating: 4.5 star rating
+mon: Closed
+tue: 5:00 pm-9:30 pm
+wed: 5:00 pm-9:30 pm
+thu: 5:00 pm-9:30 pm
+fri: 5:00 pm-10:00 pm
+sat: 5:00 pm-10:00 pm
+sun: Closed
+addr: 3215 Mission StSan Francisco, CA 94110
+phone: (415) 206-1000
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: Free
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Taylor Street Coffee Shop
+yelpPage: https://www.yelp.com/ /biz/taylor-street-coffee-shop-san-francisco
+categories: Breakfast & Brunch,Burgers,Sandwiches
+price: $11-30
+rating: 4.0 star rating
+mon: 7:00 am-2:00 pm
+tue: 7:00 am-2:00 pm
+wed: 7:00 am-2:00 pm
+thu: 7:00 am-2:00 pm
+fri: 7:00 am-2:00 pm
+sat: 7:00 am-2:00 pm
+sun: 7:00 am-2:00 pm
+addr: 375 Taylor StSan Francisco, CA 94102
+phone: (415) 567-4031
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Breakfast, Brunch
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: No
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+driveThrough: No
+caters: No
+
+
+----------------------------------------------------------------
+title: Manora’s Thai Cuisine
+yelpPage: https://www.yelp.com/ /biz/manoras-thai-cuisine-san-francisco
+categories: Thai,Cocktail Bars
+price: $11-30
+rating: 4.0 star rating
+mon: 11:30 am-2:30 pm5:30 pm-9:30 pm
+tue: 11:30 am-2:30 pm5:30 pm-9:30 pm
+wed: 11:30 am-2:30 pm5:30 pm-9:30 pm
+thu: 11:30 am-2:30 pm5:30 pm-9:30 pm
+fri: 11:30 am-2:30 pm5:30 pm-10:00 pm
+sat: 5:30 pm-10:00 pm
+sun: Closed
+addr: 1600 Folsom StSan Francisco, CA 94103
+phone: (415) 861-6224
+reservations: Yes
+delivery: Yes
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Delessio Market &amp; Bakery
+yelpPage: https://www.yelp.com/ /biz/delessio-market-and-bakery-san-francisco
+categories: Bakeries,Delis,Caterers
+price: $11-30
+rating: 4.0 star rating
+mon: 7:00 am-7:30 pm
+tue: 7:00 am-7:30 pm
+wed: 7:00 am-7:30 pm
+thu: 7:00 am-7:30 pm
+fri: 7:00 am-7:30 pm
+sat: 9:00 am-4:30 pm
+sun: 9:00 am-4:30 pm
+addr: 1695 Market StSan Francisco, CA 94103
+phone: (415) 552-5559
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Lunch
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: No
+
+
+----------------------------------------------------------------
+title: Repose Coffee Bar
+yelpPage: https://www.yelp.com/ /biz/repose-coffee-bar-san-francisco
+categories: Coffee & Tea,Bakeries,Donuts
+price: Moderate
+rating: 4.5 star rating
+mon: 7:00 am-4:00 pm
+tue: 7:00 am-4:00 pm
+wed: 7:00 am-4:00 pm
+thu: 7:00 am-4:00 pm
+fri: 7:00 am-4:00 pm
+sat: 8:00 am-4:00 pm
+sun: 8:00 am-4:00 pm
+addr: 262 Divisadero StSan Francisco, CA 94117
+phone: (415) 874-9110
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: Yes
+parking: Street
+bikeParking: Yes
+outdoorSeating: Yes
+wifi: Free
+
+
+----------------------------------------------------------------
+title: Okina Sushi
+yelpPage: https://www.yelp.com/ /biz/okina-sushi-san-francisco
+categories: Sushi Bars,Japanese
+price: $11-30
+rating: 4.0 star rating
+mon: Closed
+tue: Closed
+wed: Closed
+thu: 5:00 pm-9:00 pm
+fri: 5:00 pm-9:00 pm
+sat: 5:00 pm-9:00 pm
+sun: Closed
+addr: 776 Arguello BlvdSan Francisco, CA 94118
+phone: (415) 387-8882
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: No
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: No
+attire: Casual
+ambience: Intimate
+noiseLevel: Quiet
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=200&attrs=RestaurantsPriceRange2.2
+----------------------------------------------------------------
+title: Leopold’s
+yelpPage: https://www.yelp.com/ /biz/leopolds-san-francisco-2
+categories: Austrian,Bars
+price: $11-30
+rating: 4.5 star rating
+mon: 5:30 pm-10:00 pm
+tue: 5:30 pm-10:00 pm
+wed: 5:30 pm-10:00 pm
+thu: 5:30 pm-10:00 pm
+fri: 5:30 pm-10:30 pm
+sat: 11:00 am-2:30 pm5:30 pm-10:30 pm
+sun: 11:00 am-2:30 pm5:30 pm-10:00 pm
+addr: 2400 Polk StSan Francisco, CA 94109
+phone: (415) 474-2000
+reservations: No
+delivery: No
+takeout: No
+creditCard: Yes
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Very Loud
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Mela Tandoori Kitchen
+yelpPage: https://www.yelp.com/ /biz/mela-tandoori-kitchen-san-francisco-2
+categories: Indian,Pakistani,Halal
+price: $11-30
+rating: 4.0 star rating
+mon: 5:30 pm-10:00 pm
+tue: 5:30 pm-10:00 pm
+wed: 5:30 pm-10:00 pm
+thu: 11:30 am-2:30 pm5:30 pm-10:00 pm
+fri: 11:30 am-2:30 pm5:30 pm-10:00 pm
+sat: 5:30 pm-10:00 pm
+sun: Closed
+addr: 536 Golden Gate AveSan Francisco, CA 94102
+phone: (415) 447-4041
+reservations: Yes
+delivery: Yes
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Garage, Street
+bikeParking: No
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: Free
+hasTV: Yes
+waiterService: Yes
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Dottie’s True Blue Cafe
+yelpPage: https://www.yelp.com/ /biz/dotties-true-blue-cafe-san-francisco
+categories: American (Traditional),Breakfast & Brunch,Cafes
+price: $11-30
+rating: 4.0 star rating
+mon: 7:30 am-3:00 pm
+tue: Closed
+wed: Closed
+thu: 7:30 am-3:00 pm
+fri: 7:30 am-3:00 pm
+sat: 7:30 am-4:00 pm
+sun: 7:30 am-4:00 pm
+addr: 28 6th StSan Francisco, CA 94103
+phone: (415) 885-2767
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Breakfast, Brunch
+parking: Street
+bikeParking: No
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Brenda’s Meat &amp; Three
+yelpPage: https://www.yelp.com/ /biz/brendas-meat-and-three-san-francisco-3
+categories: Soul Food,Breakfast & Brunch,Southern
+price: $11-30
+rating: 4.0 star rating
+mon: 8:00 am-10:00 pm
+tue: Closed
+wed: 8:00 am-10:00 pm
+thu: 8:00 am-10:00 pm
+fri: 8:00 am-10:00 pm
+sat: 8:00 am-10:00 pm
+sun: 8:00 am-10:00 pm
+addr: 919 Divisadero StSan Francisco, CA 94115
+phone: (415) 926-8657
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Brunch
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Little Baobab
+yelpPage: https://www.yelp.com/ /biz/little-baobab-san-francisco-2
+categories: Senegalese
+price: $11-30
+rating: 4.0 star rating
+mon: Closed
+tue: 5:30 pm-10:00 pm
+wed: 5:30 pm-10:00 pm
+thu: 5:30 pm-10:00 pm
+fri: 5:30 pm-12:00 am
+sat: 5:30 pm-12:00 am
+sun: 5:30 pm-10:00 pm
+addr: 3380 19th StSan Francisco, CA 94110
+phone: (415) 643-3558
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: No
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: No
+outdoorSeating: No
+wifi: No
+hasTV: Yes
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Zam Zam
+yelpPage: https://www.yelp.com/ /biz/zam-zam-san-francisco
+categories: Bars
+price: Moderate
+rating: 4.0 star rating
+mon: 3:00 pm-2:00 am
+tue: 3:00 pm-2:00 am
+wed: 3:00 pm-2:00 am
+thu: 3:00 pm-2:00 am
+fri: 3:00 pm-2:00 am
+sat: 1:00 pm-2:00 am
+sun: 1:00 pm-2:00 am
+addr: 1633 Haight StSan Francisco, CA 94117
+phone: (415) 861-2545
+reservations: No
+creditCard: No
+applePay: No
+parking: Street
+bikeParking: Yes
+goodForGroups: No
+ambience: Divey
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+hasTV: No
+
+
+----------------------------------------------------------------
+title: Lers Ros
+yelpPage: https://www.yelp.com/ /biz/lers-ros-san-francisco-2
+categories: Thai
+price: $11-30
+rating: 4.0 star rating
+mon: 11:00 am-4:00 pm5:00 pm-12:00 am
+tue: 11:00 am-4:00 pm5:00 pm-12:00 am
+wed: 11:00 am-4:00 pm5:00 pm-12:00 am
+thu: 11:00 am-4:00 pm5:00 pm-12:00 am
+fri: 11:00 am-4:00 pm5:00 pm-12:00 am
+sat: 11:00 am-4:00 pm5:00 pm-12:00 am
+sun: 11:00 am-4:00 pm5:00 pm-12:00 am
+addr: 730 Larkin StSan Francisco, CA 94109
+phone: (415) 931-6917
+reservations: Yes
+delivery: Yes
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Garage, Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: Yes
+waiterService: Yes
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Elmira Rosticceria
+yelpPage: https://www.yelp.com/ /biz/elmira-rosticceria-san-francisco
+categories: Italian,American (Traditional),Breakfast & Brunch
+price: $11-30
+rating: 4.0 star rating
+mon: 7:30 am-2:30 pm
+tue: 7:30 am-2:30 pm
+wed: 7:30 am-2:30 pm
+thu: 7:30 am-2:30 pm
+fri: 7:30 am-2:30 pm
+sat: Closed
+sun: Closed
+addr: 154 McAllister StSan Francisco, CA 94102
+phone: (415) 551-7332
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Lunch
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: Free
+hasTV: No
+waiterService: No
+caters: Yes
+
+
+----------------------------------------------------------------
+title: The Sycamore
+yelpPage: https://www.yelp.com/ /biz/the-sycamore-san-francisco
+categories: Gastropubs
+price: $11-30
+rating: 4.0 star rating
+mon: 11:30 am-12:00 am
+tue: 11:30 am-12:00 am
+wed: 11:30 am-12:00 am
+thu: 11:30 am-12:00 am
+fri: 11:30 am-12:00 am
+sat: 10:00 am-12:00 am
+sun: 10:00 am-12:00 am
+addr: 2140 Mission StSan Francisco, CA 94110
+phone: (415) 252-7704
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Lunch
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+ambience: Hipster
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: No
+caters: No
+
+
+----------------------------------------------------------------
+title: Trattoria da Vittorio
+yelpPage: https://www.yelp.com/ /biz/trattoria-da-vittorio-san-francisco
+categories: Italian,Pizza
+price: $11-30
+rating: 4.0 star rating
+mon: 11:00 am-3:00 pm5:00 pm-10:00 pm
+tue: 11:00 am-3:00 pm5:00 pm-10:00 pm
+wed: 11:00 am-3:00 pm5:00 pm-10:00 pm
+thu: 11:00 am-3:00 pm5:00 pm-10:00 pm
+fri: 11:00 am-3:00 pm5:00 pm-10:00 pm
+sat: 11:00 am-10:00 pm
+sun: 11:00 am-9:00 pm
+addr: 150 W Portal AveSan Francisco, CA 94127
+phone: (415) 742-0300
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: No
+hasTV: Yes
+waiterService: Yes
+caters: Yes
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=210&attrs=RestaurantsPriceRange2.2
+----------------------------------------------------------------
+title: Eno Wine Bar
+yelpPage: https://www.yelp.com/ /biz/eno-wine-bar-san-francisco
+categories: Wine Bars
+price: Moderate
+rating: 4.5 star rating
+mon: 3:00 pm-12:00 am
+tue: 3:00 pm-12:00 am
+wed: 3:00 pm-12:00 am
+thu: 3:00 pm-12:00 am
+fri: 12:00 pm-12:00 am
+sat: 12:00 pm-12:00 am
+sun: 3:00 pm-12:00 am
+addr: 320 Geary StSan Francisco, CA 94102
+phone: (415) 678-5321
+reservations: Yes
+creditCard: Yes
+bikeParking: Yes
+goodForGroups: Yes
+ambience: Classy
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+hasTV: No
+
+
+----------------------------------------------------------------
+title: La Mediterranee
+yelpPage: https://www.yelp.com/ /biz/la-mediterranee-san-francisco-8
+categories: Middle Eastern,Mediterranean,Armenian
+price: $11-30
+rating: 4.0 star rating
+mon: 11:00 am-10:00 pm
+tue: 11:00 am-10:00 pm
+wed: 11:00 am-10:00 pm
+thu: 11:00 am-10:00 pm
+fri: 11:00 am-10:30 pm
+sat: 11:00 am-10:30 pm
+sun: 11:00 am-10:00 pm
+addr: 2210 Fillmore StSan Francisco, CA 94115
+phone: (415) 921-2956
+reservations: No
+delivery: Yes
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Lunch, Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Rock Bar
+yelpPage: https://www.yelp.com/ /biz/rock-bar-san-francisco
+categories: Bars
+price: Moderate
+rating: 4.0 star rating
+mon: 4:00 pm-2:00 am
+tue: 4:00 pm-2:00 am
+wed: 4:00 pm-2:00 am
+thu: 4:00 pm-2:00 am
+fri: 4:00 pm-2:00 am
+sat: 4:00 pm-2:00 am
+sun: 10:00 am-2:00 am
+addr: 80 29th StSan Francisco, CA 94110
+phone: (415) 550-6664
+reservations: No
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+goodForGroups: Yes
+ambience: Casual
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+hasTV: Yes
+
+
+----------------------------------------------------------------
+title: Regent Thai Restaurant
+yelpPage: https://www.yelp.com/ /biz/regent-thai-restaurant-san-francisco-2
+categories: Thai
+price: $11-30
+rating: 4.0 star rating
+mon: 11:30 am-3:00 pm5:00 pm-10:00 pm
+tue: 11:30 am-3:00 pm5:00 pm-10:00 pm
+wed: 11:30 am-3:00 pm5:00 pm-10:00 pm
+thu: 11:30 am-3:00 pm5:00 pm-10:00 pm
+fri: 11:30 am-3:00 pm5:00 pm-10:00 pm
+sat: 11:30 am-3:00 pm5:00 pm-10:00 pm
+sun: 11:30 am-3:00 pm5:00 pm-10:00 pm
+addr: 1700 Church StSan Francisco, CA 94131
+phone: (415) 643-5893
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Pork Store Cafe
+yelpPage: https://www.yelp.com/ /biz/pork-store-cafe-san-francisco
+categories: Breakfast & Brunch,Coffee & Tea
+price: $11-30
+rating: 4.0 star rating
+mon: 7:00 am-3:30 pm
+tue: 7:00 am-3:30 pm
+wed: 7:00 am-3:30 pm
+thu: 7:00 am-3:30 pm
+fri: 7:00 am-3:30 pm
+sat: 8:00 am-4:00 pm
+sun: 8:00 am-4:00 pm
+addr: 1451 Haight StSan Francisco, CA 94117
+phone: (415) 864-6981
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Breakfast, Brunch
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: No
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Betty Lou’s Seafood &amp; Grill
+yelpPage: https://www.yelp.com/ /biz/betty-lous-seafood-and-grill-san-francisco
+categories: Seafood
+price: $11-30
+rating: 5.0 star rating
+mon: 11:00 am-9:30 pm
+tue: 11:00 am-9:30 pm
+wed: 11:00 am-9:30 pm
+thu: 11:00 am-9:30 pm
+fri: 11:00 am-9:30 pm
+sat: 11:00 am-9:30 pm
+sun: 11:00 am-9:30 pm
+addr: 318 Columbus AveSan Francisco, CA 94133
+phone: (415) 757-0569
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Garage, Street
+bikeParking: No
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: Yes
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Cha-Ya
+yelpPage: https://www.yelp.com/ /biz/cha-ya-san-francisco-5
+categories: Japanese,Vegetarian,Vegan
+price: $11-30
+rating: 4.0 star rating
+mon: 5:30 pm-9:30 pm
+tue: 5:30 pm-9:30 pm
+wed: 11:30 am-9:30 pm
+thu: 11:30 am-9:30 pm
+fri: 11:30 am-10:00 pm
+sat: 11:30 am-10:00 pm
+sun: 11:30 am-9:30 pm
+addr: 762 Valencia StSan Francisco, CA 94110
+phone: (415) 252-7825
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: No
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Blue Bottle Coffee
+yelpPage: https://www.yelp.com/ /biz/blue-bottle-coffee-san-francisco-12
+categories: Coffee & Tea
+price: Moderate
+rating: 4.5 star rating
+mon: 7:00 am-5:30 pm
+tue: 7:00 am-5:30 pm
+wed: 7:00 am-5:30 pm
+thu: 7:00 am-5:30 pm
+fri: 7:00 am-5:30 pm
+sat: 8:30 am-3:00 pm
+sun: 8:30 am-3:00 pm
+addr: 1355 Market StSan Francisco, CA 94103
+phone: (510) 653-3394
+takeout: Yes
+creditCard: Yes
+applePay: Yes
+parking: Street
+bikeParking: Yes
+outdoorSeating: Yes
+wifi: No
+caters: No
+
+
+----------------------------------------------------------------
+title: Ritual Coffee Roasters
+yelpPage: https://www.yelp.com/ /biz/ritual-coffee-roasters-san-francisco-5
+categories: Coffee & Tea
+price: Moderate
+rating: 4.0 star rating
+mon: 7:00 am-7:00 pm
+tue: 7:00 am-7:00 pm
+wed: 7:00 am-7:00 pm
+thu: 7:00 am-7:00 pm
+fri: 7:00 am-7:00 pm
+sat: 7:00 am-7:00 pm
+sun: 7:00 am-7:00 pm
+addr: 432b Octavia StSan Francisco, CA 94102
+phone: (415) 865-0989
+takeout: Yes
+creditCard: Yes
+applePay: Yes
+parking: Street
+bikeParking: Yes
+outdoorSeating: Yes
+wifi: No
+caters: No
+
+
+----------------------------------------------------------------
+title: WesBurger ‘N’ More
+yelpPage: https://www.yelp.com/ /biz/wesburger-n-more-san-francisco
+categories: Burgers,American (Traditional)
+price: $11-30
+rating: 4.0 star rating
+mon: 11:30 am-10:30 pm
+tue: 11:30 am-10:30 pm
+wed: 11:30 am-10:30 pm
+thu: 11:30 am-10:30 pm
+fri: 11:30 am-10:30 pm
+sat: 11:30 am-10:30 pm
+sun: 11:30 am-10:30 pm
+addr: 2240 Mission StSan Francisco, CA 94110
+phone: (415) 745-9371
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Hipster, Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: No
+driveThrough: No
+caters: Yes
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=220&attrs=RestaurantsPriceRange2.2
+----------------------------------------------------------------
+title: Pacific Cocktail Haven
+yelpPage: https://www.yelp.com/ /biz/pacific-cocktail-haven-san-francisco-2
+categories: Cocktail Bars
+price: Moderate
+rating: 4.5 star rating
+mon: 5:00 pm-12:00 am
+tue: 5:00 pm-2:00 am
+wed: 5:00 pm-2:00 am
+thu: 5:00 pm-2:00 am
+fri: 5:00 pm-2:00 am
+sat: 5:00 pm-2:00 am
+sun: Closed
+addr: 580 Sutter StSan Francisco, CA 94108
+phone: (415) 744-5000
+reservations: No
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: No
+goodForGroups: Yes
+ambience: Casual, Trendy
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+hasTV: No
+
+
+
+----------------------------------------------------------------
+title: Burberry
+yelpPage: https://www.yelp.com/ /biz/burberry-san-francisco
+categories: Women's Clothing,Accessories,Men's Clothing
+price: Ultra High-End
+rating: 3.5 star rating
+mon: 10:00 am-6:30 pm
+tue: 10:00 am-6:30 pm
+wed: 10:00 am-6:30 pm
+thu: 10:00 am-6:30 pm
+fri: 10:00 am-6:30 pm
+sat: 10:00 am-6:30 pm
+sun: 11:00 am-6:00 pm
+addr: 225 Post StSan Francisco, CA 94108
+phone: (415) 392-2200
+creditCard: Yes
+bikeParking: No
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=140&attrs=RestaurantsPriceRange2.4
+----------------------------------------------------------------
+title: NeoCocoa
+yelpPage: https://www.yelp.com/ /biz/neococoa-san-francisco
+categories: Chocolatiers & Shops
+price: Ultra High-End
+rating: 4.0 star rating
+mon: 9:00 am-5:00 pm
+tue: 9:00 am-5:00 pm
+wed: 9:00 am-5:00 pm
+thu: 9:00 am-5:00 pm
+fri: 9:00 am-5:00 pm
+sat: Closed
+sun: Closed
+addr: 2948 Folsom StSan Francisco, CA 94110
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: The Painters Place
+yelpPage: https://www.yelp.com/ /biz/the-painters-place-san-francisco
+categories: Framing,Home Decor
+price: Ultra High-End
+rating: 4.5 star rating
+mon: 10:00 am-6:00 pm
+tue: 10:00 am-6:00 pm
+wed: 10:00 am-6:00 pm
+thu: 10:00 am-6:00 pm
+fri: 10:00 am-6:00 pm
+sat: 10:00 am-6:00 pm
+sun: Closed
+addr: 283 9th StSan Francisco, CA 94103
+phone: (415) 431-9827
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Gucci
+yelpPage: https://www.yelp.com/ /biz/gucci-san-francisco-2
+categories: Men's Clothing,Women's Clothing,Leather Goods
+price: Ultra High-End
+rating: 3.5 star rating
+mon: 10:00 am-7:00 pm
+tue: 10:00 am-7:00 pm
+wed: 10:00 am-7:00 pm
+thu: 10:00 am-7:00 pm
+fri: 10:00 am-7:00 pm
+sat: 10:00 am-7:00 pm
+sun: 12:00 pm-6:00 pm
+addr: 240 Stockton StSan Francisco, CA 94108
+phone: (415) 392-2808
+creditCard: Yes
+applePay: Yes
+parking: Garage
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Optica
+yelpPage: https://www.yelp.com/ /biz/optica-san-francisco
+categories: Eyewear & Opticians,Accessories
+price: Ultra High-End
+rating: 4.0 star rating
+mon: 10:00 am-8:30 pm
+tue: 10:00 am-8:30 pm
+wed: 10:00 am-8:30 pm
+thu: 10:00 am-8:30 pm
+fri: 10:00 am-8:30 pm
+sat: 10:00 am-8:30 pm
+sun: 10:00 am-7:00 pm
+phone: (415) 896-1239
+creditCard: Yes
+parking: Garage
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: Shapur Mozaffarian Fine Jewelry
+yelpPage: https://www.yelp.com/ /biz/shapur-mozaffarian-fine-jewelry-san-francisco-2
+categories: Jewelry,Watches
+price: Ultra High-End
+rating: 4.0 star rating
+mon: 10:00 am-5:30 pm
+tue: 10:00 am-5:30 pm
+wed: 10:00 am-5:30 pm
+thu: 10:00 am-5:30 pm
+fri: 10:00 am-5:30 pm
+sat: 10:00 am-5:30 pm
+sun: Closed
+addr: 272 Post StSan Francisco, CA 94108
+phone: (415) 392-1200
+creditCard: Yes
+parking: Garage
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: Goyard
+yelpPage: https://www.yelp.com/ /biz/goyard-san-francisco-4
+categories: Leather Goods,Luggage,Accessories
+price: Ultra High-End
+rating: 3.5 star rating
+mon: 10:00 am-6:00 pm
+tue: 10:00 am-6:00 pm
+wed: 10:00 am-6:00 pm
+thu: 10:00 am-6:00 pm
+fri: 10:00 am-6:00 pm
+sat: 10:00 am-6:00 pm
+sun: 12:00 pm-5:00 pm
+addr: 118 Grant AveSan Francisco, CA 94108
+phone: (415) 523-8200
+creditCard: Yes
+applePay: Yes
+parking: Garage
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Xetum
+yelpPage: https://www.yelp.com/ /biz/xetum-san-francisco
+categories: Watches
+price: Ultra High-End
+rating: 4.5 star rating
+addr: 760 Market StSan Francisco, CA 94102
+phone: (800) 385-6238
+creditCard: Yes
+
+
+----------------------------------------------------------------
+title: Maybeck’s
+yelpPage: http://www.yelp.com/ /biz/maybecks-san-francisco
+categories: American (New),Italian,Cocktail Bars
+price: $31-60
+rating: 4.0 star rating
+mon: 4:30 pm-2:00 am
+tue: 4:30 pm-2:00 am
+wed: 4:30 pm-2:00 am
+thu: 4:30 pm-2:00 am
+fri: 4:30 pm-2:00 am
+sat: 4:30 pm-2:00 am
+sun: 4:30 pm-2:00 am
+addr: 3213 Scott StSan Francisco, CA 94123
+phone: (415) 400-8500
+reservations: Yes
+delivery: No
+takeout: No
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+ambience: Trendy
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: Yes
+wifi: No
+hasTV: Yes
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Venticello Ristorante
+yelpPage: http://www.yelp.com/ /biz/venticello-ristorante-san-francisco
+categories: Italian
+price: $31-60
+rating: 4.0 star rating
+mon: 5:00 pm-10:00 pm
+tue: 5:00 pm-10:00 pm
+wed: 5:00 pm-10:00 pm
+thu: 5:00 pm-10:00 pm
+fri: 5:00 pm-10:00 pm
+sat: 5:00 pm-10:00 pm
+sun: 5:00 pm-10:00 pm
+addr: 1257 Taylor StSan Francisco, CA 94108
+phone: (415) 922-2545
+reservations: Yes
+delivery: No
+takeout: No
+creditCard: Yes
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: No
+attire: Dressy
+ambience: Intimate, Romantic
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Tadich Grill
+yelpPage: http://www.yelp.com/ /biz/tadich-grill-san-francisco
+categories: Seafood,American (Traditional)
+price: $31-60
+rating: 4.0 star rating
+mon: 11:00 am-9:30 pm
+tue: 11:00 am-9:30 pm
+wed: 11:00 am-9:30 pm
+thu: 11:00 am-9:30 pm
+fri: 11:00 am-9:30 pm
+sat: 11:30 am-9:30 pm
+sun: Closed
+addr: 240 California StSan Francisco, CA 94111
+phone: (415) 391-1849
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Lunch, Dinner
+parking: Street
+bikeParking: No
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Dainese D-Store
+yelpPage: http://www.yelp.com/ /biz/dainese-d-store-san-francisco-2
+categories: Motorcycle Gear,Ski & Snowboard Shops
+price: Pricey
+rating: 5.0 star rating
+mon: 11:00 am-7:00 pm
+tue: 11:00 am-7:00 pm
+wed: 11:00 am-7:00 pm
+thu: 11:00 am-7:00 pm
+fri: 11:00 am-7:00 pm
+sat: 10:00 am-6:00 pm
+sun: 12:00 pm-5:00 pm
+addr: 131 S Van Ness AveSan Francisco, CA 94103
+phone: (415) 626-5478
+creditCard: Yes
+applePay: Yes
+parking: Street, Private Lot
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Leo’s Oyster Bar
+yelpPage: http://www.yelp.com/ /biz/leos-oyster-bar-san-francisco-2
+categories: Bars,Seafood
+price: $31-60
+rating: 4.0 star rating
+mon: 11:30 am-10:00 pm
+tue: 11:30 am-10:00 pm
+wed: 11:30 am-10:00 pm
+thu: 11:30 am-11:00 pm
+fri: 11:30 am-11:00 pm
+sat: 5:00 pm-11:00 pm
+sun: Closed
+addr: 568 Sacramento StSan Francisco, CA 94111
+phone: (415) 872-9982
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: No
+goodForKids: No
+goodForGroups: No
+attire: Casual
+ambience: Upscale
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Seventh Son Tattoo
+yelpPage: http://www.yelp.com/ /biz/seventh-son-tattoo-san-francisco
+categories: Tattoo
+price: Pricey
+rating: 5.0 star rating
+mon: Closed
+tue: 12:00 pm-7:00 pm
+wed: 12:00 pm-7:00 pm
+thu: 12:00 pm-7:00 pm
+fri: 12:00 pm-7:00 pm
+sat: 12:00 pm-7:00 pm
+sun: Closed
+addr: 765 Clementina StSan Francisco, CA 94103
+phone: (415) 551-7766
+creditCard: No
+applePay: No
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Music Exchange
+yelpPage: http://www.yelp.com/ /biz/music-exchange-san-francisco
+categories: Musical Instruments & Teachers
+price: Pricey
+rating: 5.0 star rating
+mon: 10:00 am-6:00 pm
+tue: 10:00 am-6:00 pm
+wed: 10:00 am-6:00 pm
+thu: 10:00 am-6:00 pm
+fri: 10:00 am-6:00 pm
+sat: 10:00 am-6:00 pm
+sun: 12:00 pm-5:00 pm
+addr: 700 Van Ness AveSan Francisco, CA 94102
+phone: (415) 552-0445
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: No
+
+
+----------------------------------------------------------------
+title: Tawla
+yelpPage: http://www.yelp.com/ /biz/tawla-san-francisco-2
+categories: Mediterranean,Tapas/Small Plates
+price: $31-60
+rating: 3.5 star rating
+mon: 5:30 pm-10:00 pm
+tue: 5:30 pm-10:00 pm
+wed: 5:30 pm-10:00 pm
+thu: 5:30 pm-10:00 pm
+fri: 5:30 pm-10:00 pm
+sat: 5:30 pm-10:00 pm
+sun: 5:30 pm-10:00 pm
+addr: 206 Valencia StSan Francisco, CA 94103
+phone: (415) 814-2704
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+ambience: Trendy
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=140&attrs=RestaurantsPriceRange2.3
+----------------------------------------------------------------
+title: Cotogna
+yelpPage: http://www.yelp.com/ /biz/cotogna-san-francisco
+categories: Italian
+price: $31-60
+rating: 4.0 star rating
+mon: 11:30 am-11:00 pm
+tue: 11:30 am-11:00 pm
+wed: 11:30 am-11:00 pm
+thu: 11:30 am-11:00 pm
+fri: 11:30 am-12:00 am
+sat: 11:30 am-12:00 am
+sun: 5:00 pm-9:00 pm
+addr: 490 Pacific AveSan Francisco, CA 94133
+phone: (415) 775-8508
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Valet, Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Pabu
+yelpPage: http://www.yelp.com/ /biz/pabu-san-francisco
+categories: Japanese,Sushi Bars,Cocktail Bars
+price: $31-60
+rating: 4.0 star rating
+mon: 11:30 am-2:00 pm5:30 pm-10:00 pm
+tue: 11:30 am-2:00 pm5:30 pm-10:00 pm
+wed: 11:30 am-2:00 pm5:30 pm-10:00 pm
+thu: 11:30 am-2:00 pm5:30 pm-10:00 pm
+fri: 11:30 am-2:00 pm5:30 pm-10:00 pm
+sat: 5:30 pm-10:00 pm
+sun: 5:30 pm-10:00 pm
+addr: 101 California StSan Francisco, CA 94111
+phone: (415) 668-7228
+reservations: Yes
+delivery: No
+takeout: No
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Valet
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Dressy
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: Yes
+
+
+----------------------------------------------------------------
+title: The Lounge at The Ritz-Carlton
+yelpPage: http://www.yelp.com/ /biz/the-lounge-at-the-ritz-carlton-san-francisco
+categories: Lounges,American (New)
+price: $31-60
+rating: 4.0 star rating
+mon: 11:30 am-12:00 am
+tue: 11:30 am-12:00 am
+wed: 11:30 am-12:00 am
+thu: 11:30 am-12:00 am
+fri: 11:30 am-12:00 am
+sat: 11:30 am-12:00 am
+sun: 11:30 am-12:00 am
+addr: 600 Stockton StSan Francisco, CA 94108
+phone: (415) 296-7465
+reservations: Yes
+delivery: No
+takeout: No
+creditCard: Yes
+goodFor: Lunch
+parking: Valet, Street
+bikeParking: No
+goodForKids: No
+goodForGroups: Yes
+attire: Dressy
+ambience: Classy, Upscale
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+wifi: Free
+hasTV: Yes
+waiterService: Yes
+caters: Yes
+
+
+----------------------------------------------------------------
+title: SF Guitarworks
+yelpPage: http://www.yelp.com/ /biz/sf-guitarworks-san-francisco
+categories: Musical Instruments & Teachers,Electronics Repair,Musical Instrument Services
+price: Pricey
+rating: 5.0 star rating
+mon: Closed
+tue: 12:00 pm-7:00 pm
+wed: 12:00 pm-7:00 pm
+thu: 12:00 pm-7:00 pm
+fri: 12:00 pm-7:00 pm
+sat: 11:00 am-5:00 pm
+sun: Closed
+addr: 323 Potrero AveSan Francisco, CA 94103
+phone: (415) 865-5424
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Dark Garden
+yelpPage: http://www.yelp.com/ /biz/dark-garden-san-francisco
+categories: Lingerie,Bridal
+price: Pricey
+rating: 4.5 star rating
+mon: 11:00 am-5:00 pm
+tue: 11:00 am-5:00 pm
+wed: 11:00 am-5:00 pm
+thu: 11:00 am-6:00 pm
+fri: 11:30 am-6:30 pm
+sat: 11:30 am-6:30 pm
+sun: 11:00 am-5:00 pm
+addr: 321 Linden StSan Francisco, CA 94102
+phone: (415) 431-7684
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Tsunami Panhandle
+yelpPage: http://www.yelp.com/ /biz/tsunami-panhandle-san-francisco-2
+categories: Sushi Bars,Japanese
+price: $31-60
+rating: 3.5 star rating
+mon: 5:30 pm-11:00 pm
+tue: 5:30 pm-11:00 pm
+wed: 5:30 pm-11:00 pm
+thu: 5:30 pm-11:00 pm
+fri: 5:30 pm-12:00 am
+sat: 5:30 pm-12:00 am
+sun: Closed
+addr: 1306 Fulton StSan Francisco, CA 94117
+phone: (415) 567-7664
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+ambience: Trendy
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Pak Oriental Rug
+yelpPage: http://www.yelp.com/ /biz/pak-oriental-rug-san-francisco
+categories: Carpet Cleaning,Rugs
+price: Pricey
+rating: 5.0 star rating
+mon: 10:00 am-5:00 pm
+tue: 10:00 am-5:00 pm
+wed: 10:00 am-5:00 pm
+thu: 10:00 am-5:00 pm
+fri: 10:00 am-5:00 pm
+sat: 10:00 am-5:00 pm
+sun: Closed
+phone: (415) 863-9910
+creditCard: Yes
+applePay: No
+parking: Private Lot
+bikeParking: Yes
+
+
+----------------------------------------------------------------
+title: Roy’s Restaurant
+yelpPage: http://www.yelp.com/ /biz/roys-restaurant-san-francisco-3
+categories: Seafood,Steakhouses,Asian Fusion
+price: $31-60
+rating: 4.0 star rating
+mon: 11:30 am-2:00 pm4:00 pm-10:00 pm
+tue: 11:30 am-2:00 pm4:00 pm-10:00 pm
+wed: 11:30 am-2:00 pm4:00 pm-10:00 pm
+thu: 11:30 am-2:00 pm4:00 pm-10:00 pm
+fri: 11:30 am-2:00 pm4:00 pm-11:00 pm
+sat: 4:00 pm-11:00 pm
+sun: 4:00 pm-9:00 pm
+addr: 575 Mission StSan Francisco, CA 94105
+phone: (415) 777-0277
+reservations: Yes
+delivery: No
+takeout: No
+creditCard: Yes
+applePay: Yes
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Dressy
+ambience: Classy
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+wifi: No
+hasTV: Yes
+waiterService: Yes
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Luce
+yelpPage: http://www.yelp.com/ /biz/luce-san-francisco
+categories: American (New),Desserts,Wine Bars
+price: $31-60
+rating: 3.5 star rating
+mon: 6:00 am-2:30 pm5:30 pm-9:30 pm
+tue: 6:00 am-2:30 pm5:30 pm-9:30 pm
+wed: 6:00 am-2:30 pm5:30 pm-9:30 pm
+thu: 6:00 am-2:30 pm5:30 pm-9:30 pm
+fri: 6:00 am-2:30 pm5:30 pm-10:30 pm
+sat: 6:00 am-2:30 pm5:30 pm-10:30 pm
+sun: 6:00 am-2:30 pm5:30 pm-9:30 pm
+phone: (415) 616-6566
+reservations: Yes
+delivery: No
+takeout: No
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Valet, Validated
+bikeParking: No
+goodForKids: No
+goodForGroups: Yes
+attire: Dressy
+ambience: Classy, Upscale
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+wifi: Free
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Maria Lee Makeup and Hair
+yelpPage: http://www.yelp.com/ /biz/maria-lee-makeup-and-hair-san-francisco
+categories: Makeup Artists,Hair Salons,Eyelash Service
+price: Pricey
+rating: 5.0 star rating
+mon: 11:00 am-9:00 pm
+tue: 11:00 am-9:00 pm
+wed: 11:00 am-9:00 pm
+thu: 11:00 am-9:00 pm
+fri: 11:00 am-9:00 pm
+sat: 11:00 am-9:00 pm
+sun: 11:00 am-9:00 pm
+addr: 2074 Ellis StSan Francisco, CA 94115
+phone: (415) 902-0625
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+goodForKids: No
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=150&attrs=RestaurantsPriceRange2.3
+----------------------------------------------------------------
+title: Le Colonial
+yelpPage: http://www.yelp.com/ /biz/le-colonial-san-francisco
+categories: Vietnamese,Venues & Event Spaces,French
+price: $31-60
+rating: 3.5 star rating
+mon: 5:30 pm-10:00 pm
+tue: 5:30 pm-10:00 pm
+wed: 5:30 pm-10:00 pm
+thu: 5:30 pm-11:00 pm
+fri: 5:30 pm-11:00 pm
+sat: 5:30 pm-11:00 pm
+sun: 5:30 pm-10:00 pm
+addr: 20 Cosmo PlSan Francisco, CA 94109
+phone: (415) 931-3600
+reservations: Yes
+delivery: No
+takeout: No
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Valet, Street
+bikeParking: No
+goodForKids: No
+goodForGroups: Yes
+attire: Dressy
+ambience: Classy
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: Yes
+wifi: Free
+hasTV: No
+waiterService: Yes
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Sushi Hon
+yelpPage: http://www.yelp.com/ /biz/sushi-hon-san-francisco
+categories: Japanese,Sushi Bars
+price: $31-60
+rating: 4.0 star rating
+mon: 5:30 pm-10:30 pm
+tue: 5:30 pm-10:30 pm
+wed: 5:30 pm-10:30 pm
+thu: 5:30 pm-10:30 pm
+fri: 5:30 pm-10:30 pm
+sat: 5:30 pm-10:30 pm
+sun: 5:30 pm-10:30 pm
+addr: 2598 Harrison StreetSan Francisco, CA 94110
+phone: (415) 525-4527
+reservations: Yes
+delivery: No
+takeout: No
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+ambience: Trendy
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: Free
+hasTV: Yes
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: El Mansour
+yelpPage: http://www.yelp.com/ /biz/el-mansour-san-francisco
+categories: Moroccan
+price: $31-60
+rating: 4.0 star rating
+mon: Closed
+tue: 5:00 pm-10:00 pm
+wed: 5:00 pm-10:00 pm
+thu: 5:00 pm-10:00 pm
+fri: 5:00 pm-10:00 pm
+sat: 5:00 pm-10:00 pm
+sun: 5:00 pm-10:00 pm
+addr: 3119 Clement StSan Francisco, CA 94121
+phone: (415) 751-2312
+reservations: Yes
+delivery: No
+takeout: No
+creditCard: Yes
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: Free
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Hillstone
+yelpPage: http://www.yelp.com/ /biz/hillstone-san-francisco-4
+categories: American (New),Diners,Wine Bars
+price: $31-60
+rating: 4.0 star rating
+mon: 11:30 am-10:00 pm
+tue: 11:30 am-10:00 pm
+wed: 11:30 am-10:00 pm
+thu: 11:30 am-10:00 pm
+fri: 11:30 am-11:00 pm
+sat: 11:30 am-11:00 pm
+sun: 11:30 am-10:00 pm
+addr: 1800 Montgomery StSan Francisco, CA 94111
+phone: (415) 392-9280
+reservations: Yes
+delivery: No
+takeout: No
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+ambience: Classy
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: Yes
+wifi: No
+hasTV: Yes
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Crustacean Restaurant
+yelpPage: http://www.yelp.com/ /biz/crustacean-restaurant-san-francisco
+categories: Asian Fusion,Vietnamese
+price: $31-60
+rating: 3.5 star rating
+mon: 5:00 pm-9:00 pm
+tue: 5:00 pm-9:00 pm
+wed: 5:00 pm-9:00 pm
+thu: 5:00 pm-9:00 pm
+fri: 5:00 pm-10:00 pm
+sat: 5:00 pm-10:00 pm
+sun: 11:30 am-2:30 pm5:00 pm-9:00 pm
+addr: 1475 Polk StSan Francisco, CA 94109
+phone: (415) 776-2722
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: Yes
+goodFor: Dinner
+parking: Valet, Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Scoma’s Restaurant
+yelpPage: http://www.yelp.com/ /biz/scomas-restaurant-san-francisco-3
+categories: Seafood,Italian
+price: $31-60
+rating: 4.0 star rating
+mon: 11:30 am-9:30 pm
+tue: 11:30 am-9:30 pm
+wed: 11:30 am-9:30 pm
+thu: 11:30 am-9:30 pm
+fri: 11:30 am-10:00 pm
+sat: 11:30 am-10:00 pm
+sun: 11:30 am-9:30 pm
+addr: 1965 Al Scoma WaySan Francisco, CA 94133
+phone: (415) 771-4383
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Valet
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Classy
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+wifi: Free
+hasTV: Yes
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: The Italian Homemade Company
+yelpPage: https://www.yelp.com/ /biz/the-italian-homemade-company-san-francisco-6
+categories: Italian
+price: $11-30
+rating: 4.5 star rating
+mon: 11:00 am-9:30 pm
+tue: 11:00 am-9:30 pm
+wed: 11:00 am-9:30 pm
+thu: 11:00 am-9:30 pm
+fri: 11:00 am-10:00 pm
+sat: 11:00 am-10:00 pm
+sun: 11:00 am-9:30 pm
+addr: 1919 Union StSan Francisco, CA 94123
+phone: (415) 655-9325
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: Yes
+goodFor: Lunch, Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: Free
+hasTV: No
+waiterService: No
+caters: Yes
+
+
+----------------------------------------------------------------
+title: San Jalisco
+yelpPage: https://www.yelp.com/ /biz/san-jalisco-san-francisco-2
+categories: Mexican
+price: $11-30
+rating: 4.0 star rating
+mon: 8:00 am-10:00 pm
+tue: 8:00 am-10:00 pm
+wed: 8:00 am-10:00 pm
+thu: 8:00 am-10:00 pm
+fri: 8:00 am-10:00 pm
+sat: 8:00 am-10:00 pm
+sun: 8:00 am-10:00 pm
+addr: 901 S Van Ness AveSan Francisco, CA 94110
+phone: (415) 648-8383
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Breakfast, Lunch, Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: Yes
+waiterService: Yes
+caters: Yes
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=140&attrs=RestaurantsPriceRange2.2
+----------------------------------------------------------------
+title: DAVIDsTEA
+yelpPage: https://www.yelp.com/ /biz/davidstea-san-francisco-10
+categories: Tea Rooms,Coffee & Tea
+price: Moderate
+rating: 4.5 star rating
+mon: 10:00 am-7:30 pm
+tue: 10:00 am-7:30 pm
+wed: 10:00 am-7:30 pm
+thu: 10:00 am-7:30 pm
+fri: 10:00 am-7:30 pm
+sat: 8:30 am-7:30 pm
+sun: 9:00 am-6:30 pm
+addr: 3870 24th StSan Francisco, CA 94114
+phone: (415) 285-0515
+takeout: Yes
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+outdoorSeating: Yes
+wifi: Free
+
+
+----------------------------------------------------------------
+title: Burma Superstar
+yelpPage: https://www.yelp.com/ /biz/burma-superstar-san-francisco-2
+categories: Burmese
+price: $11-30
+rating: 4.0 star rating
+mon: 11:30 am-3:00 pm5:00 pm-9:30 pm
+tue: 11:30 am-3:00 pm5:00 pm-9:30 pm
+wed: 11:30 am-3:00 pm5:00 pm-9:30 pm
+thu: 11:30 am-3:00 pm5:00 pm-9:30 pm
+fri: 11:30 am-3:00 pm5:00 pm-10:00 pm
+sat: 11:30 am-3:00 pm5:00 pm-10:00 pm
+sun: 11:30 am-3:00 pm5:00 pm-9:30 pm
+addr: 309 Clement StSan Francisco, CA 94118
+phone: (415) 387-2147
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Hopwater Distribution
+yelpPage: https://www.yelp.com/ /biz/hopwater-distribution-san-francisco
+categories: American (Traditional),Beer Bar
+price: $11-30
+rating: 4.5 star rating
+mon: 5:00 pm-11:00 pm
+tue: 5:00 pm-11:00 pm
+wed: 5:00 pm-11:00 pm
+thu: 5:00 pm-1:00 am
+fri: 5:00 pm-1:00 am
+sat: 5:00 pm-1:00 am
+sun: 5:00 pm-11:00 pm
+addr: 850 Bush StSan Francisco, CA 94108
+reservations: No
+delivery: No
+takeout: No
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+ambience: Hipster, Casual
+noiseLevel: Loud
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: Yes
+waiterService: No
+caters: No
+
+
+----------------------------------------------------------------
+title: Virgil’s Sea Room
+yelpPage: https://www.yelp.com/ /biz/virgils-sea-room-san-francisco
+categories: Cocktail Bars
+price: Moderate
+rating: 4.5 star rating
+mon: 4:00 pm-2:00 am
+tue: 4:00 pm-2:00 am
+wed: 4:00 pm-2:00 am
+thu: 4:00 pm-2:00 am
+fri: 4:00 pm-2:00 am
+sat: 4:00 pm-2:00 am
+sun: 4:00 pm-2:00 am
+addr: 3152 Mission StSan Francisco, CA 94110
+phone: (415) 829-2233
+reservations: Yes
+creditCard: No
+applePay: No
+parking: Street
+bikeParking: Yes
+goodForGroups: Yes
+ambience: Casual
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: Yes
+hasTV: Yes
+
+
+----------------------------------------------------------------
+title: The Spice Jar
+yelpPage: https://www.yelp.com/ /biz/the-spice-jar-san-francisco
+categories: Asian Fusion,Seafood,Vegan
+price: $11-30
+rating: 4.5 star rating
+mon: Closed
+tue: 11:30 am-2:30 pm5:00 pm-10:00 pm
+wed: 11:30 am-2:30 pm5:00 pm-10:00 pm
+thu: 11:30 am-2:30 pm5:00 pm-10:00 pm
+fri: 11:30 am-2:30 pm5:00 pm-10:00 pm
+sat: 11:30 am-2:30 pm5:00 pm-10:00 pm
+sun: 5:00 pm-10:00 pm
+addr: 2500 Bryant StSan Francisco, CA 94110
+phone: (415) 829-3668
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Elephant Sushi
+yelpPage: https://www.yelp.com/ /biz/elephant-sushi-san-francisco-7
+categories: Sushi Bars
+price: $11-30
+rating: 4.5 star rating
+mon: Closed
+tue: Closed
+wed: 6:00 pm-9:30 pm
+thu: 6:00 pm-9:30 pm
+fri: 6:00 pm-9:30 pm
+sat: 6:00 pm-9:30 pm
+sun: 6:00 pm-9:30 pm
+addr: 705 Geary StSan Francisco, CA 94109
+phone: (415) 374-7186
+reservations: No
+delivery: No
+takeout: No
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: No
+goodForKids: No
+goodForGroups: No
+attire: Casual
+ambience: Hipster, Casual, Trendy
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Cafe de Casa
+yelpPage: https://www.yelp.com/ /biz/cafe-de-casa-san-francisco-3
+categories: Coffee & Tea,Brazilian,Gluten-Free
+price: $11-30
+rating: 4.5 star rating
+mon: 7:30 am-4:00 pm
+tue: 7:30 am-4:00 pm
+wed: 7:30 am-4:00 pm
+thu: 7:30 am-4:00 pm
+fri: 7:30 am-4:00 pm
+sat: 7:30 am-4:00 pm
+sun: Closed
+addr: 2701 Leavenworth StSan Francisco, CA 94133
+phone: (415) 345-1055
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: Yes
+goodFor: Breakfast, Brunch, Lunch
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: No
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: No
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Bar 587
+yelpPage: https://www.yelp.com/ /biz/bar-587-san-francisco
+categories: Lounges,Cocktail Bars
+price: Moderate
+rating: 4.5 star rating
+mon: 4:00 pm-2:00 am
+tue: 4:00 pm-2:00 am
+wed: 4:00 pm-2:00 am
+thu: 4:00 pm-2:00 am
+fri: 4:00 pm-2:00 am
+sat: 4:00 pm-2:00 am
+sun: 4:00 pm-2:00 am
+addr: 587 Post StSan Francisco, CA 94102
+phone: (415) 817-1712
+reservations: Yes
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: Yes
+goodForGroups: Yes
+ambience: Trendy
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+hasTV: Yes
+
+
+----------------------------------------------------------------
+title: Italian Homemade Company
+yelpPage: https://www.yelp.com/ /biz/italian-homemade-company-san-francisco
+categories: Grocery,Italian,Pasta Shops
+price: $11-30
+rating: 4.5 star rating
+mon: 11:00 am-9:30 pm
+tue: 11:00 am-9:00 pm
+wed: 11:00 am-9:00 pm
+thu: 11:00 am-9:00 pm
+fri: 11:00 am-9:00 pm
+sat: 11:00 am-9:00 pm
+sun: 11:00 am-9:00 pm
+addr: 716 Columbus AveSan Francisco, CA 94133
+phone: (415) 712-8874
+reservations: No
+delivery: Yes
+takeout: Yes
+creditCard: Yes
+applePay: Yes
+goodFor: Lunch, Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: No
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: No
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Pearl’s Deluxe Burgers
+yelpPage: https://www.yelp.com/ /biz/pearls-deluxe-burgers-san-francisco-3
+categories: Burgers
+price: $11-30
+rating: 4.0 star rating
+mon: 11:00 am-10:00 pm
+tue: 11:00 am-10:00 pm
+wed: 11:00 am-10:00 pm
+thu: 11:00 am-10:00 pm
+fri: 11:00 am-11:00 pm
+sat: 11:00 am-11:00 pm
+sun: 12:00 pm-9:00 pm
+addr: 708 Post StSan Francisco, CA 94109
+phone: (415) 409-6120
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: No
+applePay: No
+goodFor: Lunch, Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: No
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: No
+driveThrough: No
+caters: No
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=150&attrs=RestaurantsPriceRange2.2
+----------------------------------------------------------------
+title: Black Hammer Brewing
+yelpPage: https://www.yelp.com/ /biz/black-hammer-brewing-san-francisco
+categories: Breweries,Beer Bar
+price: Moderate
+rating: 4.5 star rating
+mon: 11:00 am-11:00 pm
+tue: 11:00 am-11:00 pm
+wed: 11:00 am-11:00 pm
+thu: 11:00 am-11:00 pm
+fri: 11:00 am-12:00 am
+sat: 12:00 pm-12:00 am
+sun: 12:00 pm-10:00 pm
+addr: 544 Bryant StSan Francisco, CA 94107
+phone: (415) 758-2223
+reservations: No
+takeout: No
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: Yes
+goodForGroups: Yes
+ambience: Hipster, Casual, Trendy
+noiseLevel: Quiet
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+hasTV: Yes
+
+----------------------------------------------------------------
+title: Pakwan Restaurant - 16th Street
+yelpPage: https://www.yelp.com/ /biz/pakwan-restaurant-16th-street-san-francisco
+categories: Indian,Pakistani
+price: Under $10
+rating: 4.0 star rating
+mon: 11:00 am-11:00 pm
+tue: 11:00 am-11:00 pm
+wed: 11:00 am-11:00 pm
+thu: 11:00 am-11:00 pm
+fri: 11:00 am-11:00 pm
+sat: 11:00 am-11:00 pm
+sun: 11:00 am-11:00 pm
+addr: 3180-82 16th StSan Francisco, CA 94103
+phone: (415) 255-2440
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: No
+applePay: No
+goodFor: Lunch, Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: No
+hasTV: Yes
+waiterService: No
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Mercury Cafe
+yelpPage: https://www.yelp.com/ /biz/mercury-cafe-san-francisco
+categories: Coffee & Tea,Sandwiches
+price: Under $10
+rating: 4.0 star rating
+mon: 7:00 am-5:00 pm
+tue: 7:00 am-5:00 pm
+wed: 7:00 am-5:00 pm
+thu: 7:00 am-5:00 pm
+fri: 7:00 am-5:00 pm
+sat: 8:00 am-5:00 pm
+sun: 8:00 am-5:00 pm
+addr: 201 Octavia BlvdSan Francisco, CA 94102
+phone: (415) 252-7855
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+goodFor: Lunch
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: Free
+hasTV: No
+waiterService: No
+caters: No
+
+
+----------------------------------------------------------------
+title: The Homestead
+yelpPage: https://www.yelp.com/ /biz/the-homestead-san-francisco
+categories: Bars
+price: Inexpensive
+rating: 4.0 star rating
+mon: 2:00 pm-2:00 am
+tue: 2:00 pm-2:00 am
+wed: 2:00 pm-2:00 am
+thu: 2:00 pm-2:00 am
+fri: 2:00 pm-2:00 am
+sat: 2:00 pm-2:00 am
+sun: 2:00 pm-2:00 am
+addr: 2301 Folsom St.San Francisco, CA 94110
+phone: (415) 282-4663
+reservations: No
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: Yes
+goodForGroups: Yes
+ambience: Casual
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+hasTV: No
+
+
+----------------------------------------------------------------
+title: Big Rec Taproom
+yelpPage: https://www.yelp.com/ /biz/big-rec-taproom-san-francisco
+categories: Beer Bar,Sports Bars,Burgers
+price: Under $10
+rating: 4.5 star rating
+mon: 4:00 pm-12:00 am
+tue: 4:00 pm-12:00 am
+wed: 4:00 pm-12:00 am
+thu: 4:00 pm-12:00 am
+fri: 4:00 am-12:00 am
+sat: 11:00 am-12:00 am
+sun: 11:00 am-12:00 am
+addr: 3066 24th StSan Francisco, CA 94110
+phone: (415) 796-3676
+reservations: No
+delivery: Yes
+takeout: Yes
+creditCard: Yes
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: Free
+hasTV: Yes
+waiterService: No
+driveThrough: No
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Thieves Tavern
+yelpPage: https://www.yelp.com/ /biz/thieves-tavern-san-francisco
+categories: Dive Bars
+price: Inexpensive
+rating: 4.0 star rating
+mon: 1:00 pm-2:00 am
+tue: 1:00 pm-2:00 am
+wed: 1:00 pm-2:00 am
+thu: 1:00 pm-2:00 am
+fri: 1:00 pm-2:00 am
+sat: 1:00 pm-2:00 am
+sun: 1:00 pm-2:00 am
+addr: 496 14th StSan Francisco, CA 94103
+phone: (415) 252-9082
+reservations: No
+creditCard: No
+applePay: Yes
+parking: Street
+bikeParking: Yes
+goodForGroups: Yes
+ambience: Divey
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+hasTV: Yes
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=220&attrs=RestaurantsPriceRange2.1
+----------------------------------------------------------------
+title: Snowbird Coffee
+yelpPage: https://www.yelp.com/ /biz/snowbird-coffee-san-francisco
+categories: Coffee & Tea,Coffee Roasteries
+price: Inexpensive
+rating: 4.0 star rating
+mon: 7:00 am-6:00 pm
+tue: 7:00 am-6:00 pm
+wed: 7:00 am-6:00 pm
+thu: 7:00 am-6:00 pm
+fri: 7:00 am-6:00 pm
+sat: 8:00 am-6:00 pm
+sun: 8:00 am-6:00 pm
+addr: 1352 A 9th AveSan Francisco, CA 94122
+phone: (415) 573-7740
+takeout: Yes
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: Yes
+outdoorSeating: No
+wifi: Free
+
+
+----------------------------------------------------------------
+title: Lime Tree Southeast Asian Kitchen
+yelpPage: https://www.yelp.com/ /biz/lime-tree-southeast-asian-kitchen-san-francisco
+categories: Singaporean,Malaysian,Indonesian
+price: Under $10
+rating: 4.0 star rating
+mon: Closed
+tue: 11:00 am-3:00 pm5:00 pm-9:30 pm
+wed: 11:00 am-3:00 pm5:00 pm-9:30 pm
+thu: 11:00 am-3:00 pm5:00 pm-9:30 pm
+fri: 11:00 am-3:00 pm5:00 pm-9:30 pm
+sat: 12:00 pm-9:30 pm
+sun: 12:00 pm-9:00 pm
+addr: 450 Irving StSan Francisco, CA 94122
+phone: (415) 665-1415
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Lunch, Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: No
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Kebab King
+yelpPage: https://www.yelp.com/ /biz/kebab-king-san-francisco
+categories: Pakistani,Halal,Indian
+price: Under $10
+rating: 4.5 star rating
+mon: 12:00 pm-1:00 am
+tue: 12:00 pm-1:00 am
+wed: 12:00 pm-1:00 am
+thu: 12:00 pm-1:00 am
+fri: 12:00 pm-1:00 am
+sat: 12:00 pm-2:00 am
+sun: 2:00 pm-1:00 am
+addr: 1109 Fillmore StSan Francisco, CA 94115
+phone: (415) 674-1301
+reservations: No
+delivery: Yes
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Lunch, Dinner, Late Night
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: No
+outdoorSeating: No
+wifi: No
+hasTV: Yes
+waiterService: Yes
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Pastel Brazzuca
+yelpPage: https://www.yelp.com/ /biz/pastel-brazzuca-san-francisco
+categories: Sandwiches,Brazilian,Breakfast & Brunch
+price: Under $10
+rating: 4.5 star rating
+mon: 7:00 am-8:00 pm
+tue: 7:00 am-8:00 pm
+wed: 7:00 am-8:00 pm
+thu: 7:00 am-8:00 pm
+fri: 7:00 am-8:00 pm
+sat: 9:00 am-2:30 pm
+sun: Closed
+addr: 290 De Haro StSan Francisco, CA 94103
+phone: (415) 800-7057
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: Yes
+goodFor: Lunch
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: No
+outdoorSeating: Yes
+wifi: Free
+hasTV: Yes
+waiterService: No
+caters: No
+
+
+----------------------------------------------------------------
+title: Mellow’s Cafe
+yelpPage: https://www.yelp.com/ /biz/mellows-cafe-san-francisco-3
+categories: Coffee & Tea,Bakeries,Bagels
+price: Inexpensive
+rating: 4.5 star rating
+mon: 7:00 am-5:00 pm
+tue: 7:00 am-5:00 pm
+wed: 7:00 am-5:00 pm
+thu: 7:00 am-5:00 pm
+fri: 7:00 am-5:00 pm
+sat: 8:30 am-5:00 pm
+sun: 8:30 am-1:00 pm
+addr: 1400 Taraval StSan Francisco, CA 94116
+phone: (415) 759-8955
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: Yes
+outdoorSeating: Yes
+wifi: Free
+
+
+----------------------------------------------------------------
+title: Bello Coffee &amp; Tea
+yelpPage: https://www.yelp.com/ /biz/bello-coffee-and-tea-san-francisco
+categories: Coffee & Tea
+price: Inexpensive
+rating: 4.0 star rating
+mon: 6:00 am-7:00 pm
+tue: 6:00 am-7:00 pm
+wed: 6:00 am-7:00 pm
+thu: 6:00 am-7:00 pm
+fri: 6:00 am-7:00 pm
+sat: 7:30 am-7:00 pm
+sun: 8:00 am-7:00 pm
+addr: 2885 Diamond StSan Francisco, CA 94131
+phone: (415) 585-3457
+takeout: Yes
+creditCard: Yes
+applePay: Yes
+parking: Street
+bikeParking: Yes
+outdoorSeating: No
+wifi: Free
+caters: No
+
+
+----------------------------------------------------------------
+title: M &amp; C Market
+yelpPage: https://www.yelp.com/ /biz/m-and-c-market-san-francisco
+categories: Beer, Wine & Spirits,Delis,Sandwiches
+price: Under $10
+rating: 4.5 star rating
+addr: 1200 Valencia StSan Francisco, CA 94110
+phone: (415) 920-9442
+reservations: No
+delivery: No
+takeout: No
+creditCard: Yes
+parking: Street
+goodForKids: No
+goodForGroups: No
+attire: Casual
+noiseLevel: Average
+outdoorSeating: No
+hasTV: No
+waiterService: No
+
+
+----------------------------------------------------------------
+title: Donut World
+yelpPage: https://www.yelp.com/ /biz/donut-world-san-francisco
+categories: Coffee & Tea,Donuts
+price: Inexpensive
+rating: 4.0 star rating
+mon: 4:30 am-2:30 am
+tue: 4:30 am-2:30 am
+wed: 4:30 am-2:30 am
+thu: 4:30 am-2:30 am
+fri: 4:30 am-2:30 am
+sat: 4:30 am-2:30 am
+sun: 4:30 am-2:30 am
+addr: 1399 9th AveSan Francisco, CA 94122
+phone: (415) 665-4240
+takeout: Yes
+creditCard: No
+applePay: No
+parking: Street
+bikeParking: Yes
+outdoorSeating: No
+wifi: No
+caters: No
+
+
+----------------------------------------------------------------
+title: Fritas Tacos
+yelpPage: https://www.yelp.com/ /biz/fritas-tacos-san-francisco-4
+categories: Mexican
+price: Under $10
+rating: 4.5 star rating
+mon: 5:00 pm-10:00 pm
+tue: 5:00 pm-10:00 pm
+wed: 5:00 pm-10:00 pm
+thu: 5:00 pm-10:00 pm
+fri: 5:00 pm-10:00 pm
+sat: 5:00 pm-10:00 pm
+sun: Closed
+addr: 1900 Folsom StSan Francisco, CA 94103
+phone: (415) 529-4000
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Lunch
+bikeParking: No
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: No
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: No
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Cordon Bleu
+yelpPage: https://www.yelp.com/ /biz/cordon-bleu-san-francisco
+categories: Vietnamese,Asian Fusion
+price: Under $10
+rating: 4.0 star rating
+mon: Closed
+tue: 11:30 am-10:00 pm
+wed: 11:30 am-10:00 pm
+thu: 11:30 am-10:00 pm
+fri: 11:30 am-10:00 pm
+sat: 11:30 am-10:00 pm
+sun: 4:00 pm-10:00 pm
+addr: 1574 California StSan Francisco, CA 94109
+phone: (415) 673-5637
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: No
+applePay: No
+goodFor: Lunch, Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: No
+attire: Casual
+ambience: Divey
+noiseLevel: Average
+alcohol: No
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=230&attrs=RestaurantsPriceRange2.1
+----------------------------------------------------------------
+title: Wild Side West
+yelpPage: https://www.yelp.com/ /biz/wild-side-west-san-francisco
+categories: Gay Bars,Dive Bars
+price: Inexpensive
+rating: 4.0 star rating
+mon: 2:00 pm-2:00 am
+tue: 2:00 pm-2:00 am
+wed: 2:00 pm-2:00 am
+thu: 2:00 pm-2:00 am
+fri: 2:00 pm-2:00 am
+sat: 2:00 pm-2:00 am
+sun: 2:00 pm-2:00 am
+addr: 424 Cortland AveSan Francisco, CA 94110
+phone: (415) 647-3099
+reservations: No
+creditCard: No
+applePay: No
+parking: Street
+bikeParking: Yes
+goodForGroups: Yes
+ambience: Divey
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: Yes
+hasTV: Yes
+
+
+----------------------------------------------------------------
+title: Joe’s Ice Cream
+yelpPage: https://www.yelp.com/ /biz/joes-ice-cream-san-francisco
+categories: Ice Cream & Frozen Yogurt,Burgers,Hot Dogs
+price: Under $10
+rating: 4.0 star rating
+mon: 11:00 am-10:00 pm
+tue: 11:00 am-10:00 pm
+wed: 11:00 am-10:00 pm
+thu: 11:00 am-10:00 pm
+fri: 11:00 am-11:00 pm
+sat: 11:00 am-11:00 pm
+sun: 12:00 pm-8:00 pm
+addr: 5420 Geary BlvdSan Francisco, CA 94121
+phone: (415) 751-1950
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dessert
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: No
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: No
+driveThrough: No
+caters: No
+
+
+----------------------------------------------------------------
+title: Twisted Donuts and Coffee
+yelpPage: https://www.yelp.com/ /biz/twisted-donuts-and-coffee-san-francisco
+categories: Donuts,Coffee & Tea,Bakeries
+price: Inexpensive
+rating: 4.0 star rating
+mon: 6:00 am-7:00 pm
+tue: 6:00 am-7:00 pm
+wed: 6:00 am-7:00 pm
+thu: 6:00 am-7:00 pm
+fri: 6:00 am-7:00 pm
+sat: 7:00 am-7:00 pm
+sun: 7:00 am-7:00 pm
+addr: 1243 Noriega StSan Francisco, CA 94122
+phone: (415) 463-5437
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: Yes
+outdoorSeating: No
+wifi: Free
+
+
+----------------------------------------------------------------
+title: Luv a Java
+yelpPage: https://www.yelp.com/ /biz/luv-a-java-san-francisco
+categories: Coffee & Tea
+price: Inexpensive
+rating: 4.0 star rating
+mon: 6:00 am-4:00 pm
+tue: 6:00 am-4:00 pm
+wed: 6:00 am-4:00 pm
+thu: 6:00 am-4:00 pm
+fri: 8:00 am-3:00 pm
+sat: 8:00 am-3:00 pm
+sun: 8:00 am-3:00 pm
+addr: 1300 Dolores StSan Francisco, CA 94114
+phone: (415) 401-6444
+takeout: Yes
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: Yes
+outdoorSeating: No
+wifi: Free
+
+
+----------------------------------------------------------------
+title: Little Sweet
+yelpPage: https://www.yelp.com/ /biz/little-sweet-san-francisco-10
+categories: Bubble Tea,Coffee & Tea,Juice Bars & Smoothies
+price: Inexpensive
+rating: 4.0 star rating
+mon: 1:30 pm-11:00 pm
+tue: 1:30 pm-11:00 pm
+wed: 1:30 pm-11:00 pm
+thu: 1:30 pm-12:00 am
+fri: 1:30 pm-12:00 am
+sat: 1:30 pm-12:00 am
+sun: 1:30 pm-11:00 pm
+addr: 3836 Geary BlvdSan Francisco, CA 94118
+phone: (415) 702-6763
+takeout: Yes
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: Yes
+outdoorSeating: Yes
+wifi: Free
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Samovar Tea
+yelpPage: https://www.yelp.com/ /biz/samovar-tea-san-francisco-2
+categories: Tea Rooms,Coffee & Tea,Cafes
+price: Under $10
+rating: 4.0 star rating
+mon: 7:00 am-7:00 pm
+tue: 7:00 am-7:00 pm
+wed: 7:00 am-7:00 pm
+thu: 7:00 am-7:00 pm
+fri: 7:00 am-7:00 pm
+sat: 7:00 am-7:00 pm
+sun: 7:00 am-7:00 pm
+addr: 411 Valencia StSan Francisco, CA 94103
+phone: (415) 553-6887
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: Yes
+goodFor: Breakfast
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: No
+attire: Casual
+ambience: Hipster, Trendy
+noiseLevel: Average
+alcohol: No
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: No
+caters: Yes
+
+
+----------------------------------------------------------------
+title: The Little Shamrock
+yelpPage: https://www.yelp.com/ /biz/the-little-shamrock-san-francisco
+categories: Pubs
+price: Inexpensive
+rating: 4.0 star rating
+mon: 3:00 pm-2:00 am
+tue: 3:00 pm-2:00 am
+wed: 3:00 pm-2:00 am
+thu: 3:00 pm-2:00 am
+fri: 2:00 pm-2:00 am
+sat: 1:00 pm-2:00 am
+sun: 1:00 pm-2:00 am
+addr: 807 Lincoln WaySan Francisco, CA 94122
+phone: (415) 661-0060
+reservations: No
+creditCard: No
+applePay: No
+parking: Street
+bikeParking: Yes
+goodForGroups: Yes
+ambience: Divey
+noiseLevel: Average
+alcohol: Full Bar
+outdoorSeating: No
+hasTV: Yes
+
+
+----------------------------------------------------------------
+title: La Oaxaqueña
+yelpPage: https://www.yelp.com/ /biz/la-oaxaque%C3%B1a-san-francisco-2
+categories: Mexican,Desserts,Seafood
+price: Under $10
+rating: 4.0 star rating
+mon: 6:00 am-2:00 am
+tue: 6:00 am-2:00 am
+wed: 6:00 am-2:00 am
+thu: 6:00 am-2:00 am
+fri: 6:00 am-2:00 am
+sat: 6:00 am-2:00 am
+sun: 6:00 am-2:00 am
+addr: 2128 Mission StSan Francisco, CA 94110
+phone: (415) 621-5446
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+goodFor: Lunch, Dinner, Late Night
+parking: Street
+bikeParking: No
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: No
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Peasant Pies Noe Valley
+yelpPage: https://www.yelp.com/ /biz/peasant-pies-noe-valley-san-francisco
+categories: Soup,Gluten-Free,Vegetarian
+price: Under $10
+rating: 4.0 star rating
+mon: 7:00 am-7:00 pm
+tue: 7:00 am-7:00 pm
+wed: 7:00 am-7:00 pm
+thu: 7:00 am-7:00 pm
+fri: 7:00 am-7:00 pm
+sat: 9:00 am-6:00 pm
+sun: 9:00 am-6:00 pm
+addr: 4108 24th StSan Francisco, CA 94114
+phone: (415) 642-1316
+reservations: No
+delivery: Yes
+takeout: Yes
+creditCard: Yes
+applePay: Yes
+goodFor: Breakfast, Brunch, Lunch
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: No
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: No
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Underdog
+yelpPage: https://www.yelp.com/ /biz/underdog-san-francisco
+categories: Hot Dogs,American (Traditional),Breakfast & Brunch
+price: Under $10
+rating: 4.0 star rating
+mon: Closed
+tue: Closed
+wed: Closed
+addr: 1634 Irving StSan Francisco, CA 94122
+phone: (415) 665-8881
+reservations: Yes
+delivery: Yes
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Lunch
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: Free
+hasTV: Yes
+waiterService: No
+caters: Yes
+
+
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=240&attrs=RestaurantsPriceRange2.1
+----------------------------------------------------------------
+title: That’s It Market
+yelpPage: https://www.yelp.com/ /biz/thats-it-market-san-francisco
+categories: Beer, Wine & Spirits,Sandwiches
+price: Under $10
+rating: 4.0 star rating
+mon: 11:00 am-2:00 am
+tue: 11:00 am-2:00 am
+wed: 11:00 am-2:00 am
+thu: 11:00 am-2:00 am
+fri: 11:00 am-2:00 am
+sat: 11:00 am-2:00 am
+sun: 11:00 am-2:00 am
+addr: 2699 Mission  StSan Francisco, CA 94110
+phone: (415) 285-9833
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Lunch
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: No
+attire: Casual
+ambience: Divey
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: Yes
+waiterService: No
+caters: No
+
+
+----------------------------------------------------------------
+title: Metro Caffe
+yelpPage: https://www.yelp.com/ /biz/metro-caffe-san-francisco
+categories: Burgers,Cheesesteaks,Hot Dogs
+price: Under $10
+rating: 4.0 star rating
+mon: 11:00 am-10:00 pm
+tue: 11:00 am-10:00 pm
+wed: 11:00 am-10:00 pm
+thu: 11:00 am-10:00 pm
+fri: 11:00 am-10:00 pm
+sat: 11:00 am-10:00 pm
+sun: 11:00 am-9:00 pm
+addr: 247 Fillmore StSan Francisco, CA 94117
+phone: (415) 621-9536
+reservations: No
+delivery: Yes
+takeout: Yes
+creditCard: Yes
+applePay: Yes
+goodFor: Lunch, Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: No
+hasTV: Yes
+waiterService: No
+driveThrough: No
+caters: No
+
+
+----------------------------------------------------------------
+title: Dapper Dog
+yelpPage: https://www.yelp.com/ /biz/dapper-dog-san-francisco-5
+categories: Hot Dogs
+price: Under $10
+rating: 4.0 star rating
+mon: 11:00 am-11:00 pm
+tue: 11:00 am-11:00 pm
+wed: 11:00 am-11:00 pm
+thu: 11:00 am-1:00 am
+fri: 11:00 am-2:30 am
+sat: 11:00 am-2:30 am
+sun: 11:00 am-1:00 am
+addr: 417 Castro StSan Francisco, CA 94114
+phone: (415) 553-6332
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Lunch, Dinner, Late Night
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: No
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: No
+caters: No
+
+
+----------------------------------------------------------------
+title: Assab Eritrean Restaurant
+yelpPage: https://www.yelp.com/ /biz/assab-eritrean-restaurant-san-francisco
+categories: Ethiopian,Desserts
+price: $11-30
+rating: 4.0 star rating
+mon: 4:00 pm-9:30 pm
+tue: 4:00 pm-9:30 pm
+wed: 4:00 pm-9:30 pm
+thu: 4:00 pm-9:30 pm
+fri: 4:00 pm-10:00 pm
+sat: 4:00 pm-10:00 pm
+sun: Closed
+addr: 2845 Geary BlvdSan Francisco, CA 94118
+phone: (415) 441-7083
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: No
+
+
+----------------------------------------------------------------
+title: Aslam’s Rasoi
+yelpPage: https://www.yelp.com/ /biz/aslams-rasoi-san-francisco
+categories: Indian,Pakistani
+price: $11-30
+rating: 4.0 star rating
+mon: 5:00 pm-10:00 pm
+tue: 5:00 pm-10:00 pm
+wed: 5:00 pm-10:00 pm
+thu: 5:00 pm-10:00 pm
+fri: 5:00 pm-11:00 pm
+sat: 5:00 pm-11:00 pm
+sun: 5:00 pm-10:00 pm
+addr: 1037 Valencia StSan Francisco, CA 94110
+phone: (415) 695-0599
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: Yes
+waiterService: Yes
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Jasmine Garden
+yelpPage: https://www.yelp.com/ /biz/jasmine-garden-san-francisco
+categories: Vietnamese
+price: $11-30
+rating: 4.0 star rating
+mon: 12:00 pm-4:00 pm5:00 pm-9:30 pm
+tue: Closed
+wed: 12:00 pm-4:00 pm5:00 pm-9:30 pm
+thu: 12:00 pm-4:00 pm5:00 pm-9:30 pm
+fri: 12:00 pm-4:00 pm5:00 pm-10:00 pm
+sat: 12:00 pm-4:00 pm5:00 pm-10:00 pm
+sun: 12:00 pm-4:00 pm5:00 pm-10:00 pm
+addr: 708 14th StSan Francisco, CA 94114
+phone: (415) 861-2682
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Lunch, Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: Yes
+waiterService: Yes
+caters: Yes
+
+
+----------------------------------------------------------------
+title: Hogwash
+yelpPage: https://www.yelp.com/ /biz/hogwash-san-francisco
+categories: Gastropubs,Beer Bar
+price: $11-30
+rating: 4.5 star rating
+mon: 11:00 am-3:00 pm5:00 pm-11:00 pm
+tue: 11:00 am-3:00 pm5:00 pm-11:00 pm
+wed: 11:00 am-3:00 pm5:00 pm-11:00 pm
+thu: 11:00 am-3:00 pm5:00 pm-11:00 pm
+fri: 11:00 am-3:00 pm5:00 pm-11:00 pm
+sat: 5:00 pm-11:00 pm
+sun: 5:00 pm-11:00 pm
+addr: 582 Sutter StSan Francisco, CA 94102
+phone: (415) 361-5500
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Dinner, Late Night
+parking: Street
+bikeParking: No
+goodForKids: No
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: Yes
+waiterService: No
+caters: No
+
+
+----------------------------------------------------------------
+title: Mr Tipple’s Recording Studio
+yelpPage: https://www.yelp.com/ /biz/mr-tipples-recording-studio-san-francisco
+categories: Cocktail Bars,Jazz & Blues
+price: Moderate
+rating: 4.5 star rating
+mon: 5:00 pm-12:00 am
+tue: 5:00 pm-12:00 am
+wed: 5:00 pm-12:00 am
+thu: 5:00 pm-12:00 am
+fri: 5:00 pm-1:00 am
+sat: 5:00 pm-1:00 am
+sun: Closed
+addr: 39 Fell StSan Francisco, CA 94102
+phone: (415) 851-8561
+reservations: No
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+ambience: Classy
+noiseLevel: Loud
+alcohol: Full Bar
+outdoorSeating: No
+hasTV: No
+
+
+----------------------------------------------------------------
+title: The Lodge on Haight
+yelpPage: https://www.yelp.com/ /biz/the-lodge-on-haight-san-francisco
+categories: American (Traditional)
+price: $11-30
+rating: 4.5 star rating
+mon: 5:00 pm-10:00 pm
+tue: 5:00 pm-10:00 pm
+wed: 11:30 am-10:00 pm
+thu: 11:30 am-10:00 pm
+fri: 11:30 am-11:00 pm
+sat: 11:30 am-11:00 pm
+sun: 10:30 am-9:00 pm
+addr: 400 Haight StreetSan Francisco, CA 94117
+phone: (415) 872-9502
+reservations: No
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: Yes
+goodFor: Brunch, Dinner
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: Yes
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: No
+wifi: No
+hasTV: Yes
+waiterService: No
+caters: No
+
+
+----------------------------------------------------------------
+title: Universal Cafe
+yelpPage: https://www.yelp.com/ /biz/universal-cafe-san-francisco-5
+categories: Breakfast & Brunch,American (New),Diners
+price: $11-30
+rating: 4.0 star rating
+mon: Closed
+tue: 5:30 pm-9:00 pm
+wed: 10:00 am-2:15 pm5:30 pm-9:00 pm
+thu: 10:00 am-2:15 pm5:30 pm-9:00 pm
+fri: 10:00 am-2:15 pm5:30 pm-10:00 pm
+sat: 9:00 am-3:00 pm5:30 pm-10:00 pm
+sun: 9:00 am-3:00 pm
+addr: 2814 19th StSan Francisco, CA 94110
+phone: (415) 821-4608
+reservations: Yes
+delivery: No
+takeout: Yes
+creditCard: Yes
+applePay: No
+goodFor: Brunch
+parking: Street
+bikeParking: Yes
+goodForKids: Yes
+goodForGroups: No
+attire: Casual
+ambience: Casual
+noiseLevel: Average
+alcohol: Beer & Wine Only
+outdoorSeating: Yes
+wifi: No
+hasTV: No
+waiterService: Yes
+caters: Yes
+
+
+----------------------------------------------------------------
+title: NightLife
+yelpPage: https://www.yelp.com/ /biz/nightlife-san-francisco-4
+categories: Museums,Bars
+price: Moderate
+rating: 4.0 star rating
+mon: Closed
+tue: Closed
+wed: Closed
+thu: 6:00 pm-10:00 pm
+fri: Closed
+sat: Closed
+sun: Closed
+addr: 55 Music Concourse DrSan Francisco, CA 94118
+phone: (415) 379-8000
+reservations: No
+creditCard: Yes
+applePay: No
+parking: Street
+bikeParking: Yes
+goodForKids: No
+goodForGroups: Yes
+ambience: Casual
+noiseLevel: Loud
+alcohol: Full Bar
+outdoorSeating: No
+hasTV: No
+
+
+----------------------------------------------------------------
+title: Rebecca Beeson Collection Tees
+yelpPage: https://www.yelp.com/ /biz/rebecca-beeson-collection-tees-san-francisco
+categories: Women's Clothing
+price: Ultra High-End
+rating: 3.5 star rating
+addr: 1345 Howard StSan Francisco, CA 94103
+phone: (415) 865-0471
+creditCard: Yes
+
+
+

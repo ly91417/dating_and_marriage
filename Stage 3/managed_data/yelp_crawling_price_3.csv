@@ -1,0 +1,1001 @@
+id,title,cuisine,phone,feature,zipcode,street_addr
+1230,L’ardoise Bistro, French,4154372600,"reservations, creditCard, bikeParking, waiterService",94114,151 Noe street
+1231,Anchor Oyster Bar, Seafood,4154313990,"takeout, creditCard, bikeParking, waiterService",94114,579 Castro street
+1232,Saru Sushi Bar," Sushi Bars,Japanese",4154004510,"creditCard, applePay, outdoorSeating, waiterService",94114,3856 24th street
+1233,Song Tea &amp; Ceramics," Coffee & Tea,Gift Shops",4158852118,"takeout, creditCard, applePay, bikeParking",94115,2120 Sutter street
+1234,Sorrel," American (New),Italian",3039312870,"reservations, creditCard, applePay, bikeParking, goodForGroups, waiterService, caters",94107,945 Valencia street
+1235,Frances, American (New),4156213870,"reservations, creditCard, bikeParking, waiterService",94114,3870 17th street
+1236,Prubechu," Asian Fusion,Seafood",4159523654,"reservations, takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService",94110,2847 Mission street
+1237,Bistro Central Parc," French,Breakfast & Brunch",4159317272,"reservations, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94117,560 Central avenue
+1238,La Ciccia," Seafood,Sardinian",4155508114,"reservations, creditCard, waiterService",94131,291 30th street
+1239,Revelry Bistro," French,American (New),Breakfast & Brunch",4152416833,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94102,297 Page street
+1240,Liholiho Yacht Club," American (New),Seafood",4154405446,"reservations, creditCard, goodForGroups, waiterService",94109,871 Sutter street
+1241,Lolinda," Steakhouses,Argentine,Tapas/Small Plates",4155506970,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94110,2518 Mission street
+1242,Nopa," American (New),Modern European",4158648643,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94117,560 Divisadero street
+1243,Firefly Restaurant," American (New),Gluten-Free",4158217652,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94114,4288 24th street
+1244,Bar Crudo," Seafood,Live/Raw Food",4154090679,"reservations, creditCard, bikeParking, waiterService",94117,655 Divisadero street
+1245,State Bird Provisions," Tapas/Small Plates,American (New)",4157951272,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94115,1529 Fillmore street
+1246,Espetus Brazilian Steak House," Steakhouses,Brazilian",4155528792,"reservations, creditCard, goodForGroups, waiterService, caters",94102,1686 Market street
+1247,Tsubasa Sushi," Sushi Bars,Japanese",4155519688,"reservations, creditCard, goodForGroups, waiterService",94102,429 Gough street
+1248,Marianne’s, Lounges,4153216000,"reservations, creditCard, goodForGroups",94103,360 Jessie street
+1249,Chapeau!," French,Wine Bars",4157509787,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94118,126 Clement street
+1250,The Richmond," Wine Bars,American (New)",4153798988,"reservations, creditCard, goodForGroups, waiterService",94118,615 Balboa street
+1251,Koo," Japanese,Sushi Bars",4157317077,"reservations, takeout, creditCard, applePay, bikeParking, goodForGroups, waiterService",94122,408 Irving street
+1252,Pläj Scandinavian Restaurant &amp; Bar," Scandinavian,Bars",4152948925,"reservations, creditCard, goodForGroups, waiterService",94102,333 Fulton street
+1253,Delfina," Italian,Pizza",4155524055,"reservations, takeout, creditCard, bikeParking, goodForGroups, waiterService, caters",94110,3621 18th street
+1254,Heirloom Cafe," Cafes,French,Italian",4158212500,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94110,2500 Folsom street
+1255,Foreign Cinema," American (New),Mediterranean",4156487600,"reservations, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94110,2534 Mission street
+1256,Seven Hills," Italian,Seafood,Desserts",4157751550,"reservations, creditCard, bikeParking, waiterService",94109,1550 Hyde street
+1257,The Morris, American (New),4156128480,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94110,2501 Mariposa street
+1258,Bacco, Italian,4152824969,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService, caters",94114,737 Diamond street
+1259,Avedano’s Holly Park Market," Meat Shops,Butcher,Sandwiches",4152856328,"takeout, creditCard, bikeParking, caters",94110,235 Cortland avenue
+1260,Blue Plate," American (Traditional),Desserts,Tapas/Small Plates",4152826777,"reservations, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService, caters",94110,3218 Mission street
+1261,House of Prime Rib," American (Traditional),Steakhouses",4158854605,"reservations, creditCard, goodForKids, goodForGroups, waiterService",94109,1906 Van Ness avenue
+1262,Absinthe Brasserie &amp; Bar," French,Breakfast & Brunch,Bars",4155511590,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94102,398 Hayes street
+1263,Stones Throw, American (New),4157962901,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94109,1896 Hyde street
+1264,Poesia," Italian,Bars",4152529325,"reservations, delivery, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService, caters",94114,4072 18th street
+1265,Rich Table, American (New),4153559085,"reservations, creditCard, bikeParking, waiterService",94102,199 Gough street
+1266,Frascati," Italian,Mediterranean",4159281406,"reservations, takeout, creditCard, bikeParking, waiterService",94109,1901 Hyde street
+1267,Kokkari Estiatorio," Greek,Mediterranean",4159810983,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94111,200 Jackson street
+1268,Tekka Japanese Restaurant," Japanese,Sushi Bars",,"hasTV, waiterService",94118,537 Balboa street
+1269,Contigo," Spanish,Tapas Bars",4152850250,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94114,1320 Castro street
+1270,Ichido," Seafood,Japanese,Asian Fusion",,"reservations, creditCard, bikeParking, goodForGroups, caters",94107,687 Minna street
+1271,3rd Cousin, American (New),4158143709,"reservations, creditCard, bikeParking, goodForGroups, waiterService, caters",94110,919 Cortland avenue
+1272,Mathilde French Bistro," French,Desserts,Salad",4155466128,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94107,315 5th street
+1273,The House, Asian Fusion,4159868612,"reservations, takeout, creditCard, bikeParking, waiterService",94133,1230 Grant avenue
+1274,Locanda," Italian,Bars",4158636800,"reservations, takeout, creditCard, bikeParking, goodForGroups, waiterService",94110,557 Valencia street
+1275,Monsieur Benjamin," French,Wine Bars,Desserts",4154032233,"reservations, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94102,451 Gough street
+1276,AsiaSF," Asian Fusion,Dance Clubs",4152552742,"reservations, takeout, creditCard, goodForGroups, waiterService",94103,201 9th street
+1277,AL’s Place," Seafood,Vegetarian,American (New)",4154166136,"reservations, creditCard, waiterService",94110,1499 Valencia street
+1278,Bellota," Spanish,Seafood,Tapas Bars",4154306580,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94103,888 Brannan street
+1279,Bourbon &amp; Branch," Cocktail Bars,Venues & Event Spaces,Speakeasies",4153461735,"reservations, creditCard, goodForGroups",94102,501 Jones street
+1280,Trestle, American (New),4157720922,"reservations, creditCard, waiterService",94133,531 Jackson street
+1281,Octavia, American (New),4154087507,"reservations, creditCard, bikeParking, waiterService",94109,1701 Octavia street
+1282,Bouche, French,4159560396,"reservations, creditCard, waiterService",94108,603 Bush street
+1283,1601 Bar &amp; Kitchen," Asian Fusion,Wine Bars,Sri Lankan",4155521601,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94103,1601 Howard street
+1284,Aatxe," Tapas/Small Plates,Spanish",4154712977,"reservations, creditCard, bikeParking, goodForGroups, waiterService, caters",94114,2174 Market street
+1285,Zuni Café," American (New),Salad,Cafes",4155522522,"reservations, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94102,1658 Market street
+1286,Commonwealth, American (New),4153551500,"reservations, creditCard, bikeParking, waiterService",94110,2224 Mission street
+1287,DOSA on Fillmore, Indian,4154413672,"reservations, takeout, creditCard, applePay, bikeParking, goodForGroups, waiterService, caters",94115,1700 Fillmore street
+1288,Aster," American (New),Breakfast & Brunch,Beer, Wine & Spirits",4158759810,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94110,1001 Guerrero street
+1289,Capannina, Italian,4154098001,"reservations, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94123,1809 Union street
+1290,Mourad Restaurant," Moroccan,American (New)",4156602500,"reservations, creditCard, goodForGroups, waiterService",94105,140 New Montgomery street
+1291,Kabuto Restaurant," Sushi Bars,Japanese",4157525652,"reservations, takeout, creditCard, bikeParking, waiterService",94118,5121 Geary boulevard
+1292,Allegro Romano," Italian,Seafood",4159284002,"reservations, takeout, creditCard, bikeParking, waiterService",94109,1701 Jones street
+1293,Garibaldi’s, American (New),4155638841,"reservations, takeout, creditCard, goodForGroups, waiterService",94115,347 Presidio avenue
+1294,Press Club," Wine Bars,Venues & Event Spaces",4157445000,"reservations, creditCard, applePay, bikeParking, goodForGroups, hasTV",94103,20 Yerba Buena Ln
+1295,Yuzuki Japanese Eatery, Izakaya,4155569898,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94110,598 Guerrero street
+1296,Cockscomb," Bars,American (New),Live/Raw Food",4159740700,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94107,564 4th street
+1297,Isa Restaurant," French,Gluten-Free,Venues & Event Spaces",4155679588,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94123,3324 Steiner street
+1298,Ristorante Milano, Italian,4156732961,"reservations, takeout, creditCard, bikeParking, waiterService",94109,1448 Pacific avenue
+1299,Terzo," Mediterranean,Tapas/Small Plates",4154413200,"reservations, takeout, creditCard, goodForGroups, outdoorSeating, waiterService",94123,3011 Steiner street
+1300,Terroir Natural Wine Merchant," Wine Bars,Venues & Event Spaces,Beer, Wine & Spirits",4155589946,"creditCard, bikeParking, goodForGroups",94103,1116 Folsom street
+1301,Garçon, French,4154018959,"reservations, takeout, creditCard, goodForGroups, outdoorSeating, waiterService",94110,1101 Valencia street
+1302,Izakaya Rintaro," Tapas/Small Plates,Izakaya",4155897022,"reservations, creditCard, goodForGroups, outdoorSeating, waiterService, caters",94103,82 14th street
+1303,Zushi Puzzle," Sushi Bars,Japanese",4159319319,"reservations, takeout, creditCard, bikeParking, goodForGroups, waiterService",94123,1910 Lombard street
+1304,Albona Ristorante Istriano, Italian,4154411040,"reservations, takeout, creditCard, goodForGroups, waiterService",94133,545 Francisco street
+1305,Hakkasan," American (New),Cantonese,Dim Sum",4158298148,"reservations, creditCard, goodForGroups, waiterService",94108,1 Kearny street
+1306,1760, American (New),4153591212,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94109,1760 Polk street
+1307,Restaurant Jeanne D’ Arc, French,4154213154,"reservations, creditCard, goodForGroups, waiterService",94108,715 Bush street
+1308,Piqueo’s," Latin American,Peruvian",4152828812,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94110,830 Cortland avenue
+1309,Ruth’s Chris Steak House," Steakhouses,Wine Bars",4156730557,"reservations, takeout, creditCard, goodForGroups, waiterService",94109,1601 Van Ness avenue
+1310,Nihon Whisky Lounge," Japanese,Lounges,Whiskey Bars",4155524400,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94103,1779 Folsom street
+1311,San Francisco Champagne Society, Champagne Bars,,"reservations, creditCard, goodForGroups, hasTV",94103,1097 Howard street
+1312,Flour + Water," Italian,Pizza",4158267000,"reservations, creditCard, bikeParking, waiterService",94110,2401 Harrison street
+1313,1300 on Fillmore," Lounges,American (New),Venues & Event Spaces",4157717100,"reservations, takeout, creditCard, goodForGroups, waiterService, caters",94115,1300 Fillmore street
+1314,Nomica," Japanese,Cocktail Bars,Wine Bars",4156553280,"reservations, creditCard, goodForGroups, waiterService, caters",94114,2223 Market street
+1315,Chouchou French Bistro, French,4152420960,"reservations, takeout, creditCard, bikeParking, goodForGroups, waiterService, caters",94116,400 Dewey boulevard
+1316,Linden Room, Cocktail Bars,4158297565,"creditCard, bikeParking",94102,330 Gough street
+1317,Catch," Seafood,Breakfast & Brunch,American (New)",4154315000,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, hasTV, waiterService",94114,2362 Market street
+1318,Okoze Sushi," Sushi Bars,Japanese,Tapas/Small Plates",4155673397,"reservations, takeout, creditCard, bikeParking, goodForGroups, waiterService",94109,1207 Union street
+1319,The Saratoga," American (New),Bars",4159326464,"reservations, takeout, creditCard, goodForGroups, waiterService",94109,1000 Larkin street
+1320,The Cavalier," American (New),British,Cocktail Bars",4153216000,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94103,360 Jessie street
+1321,SPQR," Italian,Wine Bars",4157717779,"reservations, takeout, creditCard, bikeParking, outdoorSeating, waiterService",94115,1911 Fillmore street
+1322,The Fly Trap," Bars,American (New)",4152430580,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, hasTV, waiterService, caters",94107,606 Folsom street
+1323,Canyon Market," Grocery,Sandwiches",4155869999,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating",94131,2815 Diamond street
+1324,OPT Optometric," Optometrists,Eyewear & Opticians",4158142564,creditCard,94110,1415 Valencia street
+1325,Amber India," Indian,Desserts,Buffets",4157770500,"reservations, takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, waiterService, caters",94103,25 Yerba Buena Ln
+1326,Sociale, Italian,4159213200,"reservations, creditCard, goodForGroups, outdoorSeating, waiterService, caters",94118,3665 Sacramento street
+1327,Kappou Gomi, Japanese,4152215353,"reservations, creditCard, goodForGroups, waiterService",94121,5524 Geary boulevard
+1328,Cafe Jacqueline, French,4159815565,"reservations, creditCard, waiterService",94133,1454 Grant avenue
+1329,Steel + Lacquer, Hair Salons,6284005907,"creditCard, applePay, bikeParking, goodForKids",94103,14 10th street
+1330,Nico," American (New),French",4153591000,"reservations, creditCard, goodForGroups, waiterService",94115,3228 Sacramento Street
+1331,St. Regis Hotel Lobby Bar, Bars,4152844000,"creditCard, bikeParking, goodForGroups",94103,125 3rd street
+1332,Rue Lepic, French,4154746070,"reservations, creditCard, bikeParking, waiterService",94108,900 Pine street
+1333,Cafe Claude," French,Venues & Event Spaces",4153923505,"reservations, takeout, creditCard, goodForGroups, outdoorSeating, waiterService",94108,7 Claude Ln
+1334,SPICE Supper Club, American (New),4156098492,"reservations, goodForGroups, waiterService",94131,Church street
+1335,Veo Optics, Eyewear & Opticians,4158612020,"creditCard, bikeParking",94114,798 Valencia street
+1336,Ke’s Seafood BBQ," Seafood,Barbeque,Asian Fusion",4157424877,"reservations, delivery, takeout, creditCard, goodForKids, goodForGroups, hasTV, waiterService",94122,1358 9th avenue
+1337,Mason Pacific," American (New),Seafood",4153747185,"reservations, creditCard, goodForGroups, outdoorSeating, waiterService",94133,1358 Mason street
+1338,CALA," Mexican,Breakfast & Brunch,Cocktail Bars",4156607701,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94102,149 Fell street
+1339,Gitane Restaurant," French,Bars,Spanish",4157886686,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94108,6 Claude Ln
+1340,BIX," American (Traditional),Bars,Music Venues",4154336300,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94133,56 Gold street
+1341,Park Tavern," American (New),Breakfast & Brunch",4159897300,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94133,1652 Stockton street
+1342,Eye Gotcha Optometric," Optometrists,Eyewear & Opticians",4154312988,"creditCard, bikeParking",94114,586 Castro street
+1343,Edgewise Arts, Framing,4159709515,"creditCard, bikeParking",94110,3481 19th street
+1344,Fringale," French,Basque",4155430573,"reservations, takeout, creditCard, bikeParking, waiterService",94107,570 4th street
+1345,The Rotunda," American (New),Tea Rooms",4152492720,"reservations, creditCard, applePay, goodForGroups, waiterService",94108,150 Stockton street
+1346,Bobo’s," Steakhouses,Seafood",4154418880,"reservations, takeout, creditCard, goodForGroups, waiterService",94123,1450 Lombard street
+1347,Central Kitchen, American (New),4158267004,"reservations, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94110,3000 20th street
+1348,Bar Agricole," Bars,American (New)",4153559400,"reservations, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94103,355 11th street
+1349,Uma Casa, Portuguese,4158292264,"reservations, takeout, creditCard, goodForKids, goodForGroups, hasTV, waiterService",94131,1550 Church street
+1350,FORM8 Tattoo, Tattoo,4158292811,bikeParking,94110,3049 22nd Street
+1351,Chotto," Japanese,Sushi Bars,Gluten-Free",4154412223,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94123,3317 Steiner street
+1352,Perbacco, Italian,4159550663,"reservations, creditCard, goodForGroups, waiterService",94111,230 California street
+1353,Makeup by Stacy McClure, Makeup Artists,4153770855,bikeParking,94110,
+1354,Wayfare Tavern, American (Traditional),4157729060,"reservations, takeout, creditCard, goodForGroups, outdoorSeating, waiterService",94111,558 Sacramento street
+1355,Bluestem Brasserie, Brasseries,4155471111,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, hasTV, waiterService",94103,One Yerba Buena Ln
+1356,54 Mint - Ristorante Italiano," Italian,Diners,Cocktail Bars",4155435100,"reservations, takeout, creditCard, goodForGroups, outdoorSeating, waiterService",94103,16 Mint Plz
+1357,Cocotte, French,4152924415,"reservations, takeout, creditCard, outdoorSeating, waiterService",94109,1521 Hyde street
+1358,Twenty Five Lusk," American (New),Lounges",8889956648,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94107,25 Lusk street
+1359,ICHI Sushi," Japanese,Sushi Bars",4155254750,"reservations, creditCard, bikeParking, waiterService",94110,3369 Mission street
+1360,Earthbody," Massage,Day Spas,Skin Care",4155527200,"creditCard, bikeParking",94102,534 Laguna street
+1361,The Hancock Room," Lounges,Cocktail Bars",4156996545,"creditCard, bikeParking, goodForGroups",94133,1350 Powell street
+1362,Maybeck’s," American (New),Italian,Cocktail Bars",4154008500,"reservations, creditCard, bikeParking, goodForGroups, outdoorSeating, hasTV, waiterService",94123,3213 Scott street
+1363,Venticello Ristorante, Italian,4159222545,"reservations, creditCard, bikeParking, waiterService",94108,1257 Taylor street
+1364,Tadich Grill," Seafood,American (Traditional)",4153911849,"takeout, creditCard, goodForGroups, waiterService",94111,240 California street
+1365,Dainese D-Store," Motorcycle Gear,Ski & Snowboard Shops",4156265478,"creditCard, applePay, bikeParking",94103,131 S Van Ness avenue
+1366,Leo’s Oyster Bar," Bars,Seafood",4158729982,"reservations, takeout, creditCard, waiterService",94111,568 Sacramento street
+1367,Seventh Son Tattoo, Tattoo,4155517766,bikeParking,94103,765 Clementina street
+1368,Music Exchange, Musical Instruments & Teachers,4155520445,creditCard,94102,700 Van Ness avenue
+1369,Tawla," Mediterranean,Tapas/Small Plates",4158142704,"reservations, takeout, creditCard, bikeParking, goodForGroups, waiterService",94103,206 Valencia street
+1370,Cotogna, Italian,4157758508,"reservations, takeout, creditCard, bikeParking, goodForGroups, waiterService",94133,490 Pacific avenue
+1371,Pabu," Japanese,Sushi Bars,Cocktail Bars",4156687228,"reservations, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService, caters",94111,101 California street
+1372,The Lounge at The Ritz-Carlton," Lounges,American (New)",4152967465,"reservations, creditCard, goodForGroups, hasTV, waiterService, caters",94108,600 Stockton street
+1373,SF Guitarworks," Musical Instruments & Teachers,Electronics Repair,Musical Instrument Services",4158655424,"creditCard, bikeParking",94103,323 Potrero avenue
+1374,Dark Garden," Lingerie,Bridal",4154317684,"creditCard, bikeParking",94102,321 Linden street
+1375,Tsunami Panhandle," Sushi Bars,Japanese",4155677664,"reservations, takeout, creditCard, bikeParking, goodForGroups, waiterService",94117,1306 Fulton street
+1376,Pak Oriental Rug," Carpet Cleaning,Rugs",4158639910,"creditCard, bikeParking",,
+1377,Roy’s Restaurant," Seafood,Steakhouses,Asian Fusion",4157770277,"reservations, creditCard, applePay, bikeParking, goodForGroups, hasTV, waiterService, caters",94105,575 Mission street
+1378,Luce," American (New),Desserts,Wine Bars",4156166566,"reservations, creditCard, goodForGroups, waiterService",,
+1379,Maria Lee Makeup and Hair," Makeup Artists,Hair Salons,Eyelash Service",4159020625,"creditCard, bikeParking",94115,2074 Ellis street
+1380,Le Colonial," Vietnamese,Venues & Event Spaces,French",4159313600,"reservations, creditCard, goodForGroups, outdoorSeating, waiterService, caters",94109,20 Cosmo Pl
+1381,Sushi Hon," Japanese,Sushi Bars",4155254527,"reservations, creditCard, bikeParking, goodForGroups, outdoorSeating, hasTV, waiterService",94110,2598 Harrison Street
+1382,El Mansour, Moroccan,4157512312,"reservations, creditCard, bikeParking, goodForKids, goodForGroups, waiterService",94121,3119 Clement street
+1383,Hillstone," American (New),Diners,Wine Bars",4153929280,"reservations, creditCard, bikeParking, goodForGroups, outdoorSeating, hasTV, waiterService",94111,1800 Montgomery street
+1384,Crustacean Restaurant," Asian Fusion,Vietnamese",4157762722,"reservations, takeout, creditCard, bikeParking, goodForGroups, waiterService",94109,1475 Polk street
+1385,Scoma’s Restaurant," Seafood,Italian",4157714383,"reservations, takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService",94133,1965 Al Scoma Way
+1386,Coqueta," Spanish,Tapas/Small Plates",4157048866,"reservations, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94105,The Embarcadero
+1387,Idle Hand Tattoo Studio, Tattoo,4155524353,bikeParking,94117,575 Haight street
+1388,Blowfish Sushi," Sushi Bars,Japanese",4152853848,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, hasTV, waiterService, caters",94110,2170 Bryant street
+1389,Bobo’s Burger Bar, Burgers,4156837007,"reservations, takeout, creditCard, bikeParking, goodForGroups, waiterService",94123,1434 Lombard street
+1390,The Speakeasy SF," Performing Arts,Speakeasies",4158919744,"reservations, creditCard, goodForGroups",94133,
+1391,Trou Normand," Cocktail Bars,Breakfast & Brunch",4159750876,"reservations, takeout, creditCard, bikeParking, goodForGroups, waiterService",94105,140 New Montgomery street
+1392,Fogo de Chão Brazilian Steakhouse," Brazilian,Steakhouses",4154270004,"reservations, creditCard, goodForKids, goodForGroups, waiterService",94103,201 3rd street
+1393,The New Wheel Electric Bikes," Bikes,Bike Repair/Maintenance",4155247362,"creditCard, applePay, bikeParking",94110,420 Cortland avenue
+1394,5A5 Steak Lounge, Steakhouses,4159892539,"reservations, takeout, creditCard, goodForGroups, waiterService",94111,244 Jackson street
+1395,Eyes On Twenty-Fourth Optometry," Optometrists,Eyewear & Opticians",4152821366,"creditCard, bikeParking",94114,4110 24th street
+1396,Prospect, American (New),4152477770,"reservations, takeout, creditCard, bikeParking, goodForGroups, waiterService",94105,300 Spear street
+1397,Florio Bar &amp; Cafe," Italian,Mediterranean,Bars",4157754300,"reservations, takeout, creditCard, applePay, bikeParking, goodForGroups, outdoorSeating, waiterService",94115,1915 Fillmore street
+1398,Gaspar Brasserie," Brasseries,French,Cocktail Bars",4155768800,"reservations, takeout, creditCard, goodForGroups, waiterService, caters",94104,185 Sutter street
+1399,Forbes Island," American (New),Seafood,Wine Bars",4159514900,"reservations, creditCard, goodForGroups, outdoorSeating, waiterService",94133,Pier 41
+1400,Hair Caffe, Hair Salons,4155254678,"creditCard, applePay, bikeParking, goodForKids",94115,2176 Sutter street
+1401,"Suetake Bros, Inc", Jewelry,4153918047,bikeParking,94108,210 Post street
+1402,Scala’s Bistro, Italian,4153958555,"reservations, creditCard, goodForGroups, waiterService",94102,432 Powell street
+1403,Bernal Heights Hill Wide Garage Sale," Local Flavor,Shopping",,"bikeParking, goodForKids",94110,Bernal Heights boulevard
+1404,Piperade," Spanish,Basque",4153912555,"reservations, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService, caters",94111,1015 Battery street
+1405,Tailored Salon, Hair Stylists,4158513930,"creditCard, bikeParking",94108,266 Sutter street
+1406,Thanh Long," Seafood,Vietnamese",4156651146,"reservations, takeout, creditCard, goodForKids, goodForGroups, waiterService",94122,4101 Judah street
+1407,Da Flora-A Venetian Osteria, Italian,4159814664,"reservations, creditCard, bikeParking, waiterService",94133,701 Columbus avenue
+1408,La Mar Cebichería Peruana," Latin American,Seafood,Peruvian",4153978880,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94111,Pier 1 1/2 The Embarcadero
+1409,Mission Bicycle," Bikes,Bike Rentals",4156836166,"creditCard, bikeParking, goodForKids",94110,766 Valencia street
+1410,Greens Restaurant," Vegetarian,Vegan,Gluten-Free",4157716222,"reservations, takeout, creditCard, bikeParking, goodForGroups, waiterService, caters",94123,Fort Mason
+1411,Triple Twist Makeup &amp; Hair Design," Makeup Artists,Hair Salons",8888656960,"creditCard, bikeParking",94102,870 Market street
+1412,Scholar Tattoo, Tattoo,4154004306,bikeParking,94110,3340 22nd street
+1413,Town Hall," American (New),Wine Bars,Desserts",4159083900,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94105,342 Howard street
+1414,Chaya Brasserie," Japanese,American (New),Tapas/Small Plates",4157778688,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService, caters",94105,132 The Embarcadero
+1415,The Barrel Room," Wine Bars,American (New),Cocktail Bars",4159566900,"reservations, takeout, creditCard, bikeParking, goodForGroups, hasTV, waiterService",94111,415 Sansome street
+1416,A16," Italian,Pizza",4157712216,"reservations, creditCard, bikeParking, goodForGroups, waiterService, caters",94123,2355 Chestnut street
+1417,Gentle Star Medspa," Skin Care,Laser Hair Removal,Medical Spas",4156180108,"creditCard, bikeParking",94103,14 Mint Plz
+1418,Edo Salon, Hair Salons,4158610131,"creditCard, bikeParking",94117,601 Haight street
+1419,CODE Salon," Hair Salons,Waxing,Skin Care",4156248340,"creditCard, bikeParking",94107,370 4th street
+1420,John Francis Spa," Skin Care,Massage,Hair Removal",4158613000,"creditCard, bikeParking",94114,4200 18th street
+1421,Archer Salon, Hair Salons,4154333334,"creditCard, bikeParking",94108,33 Grant avenue
+1422,Bubble Pop Electric Salon, Hair Salons,4153469864,"creditCard, bikeParking, goodForKids",94115,2434 California street
+1423,Dax and Lindsay’s Thermal Reconditioning, Hair Salons,4152650123,creditCard,94108,11 Tillman Pl
+1424,Living Greens," Juice Bars & Smoothies,Caterers",4156029513,"creditCard, bikeParking",94110,331 Cortland avenue
+1425,SF Music Together," Specialty Schools,Musical Instruments & Teachers",4157451495,creditCard,94117,1350 Waller street
+1426,Zoë Bikini," Women's Clothing,Swimwear",4158703372,"creditCard, bikeParking",94110,3386 18th street
+1427,Patrick Evan Hair Salon," Hair Stylists,Blow Dry/Out Services,Hair Extensions",4154211111,creditCard,94108,55 Grant avenue
+1428,Indigo, American (New),4156739353,"reservations, creditCard, goodForGroups, waiterService",94102,687 Mcallister street
+1429,John Fluevog Shoes, Shoe Stores,4154369784,"creditCard, bikeParking",94117,1697 Haight street
+1430,Bi-Rite Market," Specialty Food,Caterers,Grocery",4152419760,"takeout, creditCard, applePay, bikeParking",94110,3639 18th street
+1431,Underglass Custom Framing, Framing,4152529844,"creditCard, bikeParking",94114,268 Church street
+1432,The Epicurean Trader," Specialty Food,Beer, Wine & Spirits,Grocery",4158729484,"takeout, creditCard, applePay, bikeParking, caters",94110,401 Cortland avenue
+1433,Diy Wedding Rings, Jewelry,4155051623,"creditCard, bikeParking",94110,1258 Valencia street
+1434,Morphic," Hair Salons,Makeup Artists",4157896682,"creditCard, applePay, bikeParking, goodForKids",94104,660 Market street
+1435,Izzy’s Steak &amp; Chop House, Steakhouses,4155630487,"reservations, takeout, creditCard, bikeParking, goodForGroups, hasTV, waiterService",94123,3349 Steiner street
+1436,Mission Workshop," Luggage,Outdoor Gear",4158647225,"creditCard, applePay, bikeParking",94110,541 Valencia street
+1437,Leatherneck Steakhouse, Steakhouses,4156736672,"reservations, creditCard, goodForGroups, hasTV, waiterService",94102,609 Sutter street
+1438,Artisan Eyelashes," Eyelash Service,Waxing",4158100799,"creditCard, applePay",94108,391 Sutter street
+1439,Wes Pine, Hair Salons,4154020111,"creditCard, applePay, goodForKids",94102,555 Sutter street
+1440,Tone Of Music Audio," Electronics,Home Theatre Installation,High Fidelity Audio Equipment",4158606818,"creditCard, bikeParking",,
+1441,ValuExchange Diamond Importers, Jewelry,4158639111,"creditCard, bikeParking",94103,868 Brannan street
+1442,Davies Symphony Hall," Performing Arts,Music Venues,Venues & Event Spaces",4156216600,"creditCard, bikeParking, goodForKids, goodForGroups",94102,201 Van Ness avenue
+1443,Anchor &amp; Hope, Seafood,4155019100,"reservations, creditCard, applePay, bikeParking, goodForGroups, waiterService",94105,83 Minna street
+1444,Kristina Welzien, Hair Stylists,4156569221,"creditCard, bikeParking",94110,3150 18th street
+1445,Qoio," Jewelry,Accessories",4157885566,"creditCard, bikeParking",94114,4068 24th street
+1446,Matterhorn Restaurant," Fondue,German",4158856116,"reservations, creditCard, goodForKids, goodForGroups, waiterService",94109,2323 Van Ness avenue
+1447,Lord Stanley," Modern European,American (New)",4158725512,"reservations, creditCard, goodForGroups, waiterService",94109,2065 Polk street
+1448,3D Bikefit, Bikes,4157295795,"creditCard, bikeParking",94109,1299 Bush street
+1449,Waterbar," Seafood,American (New),Live/Raw Food",4152849922,"reservations, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94105,399 The Embarcadero
+1450,Mr. S Leather, Adult,4158637764,"creditCard, bikeParking",94103,385 8th street
+1451,Veo Optics, Eyewear & Opticians,4154342020,"creditCard, bikeParking",94108,393 Sutter street
+1452,Ales Unlimited: Beer Basement," Jazz & Blues,Beer Bar",4159238610,"reservations, creditCard, bikeParking, goodForGroups, hasTV",94102,222 Hyde street
+1453,The MINA Test Kitchen," Italian,Pop-Up Restaurants",4156255469,"reservations, creditCard, outdoorSeating, waiterService",94123,2120 Greenwich street
+1454,Salt House," American (New),Bars",4155438900,"reservations, takeout, creditCard, bikeParking, goodForGroups, waiterService",94105,545 Mission street
+1455,Yank Sing," Dim Sum,Cantonese",4157811111,"reservations, takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService, caters",94105,101 Spear street
+1456,San Francisco Symphony," Performing Arts,Music Venues",4158646000,"creditCard, bikeParking, goodForKids, goodForGroups",94102,201 Van Ness avenue
+1457,Gardenias," American (New),Seafood",4156217122,"reservations, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94115,1963 Sutter street
+1458,Veo Optics, Eyewear & Opticians,4159212020,"creditCard, bikeParking",94123,1799 Union street
+1459,Harper Paige Salon," Hair Salons,Barbers",4153911050,"creditCard, bikeParking",94108,11 Tillman Pl
+1460,Ozumo," Sushi Bars,Japanese,Asian Fusion",4158821333,"reservations, takeout, creditCard, bikeParking, goodForGroups, hasTV, waiterService, caters",94105,161 Steuart street
+1461,Micah Riot Tattoo, Tattoo,4155709540,"creditCard, bikeParking",94110,3150 18th street
+1462,Hairdoo Voodoo, Hair Salons,4158641100,"creditCard, bikeParking, goodForKids",94110,3150 18th street
+1463,Farina," Italian,Salad,Pizza",4155650360,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, hasTV, waiterService",94110,3560 18th street
+1464,Bob’s Steak &amp; Chop House," Steakhouses,Seafood",4152733088,"reservations, delivery, takeout, creditCard, goodForGroups, waiterService",94104,500 California street
+1465,RN74," Wine Bars,American (New),Venues & Event Spaces",4155437474,"reservations, creditCard, bikeParking, goodForGroups, hasTV, waiterService",94105,301 Mission street
+1466,Alcheme Salon, Hair Salons,4152969212,"creditCard, goodForKids",94108,310 Sutter street
+1467,Authentic Tattoo, Tattoo,4155251484,,94110,3150 18th Street
+1468,James Colgan Union Square," Hair Salons,Makeup Artists",4152600060,"creditCard, goodForKids",94108,166 Geary street
+1469,Top Of The Mark," Breakfast & Brunch,Cocktail Bars,Tapas/Small Plates",4153923434,"creditCard, goodForGroups, waiterService",94108,999 California street
+1470,Union Street Goldsmith," Jewelry,Appraisal Services,Jewelry Repair",4157768048,"creditCard, bikeParking",94123,2118 Union street
+1471,Five &amp; Diamond," Accessories,Men's Clothing,Women's Clothing",4152559747,"creditCard, bikeParking",94110,510 Valencia street
+1472,Elite Fine Jewelry," Jewelry,Jewelry Repair",4159319100,"creditCard, bikeParking",94115,2480 Sacramento street
+1473,Kipper Clothiers," Women's Clothing,Men's Clothing,Formal Wear",4158904431,"creditCard, bikeParking",94102,78 Gough street
+1474,Can Can Cleanse, Juice Bars & Smoothies,4154390035,"takeout, creditCard",94115,2864 California street
+1475,Atelier Emmanuel," Hair Salons,Nail Salons,Skin Care",4153628063,"creditCard, applePay, bikeParking",94108,415 Stockton street
+1476,North Beach Restaurant, Italian,4158892947,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94133,1512 Stockton street
+1477,Joseph Cozza Salon," Hair Salons,Waxing,Makeup Artists",4154333030,"creditCard, bikeParking",94108,77 Maiden Ln
+1478,Fahrenheit, Blow Dry/Out Services,4156474247,"creditCard, bikeParking, goodForKids",94114,1195 Church street
+1479,Invision Optometry," Optometrists,Eyewear & Opticians",4155639003,"creditCard, bikeParking",94115,1907 Fillmore Street
+1480,John’s Grill," Steakhouses,Seafood",4159860069,"reservations, takeout, creditCard, goodForGroups, waiterService",94102,63 Ellis street
+1481,Secret Agent Salon, Hair Salons,4154405247,"creditCard, bikeParking, goodForKids",94115,2843 California street
+1482,The Slanted Door," Vietnamese,Asian Fusion,Bars",4158618032,"reservations, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94111,1 Ferry building
+1483,Looksie Optometry," Optometrists,Eyewear & Opticians",4159929450,"creditCard, bikeParking",94109,1314 Polk street
+1484,Clock Bar," Lounges,Cocktail Bars",4153979222,"creditCard, goodForGroups, hasTV",94102,335 Powell street
+1485,Crab House At Pier 39, Seafood,4154342722,"reservations, takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService",94133,203 C Pier 39
+1486,Kanpai, Lounges,4153941111,"creditCard, bikeParking, goodForGroups",94102,222 Mason street
+1487,Ron Pernell Hair Studio," Hair Salons,Cosmetics & Beauty Supply",4157885659,"creditCard, applePay, bikeParking, goodForKids",94102,323 Geary street
+1488,Aziza - Temp. CLOSED," Moroccan,Wine Bars,Cocktail Bars",,"reservations, creditCard, goodForGroups, waiterService",94121,5800 Geary boulevard
+1489,Elan Hair Salon, Hair Salons,4158729221,"creditCard, applePay, bikeParking, goodForKids",94108,305 Grant avenue
+1490,Loved To Death," Antiques,Jewelry,Home Decor",4155511036,"creditCard, bikeParking",94117,1681 Haight street
+1491,Joseph Cozza Salon, Hair Salons,4156333933,"creditCard, bikeParking",94103,747 Market street
+1492,ANZU Restaurant &amp; Bar," Sushi Bars,Asian Fusion",4153941100,"reservations, creditCard, goodForGroups, hasTV, waiterService",94102,222 Mason street
+1493,Allen Fu Hair Studio, Hair Stylists,4158729777,"creditCard, bikeParking, goodForKids",94108,305 Grant avenue
+1494,Amy Lawson - Makeup &amp; Hair," Makeup Artists,Hair Stylists",4156768893,goodForKids,94115,
+1495,Ristobar," Italian,Pizza,Bars",4159236464,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, hasTV, waiterService",94123,2300 Chestnut street
+1496,Tonga Room &amp; Hurricane Bar, Asian Fusion,4157725278,"reservations, creditCard, goodForGroups, waiterService",94108,950 Mason street
+1497,Citrine Salon," Hair Salons,Skin Care,Nail Salons",4153591840,"creditCard, bikeParking, goodForKids",94115,1724 Fillmore street
+1498,Christopher Elbow Artisanal Chocolate," Desserts,Chocolatiers & Shops",4153551105,"takeout, creditCard, applePay, bikeParking",94102,401 Hayes street
+1499,On The Run, Shoe Stores,4156822042,"creditCard, bikeParking",94122,1310 9th avenue
+1500,Hair Collective," Hair Extensions,Makeup Artists",4154344142,"creditCard, bikeParking",94108,11 Tillman Pl
+1501,Psoas Massage + Bodywork," Massage Therapy,Rolfing",4152270331,creditCard,94107,333 3rd street
+1502,One Market Restaurant, American (New),4157775577,"reservations, creditCard, applePay, bikeParking, goodForGroups, hasTV, waiterService",94105,1 Market street
+1503,Lauren Mae Haggard, Hair Extensions,9252008197,"creditCard, bikeParking, goodForKids",94111,520 Montgomery street
+1504,Le Central, French,4153912233,"reservations, takeout, creditCard, goodForGroups, waiterService",94108,453 Bush street
+1505,Gib Bolton - Penthouse 1606," Blow Dry/Out Services,Hair Stylists,Cosmetics & Beauty Supply",4153360947,creditCard,94108,166 Geary street
+1506,Amy Kuschel Bride, Bridal,4159565657,"creditCard, bikeParking",94108,23 Grant avenue
+1507,John Panelli Hair, Hair Salons,4158242309,,94107,1440 Kansas street
+1508,In Situ, Seafood,4159416050,"reservations, creditCard, bikeParking, goodForGroups, waiterService, caters",,
+1509,Waxman’s Restaurant," American (New),Italian,Bars",4156369700,"reservations, takeout, creditCard, goodForKids, goodForGroups, outdoorSeating, hasTV, waiterService, caters",94109,900 N Point street
+1510,JINZA Couture Bridal, Bridal,4153511588,"creditCard, bikeParking",94123,1933 Union street
+1511,M A C Modern Appealing Clothing," Men's Clothing,Women's Clothing",4158633011,"creditCard, bikeParking",94102,387 Grove street
+1512,MKT Restaurant and Bar," American (New),Tapas/Small Plates",4156333838,"reservations, creditCard, bikeParking, goodForGroups, hasTV, waiterService, caters",94103,757 Market street
+1513,Maxfield’s Pied Piper Bar," Lounges,American (Traditional)",4155121111,"reservations, creditCard, goodForGroups, hasTV, waiterService",94102,2 New Montgomery street
+1514,Bambiana for Long Hair," Makeup Artists,Hair Stylists",,"creditCard, bikeParking",94109,798 Sutter street
+1515,Addison Salon, Hair Salons,4159319513,"creditCard, bikeParking, goodForKids",94115,2321 Pine street
+1516,Cowboys &amp; Angels, Hair Salons,4153628516,"creditCard, bikeParking",94102,207 Powell street
+1517,ZGO, Home Decor,4156926511,"creditCard, applePay, bikeParking",94114,600 Castro street
+1518,Salon Darya," Day Spas,Hair Salons,Skin Care",4159860177,"creditCard, bikeParking, goodForKids",94108,166 Geary street
+1519,Studio C Skincare, Skin Care,4158233209,"creditCard, bikeParking",94123,2159 Union street
+1520,diPietro Todd Salon - Pacific Heights, Hair Salons,4156744366,creditCard,94115,2239 Fillmore street
+1521,MaduSalon," Hair Salons,Hair Removal",4156264782,"creditCard, bikeParking, goodForKids",94117,300 Divisadero street
+1522,Redwood Room, Lounges,4159292372,"reservations, creditCard, goodForGroups",94102,495 Geary street
+1523,The Garden Court," Tea Rooms,Breakfast & Brunch,Lounges",4155121111,"reservations, creditCard, goodForKids, goodForGroups, waiterService",94105,2 New Montgomery street
+1524,Jin Wang, Bridal,4153979111,"creditCard, bikeParking",94108,300 Grant avenue
+1525,B44 Catalan Bistro," Spanish,Catalan,Cocktail Bars",4159866287,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, hasTV, waiterService",94104,44 Belden Pl
+1526,EPIC Steak," Steakhouses,Seafood,American (New)",4153699955,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, hasTV, waiterService",94105,369 The Embarcadero
+1527,Proper Suit," Formal Wear,Men's Clothing,Bespoke Clothing",8722289910,"creditCard, bikeParking",94111,686 Sacramento street
+1528,Groove Salon, Hair Salons,4159759900,"creditCard, applePay, bikeParking",94105,215 Fremont street
+1529,Johnson Leather, Leather Goods,8007307722,"creditCard, bikeParking",94109,1833 Polk street
+1530,Hotel Drisco, Hotels,4153462880,creditCard,94115,2901 Pacific avenue
+1531,Tosca Cafe," Italian,Wine Bars",4159869651,"reservations, creditCard, goodForGroups, waiterService",94133,242 Columbus avenue
+1532,Shannon Archuleta Tattoo, Tattoo,4153369406,"creditCard, bikeParking",94110,3150 18th street
+1533,Joui Turandot, Personal Shopping,4157354527,"creditCard, applePay, bikeParking",,
+1534,Heaven Qi &amp; Earth," Acupuncture,Massage,Naturopathic/Holistic",4154405070,"creditCard, bikeParking",94123,2906 Lyon street
+1535,Barrow Salon, Hair Salons,4157320356,"creditCard, bikeParking",94108,256 Sutter street
+1536,Franciscan Crab Restaurant, Seafood,4153627733,"reservations, takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, waiterService",94133,Pier 43 1/2
+1537,For Your Eyes Only Optometry," Optometrists,Eyewear & Opticians",4156260858,"creditCard, bikeParking",94114,552 Castro street
+1538,Zindagi Salon, Hair Salons,4159899463,"creditCard, bikeParking",94108,55 Grant avenue
+1539,Hair By Eva, Hair Stylists,4153501761,"creditCard, goodForKids",94108,133 Kearny street
+1540,Salon A7, Hair Salons,4156032877,"creditCard, bikeParking, goodForKids",94133,463 Union street
+1541,Eyedare Optometric," Optometrists,Eyewear & Opticians",4152410240,"creditCard, bikeParking",94103,3199 16th street
+1542,Robert James Color, Hair Salons,4154470773,creditCard,94108,315 Sutter street
+1543,The Brooklyn Circus," Men's Clothing,Accessories,Sports Wear",4153591999,"creditCard, bikeParking",94115,1521 Fillmore street
+1544,Alfred’s Steakhouse," Steakhouses,Bars,Desserts",4157817058,"reservations, takeout, creditCard, goodForGroups, hasTV, waiterService",94111,659 Merchant street
+1545,The Glamourist, Makeup Artists,4158605872,creditCard,94107,1301 Indiana street
+1546,J Hair Studio, Hair Salons,4155633514,"creditCard, bikeParking",94123,2064 Union street
+1547,GSQUARED A SOMA Hair Studio, Hair Salons,4158614247,creditCard,94103,360 6th street
+1548,SF Aesthetics and Laser Center," Skin Care,Laser Hair Removal,Medical Spas",4158852737,"creditCard, bikeParking",94123,1818 Lombard street
+1549,Atelier Des Modistes," Bridal,Formal Wear",4157750545,"creditCard, bikeParking",94109,1903 Hyde street
+1550,Tattoo City, Tattoo,4153459437,"creditCard, bikeParking",94105,700 Lombard street
+1551,Hayes Street Grill, Seafood,4158635545,"reservations, creditCard, goodForGroups, waiterService",94102,320 Hayes street
+1552,Mom’s the Word," Women's Clothing,Maternity Wear",4154418261,"creditCard, bikeParking",94118,3385 Sacramento street
+1553,The Perennial, American (New),4155007788,"reservations, takeout, creditCard, bikeParking, goodForGroups, waiterService",94103,59 9th street
+1554,Studio 323," Hair Stylists,Hair Extensions",4157770999,"creditCard, bikeParking",94108,323 Geary street
+1555,The Starlight Room, Lounges,4153958595,"reservations, creditCard, goodForGroups",94102,450 Powell street
+1556,Citi Shoes," Shoe Stores,Accessories",4156656112,"creditCard, bikeParking",94122,751 Irving street
+1557,Michael Daigian Design," Florists,Party & Event Planning",4158217710,"delivery, creditCard, bikeParking",94124,3450 3rd street
+1558,Cinta Salon," Blow Dry/Out Services,Hair Stylists",6284005890,"creditCard, bikeParking",94108,23 Grant avenue
+1559,Sui Generis Consignment - Mens," Men's Clothing,Used, Vintage & Consignment,Formal Wear",4154372231,"creditCard, bikeParking",94114,2231 Market street
+1560,Fresh," Cosmetics & Beauty Supply,Skin Care",4152480210,"creditCard, applePay, bikeParking",94108,301 Sutter street
+1561,Clifford Style," Makeup Artists,Blow Dry/Out Services,Hair Stylists",4158749257,"creditCard, bikeParking",94109,1538 Pacific avenue
+1562,Arty, Hair Salons,4159314405,"creditCard, bikeParking, goodForKids",94115,1680 Post street
+1563,Napa Valley Winery Exchange," Beer, Wine & Spirits,Specialty Food,Flowers & Gifts",4157712887,"creditCard, bikeParking",94102,415 Taylor street
+1564,Strong Body Love," Massage,Naturopathic/Holistic,Nutritionists",7733989372,creditCard,94114,557 Waller street
+1565,Revolver," Men's Clothing,Women's Clothing",4157951748,"creditCard, bikeParking",94117,136 Fillmore street
+1566,Dijital Fix, Electronics,4156662256,"creditCard, applePay, bikeParking",94110,820 Valencia street
+1567,Salon KaoVey, Hair Salons,4158064893,creditCard,94104,660 Market street
+1568,Level III Restaurant," Lounges,American (New)",4159292087,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94102,515 Mason Street
+1569,Jesse James Enterprises, Jewelry,4152550789,"creditCard, bikeParking",94103,868 Brannan street
+1570,Acrimony," Women's Clothing,Men's Clothing,Accessories",4158611025,"creditCard, bikeParking",94102,333 Hayes street
+1571,Marrakech Moroccan Restaurant," Moroccan,Hookah Bars",4157766717,"reservations, takeout, creditCard, goodForGroups, waiterService, caters",94102,419 O&#39;Farrell street
+1572,Kim Pfabe’s Sugarcane, Skin Care,4157481869,"creditCard, bikeParking",94103,14 10th street
+1573,Timbuk2," Luggage,Accessories,Customized Merchandise",4152529860,"creditCard, bikeParking",94102,506 Hayes street
+1574,Music Together of San Francisco, Musical Instruments & Teachers,4155960299,"creditCard, bikeParking",94110,
+1575,Schein &amp; Schein," Home Decor,Antiques,Art Galleries",4153998882,creditCard,94133,1435 Grant avenue
+1576,Paxton Gate’s Curiosities For Kids, Toy Stores,4152529990,"creditCard, bikeParking",94110,766 Valencia street
+1577,Waterlily Pond," Florists,Bridal",4153774435,creditCard,94110,1501 Cortland avenue
+1578,Floramor Studios," Florists,Event Planning & Services",4159752020,"delivery, creditCard",94124,2200 Jerrold avenue
+1579,iBrow Vixen Permanent Cosmetics Center," Permanent Makeup,Eyelash Service",6282320574,"creditCard, bikeParking",94115,1445 Fillmore street
+1580,Laku," Women's Clothing,Accessories",4156951462,"creditCard, bikeParking",94110,1069 Valencia street
+1581,Diptyque Paris, Cosmetics & Beauty Supply,4154020600,creditCard,94108,73 Geary street
+1582,Sam’s Grill &amp; Seafood Restaurant, Seafood,4154210594,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94104,374 Bush street
+1583,The Commissary," Spanish,American (New),Beer, Wine & Spirits",4155613600,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService",94129,101 Montgomery street
+1584,Population Salon - Mission, Hair Salons,4154407677,"creditCard, bikeParking",94103,498 14th street
+1585,Mabuhay Kids - Clothes and Toys for Girls and Boys," Toy Stores,Children's Clothing",4159700369,creditCard,94114,1195 Church street
+1586,SFMOMA Museum Store," Bookstores,Cards & Stationery",4153574000,"creditCard, bikeParking",94103,151 3rd street
+1587,Poco Dolce Chocolates," Chocolatiers & Shops,Candy Stores",4152551443,"takeout, creditCard, bikeParking",94107,2421 3rd street
+1588,MASH Transit, Bikes,4154486611,"creditCard, bikeParking",94114,284 Sanchez street
+1589,Grasshopper Hair Salon, Hair Salons,4154950424,"creditCard, bikeParking",94107,28 S Park street
+1590,Tsunami Mission Bay," Japanese,Sushi Bars",4152840111,"reservations, takeout, creditCard, applePay, bikeParking, goodForGroups, hasTV, waiterService",94158,301 King street
+1591,Goldberry Jewelers," Jewelry,Bridal",4159214389,"creditCard, bikeParking",94118,3516 Sacramento street
+1592,Trabert Goldsmiths, Jewelry,4155678887,"creditCard, bikeParking",94115,2420 Fillmore street
+1593,Wild Feather," Women's Clothing,Accessories,Jewelry",4157862614,creditCard,94117,597 Haight street
+1594,Omni San Francisco, Hotels,4156779494,creditCard,94104,500 California street
+1595,Minamoto Kitchoan, Desserts,4159891645,"takeout, creditCard, bikeParking",94104,648 Market street
+1596,Chandler Fine Art &amp; Framing," Art Galleries,Framing",4155461113,"creditCard, bikeParking",94105,170 Minna street
+1597,Tailors’ Keep," Bespoke Clothing,Men's Clothing,Sewing & Alterations",4158569736,"creditCard, applePay, bikeParking",94111,618 Washington street
+1598,Urban Mercantile," Cards & Stationery,Home Decor,Gift Shops",4156436372,"creditCard, bikeParking",94117,85 Carl street
+1599,Keith James Salon, Hair Salons,4154459500,,94102,870 Market street
+1600,Peace Industry," Home Decor,Carpeting,Rugs",4152559940,creditCard,,
+1601,Bell’occhio, Gift Shops,4158644048,creditCard,94103,10 Brady street
+1602,MN Studio, Eyelash Service,4154244765,"creditCard, bikeParking",94123,2155 Union street
+1603,Patrick Richards Salon, Hair Salons,4159224247,goodForKids,94118,3631 Sacramento street
+1604,Zingari Ristorante + Jazz Bar," Italian,Cocktail Bars,Jazz & Blues",4158858850,"reservations, delivery, takeout, creditCard, bikeParking, goodForGroups, hasTV, waiterService, caters",94102,501 Post street
+1605,Benihana, Japanese,4155634844,"reservations, takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService",94115,1737 Post street
+1606,Anthem," Home Decor,Furniture Stores,Interior Design",4154406500,creditCard,94115,3274 Sacramento Street
+1607,Loop Flowers &amp; Event Arts, Florists,4155178725,delivery,94107,185 Arkansas street
+1608,MAAS &amp; Stacks, Men's Clothing,4156785629,"creditCard, bikeParking",94114,2128 Market street
+1609,International Orange Spa," Day Spas,Yoga",4155635000,"creditCard, bikeParking",94115,2044 Fillmore street
+1610,Waterfield Designs, Luggage,4155528572,"creditCard, applePay, bikeParking",94107,2325 3rd street
+1611,Lava 9," Jewelry,Women's Clothing,Accessories",4155526468,creditCard,94102,542 Hayes street
+1612,Tania Goulart, Hair Salons,4159899463,creditCard,94108,55 Grant street
+1613,Chrome Industries," Sports Wear,Men's Clothing,Women's Clothing",4158205070,"creditCard, bikeParking",94107,580 4th street
+1614,Lavish," Women's Clothing,Cards & Stationery,Gift Shops",4155650540,"creditCard, applePay, bikeParking",94102,508 Hayes street
+1615,Haus Jewelry, Jewelry,4158639667,"creditCard, bikeParking",94103,888 Brannan street
+1616,Flora Grubb Gardens, Nurseries & Gardening,4156267256,"creditCard, bikeParking",94124,1634 Jerrold avenue
+1617,Nikko Cuts You, Hair Stylists,4158541656,"creditCard, bikeParking, goodForKids",94104,660 Market street
+1618,"Heather McFarlin, CMT", Massage,4156375860,creditCard,94123,1863 Union street
+1619,Manika Fine Jewelry, Jewelry,4153991990,"creditCard, bikeParking",94105,645 Market street
+1620,Taylor Stitch," Men's Clothing,Accessories,Women's Clothing",4156212231,"creditCard, bikeParking",94103,383 Valencia street
+1621,Alex Chases Salon, Hair Salons,4153975505,creditCard,94108,166 Geary street
+1622,Recchiuti Confections at the Ferry Building," Chocolatiers & Shops,Candy Stores",4158349494,"takeout, creditCard, bikeParking",94111,1 Ferry building
+1623,Natalie Bowen Designs, Florists,4159486035,creditCard,94103,1110 Harrison street
+1624,Eye Q Optometry, Eyewear & Opticians,4158213937,creditCard,94114,4017 24th street
+1625,Spa Radiance," Skin Care,Massage,Laser Hair Removal",4153466281,"creditCard, bikeParking",94123,3011 Fillmore street
+1626,Back To the Picture," Art Galleries,Framing",4158262321,"creditCard, bikeParking",94110,934 Valencia street
+1627,SKIN Medical Spa," Skin Care,Medical Spas",4154096500,"creditCard, bikeParking",94123,1825 Union street
+1628,Nancy Liu Chin Designs," Florists,Wedding Planning",4157570393,creditCard,94107,548 5th street
+1629,Go Blush By Tammy Son, Makeup Artists,4089302531,,94123,
+1630,Nice N’ Clean," Dry Cleaning & Laundry,Sewing & Alterations",4159297323,creditCard,94109,1774 Sacramento street
+1631,Yael Designs, Jewelry,4159899235,"creditCard, bikeParking",94108,49 Geary street
+1632,SamHill Salon, Hair Salons,4152992461,"creditCard, bikeParking, goodForKids",94108,166 Geary street
+1633,Bauerware Cabinet Hardware, Hardware Stores,4158643886,"creditCard, bikeParking",94114,3886 17th street
+1634,Park Couture, Men's Clothing,4158685727,creditCard,94109,
+1635,Blink Eyebrows &amp; Cosmetics, Eyebrow Services,4153990789,creditCard,94108,166 Geary street
+1636,Lang Antiques," Jewelry,Jewelry Repair",4159822213,"creditCard, bikeParking",94108,309 Sutter street
+1637,Moxi," Hair Salons,Waxing",4157751980,"creditCard, bikeParking, goodForKids",94109,2455 Polk street
+1638,Nest Maternity," Maternity Wear,Children's Clothing,Women's Clothing",4156733320,"creditCard, bikeParking",94115,1839 Divisadero street
+1639,Piedmont Boutique," Costumes,Accessories",4158648075,"creditCard, bikeParking",94117,1452 Haight street
+1640,"Usha Rajagopal, MD"," Cosmetic Surgeons,Medical Spas",4153923333,"creditCard, bikeParking",94102,490 Post street
+1641,Margaret O’Leary," Women's Clothing,Accessories",4153911010,"creditCard, bikeParking",94108,1 Claude Ln
+1642,Lash Tec," Eyelash Service,Waxing",4156628008,"creditCard, bikeParking",94116,1984 Taraval street
+1643,Heath Ceramics, Home Decor,4153615552,"creditCard, bikeParking",94110,2900 18th street
+1644,Love &amp; Luxe," Jewelry,Art Galleries",4156487781,"creditCard, bikeParking",94110,1169 Valencia street
+1645,Harputs," Women's Clothing,Bespoke Clothing",4153922222,"creditCard, bikeParking",94108,109 Geary street
+1646,Teuscher Chocolate, Chocolatiers & Shops,4158340850,"takeout, creditCard",94108,307 Sutter street
+1647,Cityscape Lounge," Cocktail Bars,Lounges,Beer, Wine & Spirits",4159235002,"creditCard, bikeParking, goodForGroups",94102,333 O&#39;Farrell street
+1648,Nordstrom, Department Stores,4152438500,"creditCard, applePay, bikeParking",,
+1649,Townsend Showroom, Kitchen & Bath,4157664399,"creditCard, bikeParking",94103,590 Townsend street
+1650,Bar 888," Lounges,Cocktail Bars,Wine Bars",4156166565,"reservations, creditCard, bikeParking, goodForGroups, hasTV",94103,888 Howard street
+1651,Sephora, Cosmetics & Beauty Supply,4156142704,"creditCard, applePay, bikeParking",94123,2083 Union street
+1652,Ngoc Nguyen, Hair Stylists,4156587469,"creditCard, goodForKids",94110,1041 Guerrero street
+1653,City Cycle, Bikes,4153462242,"creditCard, bikeParking",94123,3001 Steiner street
+1654,JAKE," Women's Clothing,Men's Clothing,Formal Wear",4155277611,"creditCard, applePay, bikeParking",94111,619 Sansome Street
+1655,Hair By Dante, Blow Dry/Out Services,4152990140,goodForKids,94108,55 Grant street
+1656,Kiehl’s Since 1851," Skin Care,Cosmetics & Beauty Supply",4153599260,"creditCard, bikeParking",94115,1971 Fillmore street
+1657,Capricorn Framing," Art Galleries,Framing",4152923390,"creditCard, bikeParking, goodForKids",94118,3232 Geary boulevard
+1658,Zwillinger &amp; Co., Jewelry,4153924086,"creditCard, bikeParking",94108,210 Post street
+1659,Kika’s Treats, Chocolatiers & Shops,4152822020,,94110,
+1660,Dependable Letterpress," Cards & Stationery,Printing Services,Graphic Design",4155030981,creditCard,94107,1192 Illinois street
+1661,Smoke &amp; Mirrors, Hair Salons,4152490840,"creditCard, bikeParking",94108,256 Sutter street
+1662,Clement Store Passport Photo, Photography Stores & Services,,,94118,637 Clement street
+1663,Hi Ho Silver, Jewelry,4157714446,"creditCard, bikeParking",94115,1904 Fillmore street
+1664,Maiden Lane Salon &amp; Spa," Hair Salons,Hair Removal,Skin Care",4159812426,"creditCard, goodForKids",94108,126 Post street
+1665,Flight 001, Luggage,4154871001,"creditCard, bikeParking",94102,525 Hayes street
+1666,Bay Area Cosmetic Dermatology," Dermatologists,Skin Care,Medical Spas",4152926350,"creditCard, applePay",94115,2299 Post street
+1667,Curator," Women's Clothing,Jewelry",4159709828,"creditCard, bikeParking",94131,1767 Church street
+1668,Grill At the St Regis," American (New),Cocktail Bars,Breakfast & Brunch",4152844188,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94105,125 3rd street
+1669,"Angie Pillion, Stylist", Hair Stylists,4152359802,,94108,55 Grant avenue  4th Fl
+1670,Jeremiah Collection," Home Decor,Furniture Stores",4156403536,"creditCard, bikeParking",94103,1608 Harrison street
+1671,Penthouse Club &amp; Restaurant," Adult Entertainment,Bars,American (Traditional)",4153912800,"reservations, creditCard, goodForGroups, hasTV, waiterService",94133,412 Broadway
+1672,Roots Restaurant," American (New),Breakfast & Brunch",4156590349,"reservations, takeout, creditCard, goodForGroups, outdoorSeating, waiterService",94108,466 Bush street
+1673,Distractions," Antiques,Used, Vintage & Consignment",4152528751,"creditCard, bikeParking",94117,1552 Haight street
+1674,Velvet Room," American (New),Breakfast & Brunch",4159292300,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94102,495 Geary street
+1675,Wine Bar &amp; Shop," Wine Bars,Beer, Wine & Spirits",4153910758,"takeout, creditCard, goodForGroups, outdoorSeating",94111,2 Embarcadero Ctr
+1676,Salon Mark Carlos," Hair Salons,Nail Salons",,creditCard,94108,11 Tillman Pl
+1677,Oso Salon, Hair Salons,4159862755,creditCard,94108,630 Bush street
+1678,Pressed Juicery, Juice Bars & Smoothies,4152851414,"takeout, creditCard, bikeParking",94114,3901 24th Street
+1679,Gary Witt," Massage,Rolfing",4153856031,creditCard,94103,475 Valencia street
+1680,Cable Car Clothiers," Men's Clothing,Barbers",4153974740,"creditCard, applePay, bikeParking",94104,110 Sutter street
+1681,diPietro Todd Salon Union Square, Hair Salons,4153970177,creditCard,94108,177 Post street
+1682,The Scarlet Huntington, Hotels,4154745400,creditCard,94108,1075 California street
+1683,Ebikelane," Bikes,Bike Repair/Maintenance,Bike Rentals",4155801452,"creditCard, applePay, bikeParking, goodForKids",94109,1452 Bush street
+1684,Bryan’s Grocery," Grocery,Meat Shops",4157520179,"takeout, creditCard, bikeParking",94118,3445 California street
+1685,Aldea Home + Baby," Furniture Stores,Baby Gear & Furniture",8664025332,"creditCard, bikeParking",94110,890 Valencia street
+1686,Nanskin, Skin Care,4155634024,creditCard,94123,1850 Union Street
+1687,Natalini Flowers By Crispy, Florists,4155031690,"delivery, creditCard, bikeParking",94102,118 Turk street
+1688,Hugo Boss," Men's Clothing,Shoe Stores,Women's Clothing",4154952082,creditCard,,
+1689,J &amp; L Refinishing Corporation," Antiques,Furniture Stores,Refinishing Services",4158262505,bikeParking,94110,620 Alabama street
+1690,Couture Designer European Clothing," Men's Clothing,Formal Wear,Bespoke Clothing",4155094698,"creditCard, applePay, bikeParking",94108,395 Sutter street
+1691,L’Olivier, French,4159817824,"reservations, takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, waiterService, caters",94111,465 Davis Ct
+1692,Claudia Kussano, Jewelry,4156710769,creditCard,94110,591 Guerrero street
+1693,The Darkside Initiative," Shoe Stores,Men's Clothing",4158371909,"creditCard, bikeParking",94133,1827 Powell street
+1694,JuvEssentials," Skin Care,Permanent Makeup,Tattoo Removal",4156545859,"creditCard, bikeParking",94102,490 Post street
+1695,U Need Alteration and Cleaner," Dry Cleaning & Laundry,Sewing & Alterations",4159298288,"creditCard, bikeParking",94123,1422 Lombard street
+1696,Cafe Kuleto, Italian,4153973621,"reservations, takeout, creditCard, goodForGroups, waiterService",94102,225 Powell street
+1697,Nob Hill Spa, Day Spas,4153452888,"creditCard, bikeParking",94108,1075 California street
+1698,Aether," Women's Clothing,Men's Clothing",4154372345,"creditCard, bikeParking",94102,489 Hayes street
+1699,Cask," Beer, Wine & Spirits",4154244844,"creditCard, applePay, bikeParking",94103,17 3rd street
+1700,Dianne Nola - Curly Hair Specialist, Hair Stylists,4157866402,"creditCard, bikeParking",94122,538 Irving street
+1701,Cliff House Terrace Room Champagne Brunch, Breakfast & Brunch,4153863330,"reservations, creditCard, applePay, bikeParking, goodForKids, goodForGroups, waiterService",94121,1090 Point Lobos
+1702,Laurel Court Restaurant &amp; Bar," Bars,American (New),Breakfast & Brunch",4157725260,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94108,950 Mason Street
+1703,Credo," Skin Care,Cosmetics & Beauty Supply",4158851800,"creditCard, applePay",94115,2136 Fillmore street
+1704,Small Frys," Children's Clothing,Shoe Stores,Gift Shops",4156483954,"creditCard, bikeParking",94114,4066 24th street
+1705,AleksandraD Fashion and Design," Women's Clothing,Formal Wear,Sewing & Alterations",4153122458,creditCard,94118,643 Spruce street
+1706,G-Star Raw Store San Francisco," Men's Clothing,Women's Clothing",4153985381,"creditCard, bikeParking",94108,76 Geary street
+1707,Icebreaker Union Square," Men's Clothing,Women's Clothing,Children's Clothing",4153999615,creditCard,94108,170 Post street
+1708,lululemon athletica," Sports Wear,Women's Clothing,Yoga",4157765858,"creditCard, bikeParking",94123,1981 Union street
+1709,Mizu Spa," Day Spas,Massage,Nail Salons",4152789988,creditCard,94158,1150 4th street
+1710,Sarah Becker Skincare, Skin Care,4154476159,creditCard,94123,3212 Fillmore street
+1711,The Voyager Shop," Men's Clothing,Women's Clothing",4157951748,creditCard,94103,365 Valencia street
+1712,Far West Fungi, Specialty Food,4159899090,"takeout, creditCard, bikeParking",94111,1 Ferry building
+1713,A.C.T. Costume Rentals, Costumes,4154392379,"creditCard, bikeParking",94103,1117 Market street
+1714,Dara Roberts Hair Design, Hair Salons,4152602698,"creditCard, bikeParking, goodForKids",94108,391 Sutter street
+1715,Benedetta," Skin Care,Cosmetics & Beauty Supply",7076653904,"creditCard, bikeParking",94111,1 Ferry Plz
+1716,InterContinental San Francisco," Hotels,Venues & Event Spaces",4156166500,creditCard,94103,888 Howard Street
+1717,"Alyson Mititieri, LE"," Medical Spas,Hair Removal,Skin Care",4153799015,"creditCard, bikeParking",94102,77 Van Ness avenue
+1718,Loews Regency San Francisco," Hotels,Health Retreats",4159862020,creditCard,94104,222 Sansome street
+1719,Mr. Pinkwhistle, Hair Salons,4159897465,"creditCard, bikeParking",94108,580 Bush street
+1720,William Stout Architectural Books, Bookstores,4153916757,creditCard,94133,804 Montgomery street
+1721,The Oak Room Restaurant, American (New),4157740264,"reservations, creditCard, goodForGroups, waiterService",94102,335 Powell street
+1722,Marine Layer," Women's Clothing,Men's Clothing,Accessories",4153462400,"creditCard, bikeParking",94123,2209 Chestnut street
+1723,Beaux Gateaux Wedding Cakes," Bakeries,Desserts",4157543043,"delivery, creditCard, bikeParking",94109,2100 Van Ness avenue
+1724,Sutro’s at The Cliff House, American (New),4153863330,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94121,1090 Point Lobos avenue
+1725,Sassoon Salon, Hair Salons,4153975105,creditCard,94108,359 Sutter street
+1726,Lush, Cosmetics & Beauty Supply,4156939633,"creditCard, applePay, bikeParking",94102,240 Powell street
+1727,BoConcept San Francisco," Furniture Stores,Interior Design,Home Decor",4153710100,"creditCard, bikeParking",94103,1 Rhode Island Street
+1728,Bose, Electronics,4153480382,"creditCard, applePay",,
+1729,Elizabeth David Salon, Hair Salons,4153627700,creditCard,94108,166 Geary street
+1730,Kwan Dermatology," Dermatologists,Medical Spas",6284004365,"creditCard, bikeParking",94108,360 Post street
+1731,McCormick &amp; Kuleto’s Seafood &amp; Steaks," Seafood,Steakhouses",4159291730,"reservations, takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService",94109,900 North Point street
+1732,"Edna F Lee, OD"," Optometrists,Eyewear & Opticians,Ophthalmologists",4155639003,creditCard,94115,1907 Fillmore street
+1733,"Baby, The Stars Shine Bright Boutique"," Women's Clothing,Accessories",4155258686,creditCard,94115,1746 Post street
+1734,Chrome Industries - Mission HUB," Men's Clothing,Women's Clothing,Sports Wear",4158749232,"creditCard, bikeParking",94110,962 Valencia street
+1735,Viange, Hair Salons,4154210888,"creditCard, bikeParking, goodForKids",94108,11 Tillman Pl
+1736,Motze," American (New),Asian Fusion,Japanese",4154841206,"reservations, creditCard, applePay, bikeParking, goodForGroups, waiterService",94110,983 Valencia street
+1737,Joan Gilbert Bride, Bridal,4157521808,,94118,3866 Clay street
+1738,Triple Aught Design," Outdoor Gear,First Aid Classes,CPR Classes",4153188252,"creditCard, bikeParking",94107,660 22nd street
+1739,Tom’s Beautiful Hair, Hair Salons,4154341527,"creditCard, bikeParking, goodForKids",94133,701 Greenwich street
+1740,Athena Karsant," Makeup Artists,Permanent Makeup",9495001146,creditCard,94108,450 Sutter street
+1741,A B Fits," Men's Clothing,Women's Clothing",4159825726,"creditCard, bikeParking",94113,1519 Grant avenue
+1742,Patrick &amp; Co, Office Equipment,4153922462,creditCard,94111,290 Battery street
+1743,Infusion Lounge," Dance Clubs,Bars,Pan Asian",4154218700,"reservations, creditCard, goodForGroups, waiterService",94102,124 Ellis street
+1744,Angelic Pretty," Women's Clothing,Accessories",4157880862,"creditCard, bikeParking",94108,15 Kearny street
+1745,Estila, Hair Salons,4159281114,creditCard,94118,3628 Sacramento street
+1746,SenSpa," Massage,Day Spas,Makeup Artists",4154411777,"creditCard, bikeParking",94129,1161 Gorgas avenue
+1747,Inn at the Presidio," Hotels,Bed & Breakfast",4158007356,creditCard,94129,42 Moraga avenue
+1748,G-Star Raw Store San Francisco - Chestnut," Women's Clothing,Men's Clothing",4155677224,creditCard,94123,2060 Chestnut Street
+1749,ATYS, Home & Garden,4154419220,creditCard,94123,2149 Union street
+1750,Brasserie S&amp;P," American (New),Bars,Breakfast & Brunch",4152769888,"reservations, takeout, creditCard, bikeParking, goodForGroups, hasTV, waiterService",94104,222 Sansome street
+1751,Ceiba SF," Women's Clothing,Accessories,Men's Clothing",4154379598,"creditCard, applePay, bikeParking",94117,1364 Haight street
+1752,Two Birds, Women's Clothing,4152851840,"creditCard, bikeParking",94114,1309 Castro street
+1753,NARS, Cosmetics & Beauty Supply,4157572485,"creditCard, bikeParking",94115,2050 Fillmore street
+1754,In Fiore, Cosmetics & Beauty Supply,4159285661,"creditCard, bikeParking",,
+1755,Partita Custom Design Jewelry," Jewelry,Watches",4154470795,"creditCard, bikeParking",94123,2235 Chestnut street
+1756,"Edward P Miranda, MD FACS"," Cosmetic Surgeons,Medical Spas",4153799015,"creditCard, bikeParking",94102,77 Van Ness avenue
+1757,Natural Resources," Maternity Wear,Adult Education,Baby Gear & Furniture",4155502611,"creditCard, bikeParking",94110,1367 Valencia street
+1758,Burke Williams Day Spa," Day Spas,Massage,Skin Care",4156947984,creditCard,,
+1759,Gold Leaf Confections," Caterers,Desserts",,,94111,
+1760,Giants Dugout, Sports Wear,4159473419,"creditCard, applePay, bikeParking",94107,24 Willie Mays Plz
+1761,Seldom Seen," Women's Clothing,Men's Clothing,Accessories",4157570915,"creditCard, bikeParking",94102,522 Octavia street
+1762,Gildardo Enrique, Hair Salons,4153851979,creditCard,94108,391 Sutter street #608
+1763,Waterlilies," Swimwear,Women's Clothing",4154749200,"creditCard, bikeParking",94118,3440 Sacramento street
+1764,Lash Lab, Eyelash Service,8884065274,"creditCard, applePay, bikeParking",94123,2113 Union street
+1765,Propeller," Home Decor,Furniture Stores",4157017767,creditCard,94102,555 Hayes street
+1766,Crystal Jade Jiang Nan," Dim Sum,Cantonese,Lounges",4153991200,"reservations, delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, waiterService",,
+1767,Aria Antiques, Antiques,4154330219,,94133,1522 Grant avenue
+1768,CryoSF," Skin Care,Cryotherapy",4158015917,"creditCard, bikeParking",94123,1735 Union street
+1769,Feastly, Supper Clubs,4158859302,"reservations, creditCard, bikeParking, goodForGroups, waiterService",94110,
+1770,Ornamento," Wedding Planning,Party & Event Planning,Florists",4156689624,creditCard,94108,950 Mason street
+1771,Peoples Barber &amp; Shop, Barbers,4154005955,"creditCard, bikeParking",94103,321 Valencia street
+1772,Don’s Village Coins," Pawn Shops,Gold Buyers",4155842515,bikeParking,94132,2536 Ocean avenue
+1773,Wolford Boutiques," Women's Clothing,Accessories",4153916727,"creditCard, bikeParking",94108,115 Maiden Ln
+1774,Laurence McKee CMT, Skin Care,4156001311,creditCard,94115,2300 California street
+1775,Spectacles of Union Square, Eyewear & Opticians,4157818556,"creditCard, bikeParking",94108,177 Maiden Ln
+1776,Falletti Foods," Meat Shops,Grocery,Beer, Wine & Spirits",4156264400,"takeout, creditCard, applePay, bikeParking",94117,308 Broderick street
+1777,"Craig Eymann, DC"," Chiropractors,Massage,Acupuncture",4156767779,creditCard,94117,129 Fillmore street
+1778,Fleur’t, Florists,4157512747,creditCard,94115,3263 Sacramento street
+1779,Pacific Plastic Surgery Group," Cosmetic Surgeons,Skin Care",4153799015,"creditCard, bikeParking",94102,77 Van Ness avenue
+1780,Emy Vo," Makeup Artists,Hair Extensions,Blow Dry/Out Services",,creditCard,94118,3628 Sacramento street
+1781,Bibbo Salon," Hair Salons,Day Spas",6284006129,"creditCard, applePay, bikeParking, goodForKids",94108,336 Sutter street
+1782,Passiflora Designs," Florists,Wedding Planning",6507849309,creditCard,94107,
+1783,Mscape Modern Interiors," Furniture Stores,Interior Design",4155431771,"creditCard, bikeParking",94103,521 6th street
+1784,Room &amp; Board," Home Decor,Furniture Stores",4152529280,"creditCard, bikeParking",94103,685 Seventh street
+1785,Flower &amp; Gold Wedding Hair and Make-up," Hair Salons,Makeup Artists",4157430452,"creditCard, goodForKids",94103,
+1786,On Cue Pilates," Pilates,Trainers,Massage",4153599955,bikeParking,94115,2799 Sacramento street
+1787,Edward’s Jewelry Imports, Jewelry,4156269333,creditCard,94103,888 Brannan street
+1788,Argonaut Hotel," Hotels,Venues & Event Spaces",4155630800,creditCard,94109,495 Jefferson street
+1789,Alla Prima Fine Lingerie, Lingerie,4158648180,"creditCard, bikeParking",94102,539 Hayes street
+1790,Color by Mia, Hair Stylists,4158234877,"creditCard, bikeParking",94108,305 Grant street
+1791,Flowers Claire Marie, Florists,4157512997,"delivery, creditCard",94118,
+1792,Body Mind Movement," Counseling & Mental Health,Massage,Life Coach",4156136507,bikeParking,94123,1850 Union street
+1793,AG Jeans," Men's Clothing,Women's Clothing",4153980546,"creditCard, bikeParking",94108,20 O&#39;Farrell Street
+1794,Bloomingdale’s," Department Stores,Cosmetics & Beauty Supply,Kitchen & Bath",4158565300,"creditCard, applePay, bikeParking",,
+1795,Seedstore," Men's Clothing,Women's Clothing",4153861600,"creditCard, bikeParking",94118,212 Clement street
+1796,Café at the Opera," Cafes,American (Traditional),Sandwiches",4158618150,"reservations, creditCard, goodForGroups, waiterService, caters",94102,301 Van Ness avenue
+1797,Foodhall," Coffee & Tea,Grocery,Ice Cream & Frozen Yogurt",4158726822,"takeout, creditCard, applePay, bikeParking",94103,3100 16th street
+1798,L’Artisan Gourmet Parisian Macarons, Macarons,4157250337,bikeParking,94124,
+1799,City Picture Frame, Framing,4155434105,"creditCard, bikeParking",94110,2140 Folsom street
+1800,Erica Carr, Makeup Artists,7073215194,creditCard,94108,678 Commercial street
+1801,Ayla," Cosmetics & Beauty Supply,Skin Care",4155207320,creditCard,94109,1825 Bush street
+1802,Spiral Hand Design, Florists,,,94107,610 22nd street
+1803,Drs Hall &amp; Szeto Optometry," Optometrists,Eyewear & Opticians",4157812020,"creditCard, bikeParking",94111,383 Sacramento street
+1804,Hotel Vitale, Hotels,4152128156,creditCard,94105,8 Mission Street
+1805,DesignNurd," Makeup Artists,Face Painting,Graphic Design",4157100795,"creditCard, bikeParking",94109,425 Hyde street
+1806,Golden Gate BrewTours," Breweries,Tours",4156761149,creditCard,94115,
+1807,M Squared, Hair Salons,4154746262,,94109,912 Sutter street
+1808,JW Marriott San Francisco Union Square, Hotels,4157718600,creditCard,94102,515 Mason street
+1809,Beate Comment," Skin Care,Hair Removal",4153931490,creditCard,94108,450 Sutter street
+1810,FarmBox SF, CSA,8888888590,creditCard,,
+1811,Harajuku SF," Women's Clothing,Accessories",4155679233,"creditCard, bikeParking",94115,22 Peace Plz
+1812,DigWineSF," Beer, Wine & Spirits",4156486133,"creditCard, bikeParking",94107,1005 Minnesota street
+1813,5A5 Lounge, Lounges,4159892539,"reservations, creditCard, bikeParking, goodForGroups",94111,244 Jackson street
+1814,The Dr. Martens Store, Shoe Stores,4155031772,"creditCard, bikeParking",94117,1621 Haight street
+1815,Triple Aught Design, Outdoor Gear,4153188252,"creditCard, bikeParking",94102,551 Hayes street
+1816,Gooder Supply," Kitchen & Bath,Building Supplies,Contractors",4157313688,creditCard,94122,1601 Noriega street
+1817,Gray Area," Cinema,Community Service/Non-Profit,Music Venues",4158431423,"creditCard, bikeParking, goodForGroups",94110,2665 Mission street
+1818,REI," Sports Wear,Outdoor Gear,Bikes",4159341938,"creditCard, bikeParking",94103,840 Brannan street
+1819,49 Geary Art Galleries, Art Galleries,,"creditCard, bikeParking",94108,49 Geary street
+1820,Spa Nordstrom," Day Spas,Massage,Cosmetics & Beauty Supply",4159775102,creditCard,94103,865 Market street
+1821,Lululemon Athletica," Sports Wear,Women's Clothing,Men's Clothing",4154020914,"creditCard, applePay, bikeParking",94108,327 Grant avenue
+1822,San Francisco Optics on Chestnut," Eyewear & Opticians,Optometrists",4159227500,"creditCard, bikeParking",94123,2248 Chestnut street
+1823,Aurea Lounge, Bars,4159893500,"reservations, creditCard, goodForGroups, hasTV",94108,905 California street
+1824,Karen Millen, Women's Clothing,4159750811,creditCard,,
+1825,Marzia Salon, Hair Salons,4153922441,"creditCard, bikeParking, goodForKids",94108,9 Kearny street
+1826,American Cyclery, Bikes,4156644545,"creditCard, bikeParking",94117,510 Frederick street
+1827,Underglass Custom Framing, Framing,4155002283,"creditCard, bikeParking",94102,524 Gough street
+1828,Yamamoto International Hair Design, Hair Salons,4153987134,goodForKids,94102,545 Sutter street
+1829,Michelle Moquin, Personal Shopping,4158896381,creditCard,,
+1830,Big Daddy’s Antiques," Antiques,Furniture Stores",4156216800,"creditCard, bikeParking",94107,1550 17th street
+1831,Allen-Edmonds, Shoe Stores,4153914545,"creditCard, bikeParking",94108,310 Sutter street
+1832,San Francisco Marriott Union Square, Hotels,4153988900,creditCard,94108,480 Sutter Street
+1833,Coach, Leather Goods,4153921772,"creditCard, bikeParking",94108,190 Post street
+1834,Whole Foods Market SoMa," Grocery,Health Markets,Organic Stores",4156180066,"delivery, takeout, creditCard, applePay, bikeParking",94107,399 4th street
+1835,New People, Shopping Centers,,bikeParking,94115,1746 Post street
+1836,Gimme Shoes, Shoe Stores,4158640691,"creditCard, bikeParking",94102,416 Hayes street
+1837,THÚY Custom Clothier, Bespoke Clothing,4157069836,"creditCard, bikeParking",94131,605 Chenery street
+1838,Toujours Lingerie," Bridal,Lingerie",4153463988,"creditCard, bikeParking",94115,2484 Sacramento street
+1839,ExploreVoice Studios," Musical Instruments & Teachers,Performing Arts,Special Education",9178551029,"creditCard, goodForKids",94110,San Jose avenue and 30th street
+1840,Spargo," Barbers,Hair Removal,Skin Care",4159894700,"creditCard, bikeParking",94111,1 Embarcadero Ctr
+1841,Terra Gallery &amp; Event Venue," Art Galleries,Venues & Event Spaces,Music Venues",4158961234,"creditCard, goodForGroups, outdoorSeating",94105,511 Harrison street
+1842,Burton Snowboards, Ski & Snowboard Shops,4152315700,"creditCard, bikeParking",94117,1630 Haight street
+1843,Weston," Women's Clothing,Accessories",4156211480,creditCard,94110,569 Valencia street
+1844,Project Juice, Juice Bars & Smoothies,4156758162,"takeout, creditCard, applePay, bikeParking, caters",,
+1845,W San Francisco, Hotels,4157775300,"creditCard, applePay",94103,181 3rd street
+1846,Unionmade, Men's Clothing,4158613373,"creditCard, bikeParking",94114,493 Sanchez street
+1847,Grand Hyatt San Francisco," Hotels,Venues & Event Spaces",4153981234,creditCard,94108,345 Stockton street
+1848,Left Space Photography Rental Studios, Photography Stores & Services,4152855338,creditCard,94110,2055 Bryant street
+1849,Antonelli’s Meat Fish &amp; Poultry," Seafood Markets,Meat Shops",4157527413,creditCard,94118,3585 California street
+1850,Fiddlesticks," Toy Stores,Children's Clothing",4155650508,"creditCard, applePay, bikeParking",94102,540 Hayes street
+1851,Alexander G., Hair Stylists,4158764688,"creditCard, bikeParking",94121,3115 Clement street
+1852,Thomas Pink," Men's Clothing,Women's Clothing",4154212022,creditCard,94108,255 Post Street
+1853,Oliver Peoples San Francisco, Eyewear & Opticians,4153623222,creditCard,94108,140 Grant avenue
+1854,Hotel Zetta San Francisco, Hotels,4155438555,creditCard,94103,55 5th street
+1855,New Parisian Cleaners, Dry Cleaning & Laundry,4159316697,creditCard,94123,2903 Baker street
+1856,Qoio," Jewelry,Accessories",4159824438,"creditCard, bikeParking",94133,509 Columbus avenue
+1857,No 3, Jewelry,4155254683,"creditCard, bikeParking",94019,1987 Hyde street
+1858,Hanson Digital," Printing Services,Photography Stores & Services,Web Design",4155589113,"creditCard, bikeParking",94107,2325 3rd street
+1859,The Alden Shop, Shoe Stores,4154216691,creditCard,94104,170 Sutter street
+1860,Gallery of Jewels, Jewelry,4152850626,"creditCard, bikeParking",94114,4089 24th street
+1861,Nest," Antiques,Jewelry,Home Decor",4152926199,"creditCard, bikeParking",94115,2300 Fillmore street
+1862,Biordi Art Imports," Home Decor,Art Galleries",4153928096,creditCard,94133,412 Columbus avenue
+1863,San Francisco Marriott Marquis, Hotels,4158961600,creditCard,94103,780 Mission Street
+1864,Waterfront Restaurant," Seafood,American (New)",4153912696,"reservations, creditCard, bikeParking, goodForGroups, outdoorSeating, hasTV, waiterService",94111,Pier 7 The Embarcadero
+1865,Glassybaby," Home Decor,Flowers & Gifts",4154233694,"creditCard, applePay, bikeParking",94123,2070 Union street
+1866,Glaser Designs," Leather Goods,Luggage",4155523188,"creditCard, bikeParking",94109,1469 Pacific avenue
+1867,Atelier Gigi," Jewelry,Jewelry Repair",5109193241,"creditCard, bikeParking",94102,490 Post street
+1868,IXIA, Florists,4154313134,"creditCard, bikeParking",94114,2331 Market street
+1869,Al’s Attire," Fashion,Bespoke Clothing",4156939900,"creditCard, bikeParking",94133,1300 Grant avenue
+1870,Fairmont San Francisco, Hotels,4157725000,creditCard,94108,950 Mason street
+1871,Busacca Gallery," Antiques,Art Galleries,Art Supplies",4157760104,"creditCard, bikeParking",94109,2010 Hyde street
+1872,Mollusk Surf Shop," Outdoor Gear,Surf Shop",4155646300,"creditCard, bikeParking",94112,4500 Irving street
+1873,Cristi Britton, Hair Stylists,4153099901,"creditCard, bikeParking",94108,266 Sutter street
+1874,United Watch Services," Watches,Watch Repair",4159569698,creditCard,94108,210 Post street
+1875,William the Beekeeper," Home Decor,Accessories",4158818170,"creditCard, bikeParking",94118,55 Clement street
+1876,Skingredient by Danica Green, Skin Care,4157026108,"creditCard, bikeParking",94117,1915 Page street
+1877,Delux Cleaners, Dry Cleaning & Laundry,4154741636,"creditCard, bikeParking",94109,1412 Sutter street
+1878,Yelena Spa, Skin Care,4153972484,creditCard,94108,166 Geary street
+1879,Gallery of Jewels, Jewelry,4156170007,creditCard,94102,427 Post street
+1880,Iron &amp; Resin, Men's Clothing,4156243288,"creditCard, bikeParking",94111,7 Columbus avenue
+1881,Farnsworth," Furniture Stores,Antiques",4155031252,creditCard,94103,393 Valencia street
+1882,Eduardo Lazo, Hair Stylists,4153971177,creditCard,94108,211 Sutter street
+1883,Bay Breeze Cleaners, Dry Cleaning & Laundry,4154745524,"creditCard, bikeParking",94109,1018 Hyde Street
+1884,Donna Fujii Color &amp; Image Institute, Beauty & Spas,4155727203,creditCard,94102,323 Geary street
+1885,Williams-Sonoma," Kitchen & Bath,Specialty Food",4153629450,"creditCard, bikeParking",94108,340 Post street
+1886,EPI Center MedSpa," Skin Care,Laser Hair Removal,Medical Spas",6284004706,creditCard,94108,450 Sutter street
+1887,Sarah Seven Salon, Bridal,4154166731,creditCard,94117,3235 Fillmore street
+1888,Cris Consignment," Women's Clothing,Used, Vintage & Consignment,Jewelry",4154741191,"creditCard, applePay, bikeParking",94109,2056 Polk street
+1889,Dr. Kurtbay Optometry," Optometrists,Eyewear & Opticians",4157595448,"creditCard, bikeParking",94122,750 Irving street
+1890,The Hairapist, Hair Salons,4154344247,,94108,166 Geary street
+1891,Stitch - Window Coverings &amp; Custom Furnishings," Shades & Blinds,Interior Design,Home Decor",4156416081,creditCard,94131,1375 Sanchez street
+1892,Whole Foods Market Ocean," Grocery,Health Markets,Organic Stores",4153337400,"takeout, creditCard, applePay, bikeParking",94112,1150 Ocean avenue
+1893,Plava Bodyworks," Massage Therapy,Rolfing,Reiki",4157428772,"creditCard, bikeParking",,
+1894,"Pinon Design, Inc.", Florists,4158824688,"delivery, creditCard",94109,
+1895,San Francisco Wine Center," Wineries,Venues & Event Spaces,Self Storage",4156557300,creditCard,94107,757 Bryant street
+1896,Welcome Stranger, Men's Clothing,4158642079,"creditCard, bikeParking",94102,460 Gough street
+1897,Heidi Says," Women's Clothing,Accessories,Jewelry",4157490655,creditCard,94115,2426 Fillmore street
+1898,Les Cent Culottes," Lingerie,Women's Clothing",4156142586,creditCard,94109,2200 Polk street
+1899,Le Meridien, Hotels,4152962900,creditCard,94111,333 Battery street
+1900,Rtch/Btch Skin Care, Skin Care,4153107354,"creditCard, bikeParking",94123,1628 Union street
+1901,Ted Baker London," Men's Clothing,Women's Clothing,Accessories",4153911256,creditCard,94108,80 Grant avenue
+1902,San Francisco Design Center," Furniture Stores,Home Decor",4154905800,"creditCard, bikeParking",94103,101 Henry Adams street
+1903,Mission Bay Optometry," Eyewear & Opticians,Optometrists",4159782630,"creditCard, bikeParking",94158,205 Berry street
+1904,LaserAway," Laser Hair Removal,Medical Spas,Tattoo Removal",6284005951,creditCard,94123,1878 Union street
+1905,Taj Campton Place, Hotels,4157815555,creditCard,94108,340 Stockton street
+1906,Sur La Table, Kitchen & Bath,4152629970,"creditCard, bikeParking",94111,1 Ferry building
+1907,Kimberly G, Hair Stylists,4152157521,creditCard,94109,531 Geary street
+1908,Echos Hair Design," Blow Dry/Out Services,Hair Stylists,Men's Hair Salons",4153971177,creditCard,94108,211 Sutter street
+1909,Crate &amp; Barrel," Furniture Stores,Home Decor,Mattresses",4159825200,creditCard,94108,55 Stockton street
+1910,Sheila Vergara," Hair Extensions,Makeup Artists,Hair Stylists",6505444243,creditCard,,
+1911,Wine &amp; Wall," Beer, Wine & Spirits,Art Galleries,Wine Bars",4152439463,"creditCard, goodForGroups",94105,30 Steuart street
+1912,Anthropologie, Women's Clothing,4154342210,"creditCard, bikeParking",94102,880 Market street
+1913,Whole Foods Market Potrero," Grocery,Health Markets,Organic Stores",4155521155,"takeout, creditCard, applePay, bikeParking, caters",94107,450 Rhode Island
+1914,Primp, Hair Salons,4159869012,creditCard,94108,391 Sutter street Ste 307
+1915,Wicked Salon, Hair Salons,4159862408,creditCard,94108,257 Grant avenue
+1916,A Bella New," Eyelash Service,Skin Care,Waxing",4158671650,creditCard,94102,323 Geary street
+1917,Spa Vitale, Day Spas,4155302572,"creditCard, bikeParking",94105,8 Mission street
+1918,Chuck Terpo Piano Service, Musical Instruments & Teachers,4154991861,,,
+1919,Tnails, Nail Salons,4159871678,creditCard,94123,3212 Fillmore street
+1920,bloomers, Florists,4155633266,"delivery, creditCard",94115,2975 Washington street
+1921,Jason Richard Hairstylist, Hair Stylists,4156018167,creditCard,94108,257 Grant avenue
+1922,Go Figure," Women's Clothing,Plus Size Fashion",4152217945,creditCard,94117,1870 Fulton street
+1923,Sunglass Hut, Eyewear & Opticians,4152925951,"creditCard, bikeParking",94123,1887 Union street
+1924,Acuity Vision Optometry Boutique," Optometrists,Eyewear & Opticians",4156732020,creditCard,94118,3610 Sacramento street
+1925,SOU SOU," Shoe Stores,Men's Clothing,Women's Clothing",4155258654,"creditCard, bikeParking",94115,1746 Post street
+1926,Plantation," Home Decor,Interior Design,Furniture Stores",4155650888,"creditCard, bikeParking",94102,336 Hayes street
+1927,Antonio Cabral, Hair Salons,4152900731,"creditCard, goodForKids",94108,336 Sutter street
+1928,Dorian Hairstylist," Hair Stylists,Blow Dry/Out Services",4152490840,"creditCard, bikeParking, goodForKids",94103,256 Sutter street
+1929,The Westin St. Francis San Francisco on Union Square, Hotels,4157740124,creditCard,94102,335 Powell street
+1930,Banana Republic," Men's Clothing,Women's Clothing,Accessories",4157883087,"creditCard, applePay, bikeParking",94108,256 Grant avenue
+1931,Hair By Travis Ryan Smith, Hair Stylists,4154202305,creditCard,94123,1609 Vallejo
+1932,Studio D, Hair Salons,4156080294,"creditCard, applePay, goodForKids",94104,660 Market street
+1933,Aritzia, Women's Clothing,4155127026,creditCard,,
+1934,Juice Shop, Juice Bars & Smoothies,4156270994,"takeout, creditCard",94104,353 Pine street
+1935,John Fluevog, Shoe Stores,4152967900,"creditCard, applePay, bikeParking",94108,253 Grant avenue
+1936,Gypsy Streetwear," Women's Clothing,Accessories",4159484158,"creditCard, bikeParking",94117,1399 Haight street
+1937,The North Face," Sports Wear,Outdoor Gear",4154333223,"creditCard, bikeParking",94108,180 Post street
+1938,Lovesac, Furniture Stores,4152421700,creditCard,94132,3251 20th Avenue
+1939,Nordstrom," Department Stores,Men's Clothing,Women's Clothing",4157531344,"creditCard, applePay, bikeParking",94132,285 Winston Dr
+1940,Al Masri, Middle Eastern,4158762300,"reservations, creditCard, goodForKids, goodForGroups, hasTV, waiterService, caters",94121,4031 Balboa street
+1941,Ngoce Hairstyles, Hair Stylists,4158786254,"creditCard, goodForKids",94123,2303 Greenwich street
+1942,"Jason Rabineau, DC"," Chiropractors,Massage,Rolfing",4155950079,creditCard,94104,582 Market street
+1943,Living Greens, Juice Bars & Smoothies,4158024535,"takeout, creditCard, bikeParking",94104,28 Trinity street
+1944,Walter Adams Framing, Framing,4159226811,creditCard,94115,2019 Fillmore street
+1945,Bbrooks Fine Flowers, Florists,4156745599,creditCard,94117,425 Divisidero street
+1946,Rims &amp; Goggles," Eyewear & Opticians,Fashion",8005516511,"creditCard, bikeParking",94108,445 Sutter street
+1947,Victor Tung Couture, Women's Clothing,4153991588,"creditCard, bikeParking",94108,654 Commercial street
+1948,Beautiful Orchids," Florists,Art Galleries,Home Decor",4155672443,"delivery, creditCard, goodForKids",94118,3319 Sacramento street
+1949,The I Spa," Day Spas,Massage,Nail Salons",4152996309,"creditCard, bikeParking",94103,888 Howard street  Fl 6
+1950,Amir H Mozaffarian, Jewelry,4153919995,creditCard,94108,155 Post street
+1951,Apple Union Square," Computers,Mobile Phones,IT Services & Computer Repair",4154864800,"creditCard, applePay, bikeParking",94108,300 Post street
+1952,Colorist Britney Ketchie at Patrick Evan Salon, Hair Stylists,4154211111,,94108,55 Grant avenue
+1953,Jackie Conlin - Personal Image Consultant, Personal Shopping,4155055399,creditCard,,
+1954,JA’s Razor Club, Men's Hair Salons,4153982707,"creditCard, bikeParking",94108,152 Geary street
+1955,Joie, Women's Clothing,4154000367,"creditCard, bikeParking",94115,2116 Fillmore street
+1956,Camper, Shoe Stores,4152961005,"creditCard, bikeParking",94108,39 Grant avenue
+1957,Haight Fillmore Whole Foods, Grocery,4155526077,"creditCard, bikeParking",94117,503 Haight street
+1958,InterContinental Mark Hopkins, Hotels,4153923434,creditCard,94108,999 California street
+1959,Valencia Whole Foods," Health Markets,Grocery",4152850231,"takeout, creditCard, bikeParking",94110,999 Valencia street
+1960,Aura Skin Spa," Skin Care,Medical Spas",4157883800,"creditCard, bikeParking",94133,118 Columbus avenue
+1961,Calvin Tran, Women's Clothing,4154411402,creditCard,94115,1942 Fillmore street
+1962,Palace Hotel, Hotels,4155121111,creditCard,94105,2 New Montgomery street
+1963,Ver Unica," Women's Clothing,Used, Vintage & Consignment",4156216259,"creditCard, bikeParking",94102,526 Hayes Street
+1964,McEvoy Ranch, Specialty Food,4152917224,"takeout, creditCard, applePay, bikeParking",94111,1 Ferry building Plz
+1965,Union Gent Haircutters, Barbers,4155671090,"creditCard, bikeParking",94123,1957 Union street
+1966,Mollie Stone’s," Grocery,Fruits & Veggies",4152558959,"takeout, creditCard, bikeParking",94114,4201 18th street
+1967,Apple Store," Computers,Mobile Phones,IT Services & Computer Repair",4158484445,"creditCard, applePay, bikeParking",94123,2125 Chestnut street
+1968,Marine Layer," Women's Clothing,Men's Clothing,Accessories",4158297519,"creditCard, bikeParking",94102,498 Octavia street
+1969,Canyon Beachwear," Women's Clothing,Swimwear",4158855070,"creditCard, bikeParking",94123,1728 Union street
+1970,Lucky Brand Jeans - SF Centre," Women's Clothing,Men's Clothing,Accessories",4152819020,creditCard,,
+1971,Bocados, Food Delivery Services,4155154771,creditCard,,
+1972,Golden Gate Obstetrics &amp; Gynecology," Obstetricians & Gynecologists,Medical Spas,Laser Hair Removal",4156661250,"creditCard, bikeParking",94111,1725 Montgomery street
+1973,Sunhee Moon, Women's Clothing,4153551800,creditCard,94103,3167 16th street
+1974,Kate Spade New York, Accessories,4152229638,"creditCard, bikeParking",,
+1975,PUBLIC Bikes + Gear - San Francisco, Bikes,4156884000,"creditCard, bikeParking",94102,549 Hayes street
+1976,Minimal," Home Decor,Jewelry",4154005572,"creditCard, bikeParking",94102,364 Hayes street
+1977,Britex Fabrics, Fabric Stores,4153922910,creditCard,94108,146 Geary street
+1978,Laura Mercier Counter, Cosmetics & Beauty Supply,4158565300,creditCard,,
+1979,479 Degrees, Specialty Food,8884799866,creditCard,94118,3450 Sacramento street
+1980,Delancey Street Christmas Tree Lot, Christmas Trees,4155127419,bikeParking,94105,Embarcadero &amp; Bryant Street
+1981,Bulo Shoes," Shoe Stores,Accessories",4152554939,"creditCard, bikeParking",94102,418 Hayes street
+1982,Sunhee Moon," Women's Clothing,Accessories",4159281800,"creditCard, bikeParking",94115,1833 Fillmore street
+1983,Jon’s School of Music, Musical Instruments & Teachers,4159715435,,94121,4150 Balboa street
+1984,Fraenkel Gallery, Art Galleries,4159812661,"creditCard, bikeParking",94108,49 Geary street
+1985,Whole Foods Market Franklin," Grocery,Health Markets,Organic Stores",4156740500,"delivery, takeout, creditCard, bikeParking",94109,1765 California Street
+1986,Ying Hobbies &amp; Toys," Music & DVDs,Toy Stores,Hobby Shops",4159866787,creditCard,94108,63 Wentworth Pl
+1987,Daffodil," Breakfast & Brunch,American (Traditional)",4153430310,"reservations, takeout, creditCard, goodForGroups, waiterService",94108,665 Bush street
+1988,Emporio Armani Boutique," Men's Clothing,Women's Clothing,Accessories",4156779400,"creditCard, bikeParking",94108,1 Grant avenue
+1989,CLub Monaco San Francisco - Women’s, Women's Clothing,4158560828,"creditCard, bikeParking",94108,865 Market street
+1990,Contrada," Pizza,Italian,Wine Bars",4159268916,"creditCard, goodForKids, goodForGroups, outdoorSeating, hasTV, waiterService",94123,2136 Union street
+1991,Equinox Pine Street," Gyms,Day Spas,Sports Clubs",4155934000,"creditCard, bikeParking",94104,301 Pine street
+1992,Bamboo," Nail Salons,Skin Care",4155678812,"creditCard, bikeParking",94123,2284B Union street
+1993,Hyatt Regency San Francisco," Hotels,Venues & Event Spaces",4157881234,creditCard,94111,5 Embarcadero Ctr
+1994,A Silvestri Co., Nurseries & Gardening,4152395990,"creditCard, bikeParking",94134,2629 Bayshore boulevard
+1995,Urban Hardwoods Furniture," Furniture Stores,Home Decor",4153979663,creditCard,94102,434 Post street
+1996,Sur La Table," Kitchen & Bath,Specialty Food,Home Decor",4158144691,creditCard,,
+1997,Azalea," Men's Clothing,Women's Clothing,Accessories",4158619888,"creditCard, applePay, bikeParking",94102,411 Hayes street
+1998,Anica Boutique, Women's Clothing,4154472878,creditCard,94109,2418 Polk street
+1999,High Society," Women's Clothing,Men's Clothing",4154470447,"creditCard, bikeParking",94123,1969 B Union Street
+2000,Atelier Yarns," Arts & Crafts,Knitting Supplies",4157711550,"creditCard, bikeParking",94115,1945 Divisadero street
+2001,CLIFT Hotel," Hotels,Venues & Event Spaces",4157754700,creditCard,94102,495 Geary street
+2002,Alba Ray’s," Cajun/Creole,Bars,Tapas/Small Plates",4158729409,"reservations, delivery, takeout, creditCard, goodForGroups, waiterService, caters",94110,2293 Mission street
+2003,Bazaar Bizarre, Arts & Crafts,,creditCard,94103,620 Seventh street
+2004,Patagonia- San Francisco," Outdoor Gear,Sports Wear",4157712050,"creditCard, bikeParking",94109,770 N Point street
+2005,The Nine Studios," Photography Stores & Services,Venues & Event Spaces",4152528551,creditCard,94103,349 9th street
+2006,Parc 55 San Francisco - A Hilton Hotel, Hotels,4153928000,creditCard,94102,55 Cyril Magnin street
+2007,Paul Mahder Gallery," Art Galleries,Framing",4154747707,"creditCard, bikeParking",94118,3424 Sacramento street
+2008,Bridal Galleria, Bridal,4153622277,"creditCard, bikeParking",94111,3 Embarcadero Ctr
+2009,The Natural Mattress Store, Mattresses,4156142220,creditCard,94109,1243 Sutter street
+2010,lucy Activewear," Women's Clothing,Accessories,Sports Wear",4152926274,"creditCard, bikeParking",94123,1974 Union street
+2011,Zaza Nail Spa," Nail Salons,Skin Care,Eyelash Service",4154956292,"creditCard, bikeParking",94107,543 2nd street
+2012,Chiu’s Acupuncture &amp; Dr Jenny’s Dermatology Skin Care," Acupuncture,Skin Care",4156686789,creditCard,94118,323 6th avenue
+2013,Deluxe Cleaners, Dry Cleaning & Laundry,4158851172,creditCard,94123,2965 Laguna street
+2014,Skinworx," Skin Care,Cosmetics & Beauty Supply",6288881128,"creditCard, bikeParking",94123,2102 Union street
+2015,West Coast Leather," Leather Goods,Women's Clothing,Men's Clothing",4153628300,"creditCard, applePay, bikeParking",94108,290 Sutter street
+2016,Bliss Spa," Day Spas,Massage,Skin Care",4158174100,"creditCard, bikeParking",94103,181 3rd street  4th Fl
+2017,Athleta, Sports Wear,4153458501,"creditCard, bikeParking",94115,2226 Fillmore street
+2018,Paul Smith," Men's Clothing,Accessories,Women's Clothing",4153523520,"creditCard, bikeParking",94108,50 Geary street
+2019,Whole Foods Market Market Street," Grocery,Health Markets,Organic Stores",4156261430,"takeout, creditCard, applePay, bikeParking",94114,2001 Market street
+2020,Kusuyama Japan Fine Crafts," Accessories,Gift Shops",4155258683,creditCard,94115,1746 Post street
+2021,American Giant," Men's Clothing,Women's Clothing",4155292429,"creditCard, applePay, bikeParking",94105,161 Natoma street
+2022,Tea Living, Children's Clothing,4156219400,creditCard,94107,1 Arkansas street
+2023,7 For All Mankind," Men's Clothing,Women's Clothing,Children's Clothing",4153990549,"creditCard, bikeParking",94108,224 Grant avenue
+2024,"David C. Mabrie, MD"," Cosmetic Surgeons,Skin Care,Medical Spas",4154459513,"creditCard, bikeParking",94108,166 Geary street
+2025,Fine Arts Optical, Eyewear & Opticians,4159137414,creditCard,94110,888 Valencia street
+2026,Cookin’: Recycled Gourmet Appurtenances, Kitchen & Bath,4158611854,"creditCard, applePay",94117,339 Divisadero street
+2027,Alessi, Home Decor,4154340403,creditCard,94108,424 Sutter street
+2028,illy Caffè," Cafes,Coffee & Tea,Italian",,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94104,220 Montgomery street
+2029,hair-by-kermit, Hair Stylists,4152836803,creditCard,94102,555 Sutter street
+2030,Sprout San Francisco," Baby Gear & Furniture,Toy Stores",4153599205,"creditCard, bikeParking",94123,1828 Union street
+2031,The Camp Kit, Outdoor Gear,4155801404,"creditCard, bikeParking",,
+2032,Shinola," Leather Goods,Watches,Bikes",4155131640,"creditCard, bikeParking",94111,722 Montgomery street
+2033,Yogurt Saint Benoit, Ice Cream & Frozen Yogurt,,,94111,1 Ferry Building
+2034,Mollie Stone’s, Grocery,4156641600,"takeout, creditCard, bikeParking",94127,635 Portola Dr
+2035,Make Eat Easy, Food Delivery Services,4153167576,creditCard,,
+2036,Hearsay Supper Club, Supper Clubs,,"creditCard, bikeParking, hasTV",,
+2037,Bubble," Children's Clothing,Toy Stores",4157710570,"creditCard, bikeParking",94123,2163 Union street
+2038,Clean Image, Dry Cleaning & Laundry,4159222080,creditCard,94123,3141 Fillmore street
+2039,HD Buttercup, Furniture Stores,4158204788,"creditCard, bikeParking",94107,290 Townsend street
+2040,Modern Relics," Jewelry,Art Galleries",4154220477,creditCard,94118,771 Cabrillo avenue
+2041,Cotton Sheep," Women's Clothing,Children's Clothing,Men's Clothing",4156215546,"creditCard, bikeParking",94102,572 Hayes street
+2042,Fillmore Florist, Florists,4159295200,"delivery, creditCard",94115,1880 Fillmore street
+2043,Avenue Fine Food Market," Grocery,Beer, Wine & Spirits",4157758632,creditCard,94109,1837 Pacific avenue
+2044,The Nature Stop," Grocery,Health Markets",4153983810,"takeout, creditCard, bikeParking",94133,1336 Grant avenue
+2045,Poetica Art and Antiques," Furniture Stores,Antiques,Jewelry",4156375837,"creditCard, bikeParking",94118,3461 Sacramento street
+2046,The Spa," Massage,Skin Care,Hair Removal",4156333990,creditCard,94103,747 Market street
+2047,Nob Hill Inn, Hotels,4156736080,"creditCard, applePay",94109,1000 Pine street
+2048,Krimsa Fine Rugs &amp; Decor," Carpeting,Home Decor,Carpet Cleaning",4154414321,"creditCard, bikeParking",94123,2190 Union street
+2049,Détente Spa Services," Day Spas,Massage Therapy,Skin Care",4158575245,,94115,1749 O&#39;farrell street
+2050,Noise Pop Festival," Music Venues,Local Flavor,Festivals",4153753370,goodForGroups,94110,
+2051,Vanity Beauty Lounge," Day Spas,Nail Salons",4153622242,"creditCard, bikeParking",94111,3 Embarcadero Ctr
+2052,Swan’s Neck Vodka," Beer, Wine & Spirits",4155529755,,94123,3053 Fillmore street
+2053,The Hundreds," Women's Clothing,Men's Clothing,Shoe Stores",4158179912,"creditCard, bikeParking",94109,585 Post street
+2054,Aedicule," Framing,Antiques",4157715837,creditCard,94115,3225 Sacramento street
+2055,Marmot," Sports Wear,Accessories,Outdoor Gear",4153917015,"creditCard, bikeParking",94108,165 Post street
+2056,Brilliant Earth," Jewelry,Bridal",4153544623,"creditCard, bikeParking",94108,26 O&#39;Farrell street
+2057,Hilton San Francisco Financial District, Hotels,4154336600,"creditCard, applePay",94108,750 Kearny street
+2058,Dish Clothing," Women's Clothing,Accessories",4152525997,creditCard,94102,541 Hayes street
+2059,Thrive Cleanse, Juice Bars & Smoothies,4158025131,creditCard,94111,1 Embarcadero Ctr
+2060,Rejouvenance, Skin Care,4155677222,creditCard,94109,1500 Vallejo street
+2061,Henri Hubert," Men's Clothing,Women's Clothing,Antiques",4157637770,creditCard,94103,845 Market street  Fl 4
+2062,lucy Activewear," Women's Clothing,Sports Wear,Accessories",4157650943,creditCard,94111,3 Embarcadero Ctr
+2063,Anaise," Women's Clothing,Shoe Stores,Jewelry",4088079379,creditCard,94110,3686 20th street
+2064,Green Leaves Natural Spa &amp; Lash," Day Spas,Skin Care,Eyelash Service",4157154180,"creditCard, bikeParking",94114,3836 24th street
+2065,Clancy’s Christmas Trees &amp; Pumpkin Patch," Christmas Trees,Pumpkin Patches",4157532689,"creditCard, bikeParking",94122,1620 7th avenue
+2066,Performance Audio," Home Theatre Installation,Electronics,Contractors",4154416220,"creditCard, bikeParking",,
+2067,Paolo Shoes, Shoe Stores,4155524580,creditCard,94102,524 Hayes street
+2068,H2 Cards, Cards & Stationery,4153626888,"creditCard, bikeParking",94111,638 Washington street
+2069,Natural Tea Shop, Coffee & Tea,4159828989,creditCard,94133,1199 #D Stockton Street
+2070,Whole Foods Market Haight," Grocery,Health Markets,Organic Stores",4158766740,"takeout, creditCard, applePay, bikeParking",94117,690 Stanyan Street
+2071,Rebekah Northway Floral Design, Florists,4153352205,creditCard,,
+2072,Wee Scotty," Sewing & Alterations,Children's Clothing",4152219200,"creditCard, bikeParking",94118,609 Clement street
+2073,Laurel Beauty Lab, Hair Salons,4155801929,"creditCard, bikeParking",94104,660 Market street
+2074,GANT," Men's Clothing,Shoe Stores,Women's Clothing",4154371949,"creditCard, bikeParking",94102,552 Hayes street
+2075,Convert," Men's Clothing,Accessories,Women's Clothing",4152527991,"creditCard, bikeParking",94102,556 Hayes street
+2076,Creative Paint, Paint Stores,4155663638,"creditCard, bikeParking",94116,2050 Taraval street
+2077,Happy Lashes, Eyelash Service,4155841200,"creditCard, bikeParking",94105,425 Market street
+2078,Madewell," Women's Clothing,Accessories,Shoe Stores",4156440748,"creditCard, bikeParking",,
+2079,Local Mission Market, Farmers Market,4157953355,"takeout, creditCard, bikeParking",94110,2670 Harrison street
+2080,Garrett Leight California Optical, Eyewear & Opticians,6284443110,"creditCard, bikeParking",94102,393 Hayes street
+2081,Park Central San Francisco, Hotels,4159746400,creditCard,94103,50 Third street
+2082,Wild Orchid Nails &amp; Spa," Nail Salons,Hair Salons",4157582066,"creditCard, goodForKids",94108,166 Geary street
+2083,Trumaker, Bespoke Clothing,4153495235,"creditCard, applePay",94109,701 Sutter street
+2084,Decades of Fashion," Men's Clothing,Women's Clothing,Hats",4155511653,"creditCard, bikeParking",94117,1653 Haight street
+2085,BCBGMAXAZRIA," Women's Clothing,Accessories,Shoe Stores",4153627360,creditCard,94102,331 Powell street
+2086,Modica Home," Home Decor,Bridal,Flowers & Gifts",4154404389,creditCard,94123,2274 Union street
+2087,Nathan Emery’s Dogpatch Tattoo, Tattoo,9165082202,"creditCard, bikeParking",94107,3340 22nd street
+2088,Earthbar," Juice Bars & Smoothies,Breakfast & Brunch",4155166480,"takeout, creditCard, bikeParking, hasTV",94103,747 Market street
+2089,The Art of Shaving," Cosmetics & Beauty Supply,Barbers",4155419801,creditCard,,
+2090,L’Occitane, Cosmetics & Beauty Supply,4156779931,"creditCard, bikeParking",94111,2 Embarcadero Center
+2091,Papyrus," Cards & Stationery,Gift Shops",4157818777,creditCard,94111,2 Embarcadero Ctr
+2092,Jo Malone, Cosmetics & Beauty Supply,4158565446,creditCard,,
+2093,Lacoste," Men's Clothing,Women's Clothing,Accessories",4156779004,"creditCard, bikeParking",94108,172 Geary street
+2094,Whole Foods Market Noe Valley," Grocery,Health Markets,Organic Stores",4152824700,"takeout, creditCard, applePay, bikeParking",94114,3950 24th street
+2095,The Hound Clothiers, Men's Clothing,4159890429,"creditCard, bikeParking",94104,140 Sutter street
+2096,Diva International," Hair Salons,Cosmetics & Beauty Supply",4155438444,"creditCard, bikeParking",94105,1 Market Plz
+2097,Wingtip," Men's Clothing,Department Stores,Social Clubs",4157650993,"creditCard, applePay, bikeParking",94111,550 Montgomery street
+2098,Marina Cleaners," Dry Cleaning & Laundry,Shoe Repair,Sewing & Alterations",4159313444,"creditCard, bikeParking",94123,3717 Buchanan street
+2099,Onassis, Men's Clothing,4152818888,"creditCard, bikeParking",,
+2100,Bath Sense, Gift Shops,4157953459,creditCard,94115,412 Presidio avenue
+2101,Cal-Mart Supermarket, Grocery,4157513516,"takeout, creditCard, applePay, bikeParking",94118,3585 California street
+2102,Fat City," Bars,Music Venues",4158612890,goodForGroups,94103,314 11th street
+2103,Jo Malone, Shopping,,creditCard,94108,Saks Fifth avenue
+2104,Apparel City Sewing Machine," Appliances & Repair,Appliances",4156216660,creditCard,94103,1330 Howard street
+2105,Sugarfina," Candy Stores,Chocolatiers & Shops",8557842734,"takeout, creditCard, applePay, bikeParking",94123,1837 Union street
+2106,Kimpton Sir Francis Drake Hotel," Hotels,Venues & Event Spaces",4153927755,creditCard,94102,450 Powell street
+2107,Beastwares, Fashion,,,94103,1811 Folsom street
+2108,Village Market," Specialty Food,Beer, Wine & Spirits",4159899200,"takeout, creditCard, bikeParking",94111,One Ferry building
+2109,Tarantula On Stilts Hair Bauhaus-IDIC," Hair Extensions,Hair Stylists",4159994921,"bikeParking, goodForKids",94122,4117 Judah street
+2110,Mission Grille, American (Traditional),4158961600,"reservations, creditCard, goodForKids, goodForGroups, hasTV, waiterService",94103,55 4th street
+2111,San Francisco Florist, Florists,4157786400,"delivery, creditCard, bikeParking",94105,188 Spear street
+2112,JCB Tasting Lounge," Beer, Wine & Spirits",4152962329,"creditCard, bikeParking",94108,600 Stockton street
+2113,Jigsaw London," Women's Clothing,Accessories,Shoe Stores",4159315520,"creditCard, bikeParking",94115,2121 Fillmore street
+2114,Ethos," Women's Clothing,Accessories",4158006707,creditCard,,
+2115,Hotel Zephyr, Hotels,4156176565,creditCard,94133,250 Beach street
+2116,Fossil Faux Studios," Building Supplies,Kitchen & Bath,Art Galleries",4156216484,creditCard,94103,1268 Folsom street
+2117,Scotch &amp; Soda," Women's Clothing,Men's Clothing,Accessories",4156448334,"creditCard, bikeParking",94108,59 Grant avenue
+2118,Outside Lands Festival," Music Venues,Festivals",,"creditCard, bikeParking, goodForGroups, outdoorSeating",94102,Golden Gate Park
+2119,John Varvatos," Men's Clothing,Shoe Stores,Accessories",4159860138,creditCard,94108,152 Geary street
+2120,Ashley Morgan Designs," Jewelry,Bridal",4152056228,creditCard,94108,210 Post street
+2121,Rand + Statler," Accessories,Women's Clothing,Men's Clothing",4156340881,"creditCard, bikeParking",94102,425 Hayes street
+2122,Dolby Chadwick Gallery, Art Galleries,4159563560,creditCard,,
+2123,Luna Boutique, Women's Clothing,4153590198,creditCard,94118,3490 Sacramento street
+2124,Sunglass Hut," Eyewear & Opticians,Accessories",4155220258,"creditCard, bikeParking",94114,511 Castro street
+2125,Davis Foot Comfort Center," Health & Medical,Shoe Stores",4156618705,"creditCard, bikeParking",94122,3921 Judah street
+2126,Harajuku Hearts," Women's Clothing,Men's Clothing,Accessories",4157880862,"creditCard, bikeParking",94108,15 Kearny street
+2127,Feinstein’s at the Nikko," Piano Bars,Music Venues,Performing Arts",4153941111,"creditCard, goodForGroups",94102,222 Mason street
+2128,Christine Jewelry, Jewelry,6284005895,creditCard,94103,888 Brannan street
+2129,Rebecca Overmann Jewelry, Jewelry,4154662992,creditCard,94110,1890 Bryant street
+2130,Lisa Weaver, Hair Salons,4153059532,,94117,659 Haight Street
+2131,giggle," Children's Clothing,Baby Gear & Furniture",4154409034,"creditCard, bikeParking",94123,2110 Chestnut street
+2132,Outfit Castro, Accessories,4158611157,"creditCard, bikeParking",94114,463 Castro street
+2133,Inclusions Gallery, Art Galleries,4158171493,"creditCard, bikeParking",94110,627 Cortland avenue
+2134,Vince," Men's Clothing,Women's Clothing",4159510771,creditCard,94108,36 Geary street
+2135,Rare Sparrow Floral Design," Party & Event Planning,Florists",4156636797,"delivery, creditCard",94121,
+2136,Executive Chef," Party & Event Planning,Personal Chefs,Cooking Classes",8009756844,creditCard,94104,
+2137,Sohn’s French Cleaners, Dry Cleaning & Laundry,4158646500,"creditCard, bikeParking",94114,2330 Market street
+2138,Botanica Los Suenos, Shopping,4156421870,,94110,3274 23rd street
+2139,Hotel Nikko San Francisco - Temp. CLOSED, Hotels,4153941111,creditCard,94102,222 Mason street
+2140,Teavana, Coffee & Tea,4156828517,"takeout, creditCard, bikeParking",94132,3251 20th avenue
+2141,Torso Vintages," Used, Vintage & Consignment,Women's Clothing,Men's Clothing",4153913166,"creditCard, applePay",94108,290 Sutter street
+2142,Hotel Whitcomb Restaurant," Bars,American (Traditional),Piano Bars",4156268000,"reservations, creditCard, goodForGroups, hasTV, waiterService",94103,1231 Market street
+2143,Love Projects, Men's Clothing,4152181788,creditCard,94102,
+2144,Incline Gallery, Art Galleries,,"creditCard, goodForKids",94110,766 Valencia street
+2145,Clarks Shoes, Shoe Stores,4155661187,creditCard,94132,3251 20th avenue
+2146,Guerrero Hill Market," Grocery,Beer, Wine & Spirits",4152852030,creditCard,94110,3398 22nd street
+2147,Verizon," Mobile Phones,Electronics,Mobile Phone Accessories",4153511700,"creditCard, applePay, bikeParking",94109,1 Daniel Burnham Ct
+2148,The Battery," Venues & Event Spaces,Hotels,Social Clubs",4152308000,creditCard,94111,717 Battery street
+2149,Tower Cleaners, Dry Cleaning & Laundry,4157318937,creditCard,94127,621 Portola Dr
+2150,Cadence Chocolates, Chocolatiers & Shops,4158903738,"takeout, creditCard",94110,
+2151,Oliver Tattoos, Tattoo,4157539648,,94122,1309 20th avenue
+2152,White Rose Boutique, Women's Clothing,4156815411,"creditCard, bikeParking",94127,242 W Portal avenue
+2153,Meghan Lunn, Hair Stylists,6024870862,"creditCard, bikeParking",94123,1808 Union street
+2154,Edible Arrangements," Gift Shops,Chocolatiers & Shops",4157313120,"creditCard, bikeParking",94127,312 W Portal avenue
+2155,AllSaints," Men's Clothing,Women's Clothing,Accessories",4157620702,"creditCard, bikeParking",94108,140 Geary Street
+2156,John Mark Salon, Hair Salons,4159890900,creditCard,94104,41 Sutter street
+2157,Classic Designs," Sports Wear,Children's Clothing,Uniforms",4156614700,"creditCard, bikeParking",94116,1551 Taraval street
+2158,Hyatt Centric Fisherman’s Wharf San Francisco, Hotels,4155631234,creditCard,94133,555 N Point street
+2159,Thom’s Natural Foods," Grocery,Health Markets",4153876367,"creditCard, bikeParking",94121,5843 Geary boulevard
+2160,Theory," Women's Clothing,Men's Clothing,Accessories",4153991099,creditCard,94108,120 Maiden Ln
+2161,Edwards Everything Travel - Edwards Luggage," Leather Goods,Luggage",4159817047,"creditCard, bikeParking",94111,3 Embarcadero Ctr
+2162,Jonathan Adler," Home Decor,Furniture Stores,Rugs",4155639500,"creditCard, bikeParking",94115,2133 Fillmore street
+2163,Gigi + Rose," Women's Clothing,Children's Clothing,Accessories",4157659060,"creditCard, bikeParking",94109,900 N Point street  Ste H103
+2164,MARUQ," Women's Clothing,Accessories,Shoe Stores",4158398390,"creditCard, bikeParking",94115,1746 Post street
+2165,Ruby Skye, Dance Clubs,4156930777,"creditCard, goodForGroups, hasTV",94102,420 Mason street
+2166,California Closets," Interior Design,Home Decor,Furniture Stores",5107632033,creditCard,,
+2167,Burberry," Men's Clothing,Women's Clothing,Accessories",4153436265,"creditCard, bikeParking",,
+2168,Steinhart Hotel &amp; Apartments, Hotels,,creditCard,94109,952 Sutter street
+2169,Mollie Stone’s," Grocery,Caterers",4155674902,"takeout, creditCard, applePay, bikeParking",94115,2435 California street
+2170,Asian Image, Cards & Stationery,4153982602,creditCard,94108,800 Grant avenue
+2171,Beckett &amp; Robb," Bespoke Clothing,Men's Clothing,Formal Wear",4154230788,"creditCard, bikeParking",94111,One Embarcadero Ctr
+2172,Klein Epstein &amp; Parker," Men's Clothing,Bespoke Clothing",4158298257,creditCard,94102,467 Gough street
+2173,WedSpring," Wedding Planning,Cards & Stationery",4156551067,creditCard,,
+2174,Aggregate Supply," Women's Clothing,Men's Clothing,Home Decor",4154743190,"creditCard, bikeParking",94110,806 Valencia street
+2175,Fresh Organics," Health Markets,Vitamins & Supplements",4155642800,"creditCard, applePay, bikeParking",94117,1023 Stanyan street
+2176,Rabat," Shoe Stores,Women's Clothing,Accessories",4152827861,creditCard,94114,4001 24th street
+2177,Lucky Brand Jeans," Women's Clothing,Men's Clothing",4157493750,"creditCard, bikeParking",94123,2301 Chestnut street
+2178,American Apparel," Men's Clothing,Women's Clothing,Accessories",4154314028,"creditCard, applePay, bikeParking",94117,1615 Haight street
+2179,MAC Cosmetics, Cosmetics & Beauty Supply,,"creditCard, bikeParking",,
+2180,Lenox Stained Glass," Windows Installation,Art Galleries",4157521365,,,
+2181,Jackson &amp; Polk, Gift Shops,4153459708,creditCard,94109,900 N Point street  Ste E206
+2182,ArtSpan," Art Galleries,Community Service/Non-Profit",4158619838,"creditCard, bikeParking, goodForKids",94103,934 Brannan street
+2183,Dong Natural Treatment Center," Massage,Naturopathic/Holistic",4152397888,"creditCard, bikeParking",94127,594 Monterey boulevard
+2184,Chandran Gallery, Art Galleries,4152869533,"creditCard, bikeParking, goodForKids",94102,459 Geary Street
+2185,Solstice Sunglasses," Eyewear & Opticians,Accessories",4155434100,creditCard,,
+2186,Kvänum Kitchens," Interior Design,Kitchen & Bath",4153999445,"creditCard, bikeParking",,
+2187,Harry Mason Designer Jewelry," Jewelry,Accessories",4155432996,"creditCard, bikeParking",94105,38 Bryant street  Suite 2
+2188,Michael W. Perry &amp; Company," Antiques,Framing",4155638853,creditCard,94115,1837 Divisadero street
+2189,Flora Permanent Beauty Center, Skin Care,4152429688,creditCard,94116,1572 Taraval street
+2190,The Kooples," Women's Clothing,Men's Clothing",,"creditCard, bikeParking",94115,2241 Fillmore street
+2191,The Family, Pubs,4157810800,"creditCard, goodForGroups",94108,545 Powell street
+2192,Giants Dugout, Sports Wear,4159563704,creditCard,94102,337 Geary street
+2193,Topo Designs," Sports Wear,Outdoor Gear,Men's Clothing",4155253749,"creditCard, bikeParking",94117,645 Divisadero
+2194,Dr. Sandra Lee &amp; Associates," Optometrists,Eyewear & Opticians",4155641818,creditCard,94122,2007 Irving street
+2195,Benchic Chocolate, Chocolatiers & Shops,,creditCard,94115,
+2196,Club Malibu, Bars,4158217395,goodForGroups,94110,3395 Mission street
+2197,Rims &amp; Goggles," Eyewear & Opticians,Fashion",4153460304,"creditCard, bikeParking",94118,3568 Sacramento street
+2198,RIF San Francisco," Shoe Stores,Accessories,Men's Clothing",4156587108,"creditCard, bikeParking",94115,1630 Post street
+2199,Apple Store," Computers,Mobile Phones,IT Services & Computer Repair",4155712780,"creditCard, applePay, bikeParking",94132,3251 20th avenue
+2200,Frame-O-Rama, Framing,4154413636,creditCard,94109,1920 Polk street
+2201,Primetime Lounge," Lounges,Sports Bars",4156689888,"creditCard, goodForGroups",94118,3565 Geary boulevard
+2202,Isabel Marant," Women's Clothing,Accessories",4157810113,"creditCard, bikeParking",94111,455 Jackson street
+2203,Nike Brand," Sports Wear,Shoe Stores",4153926453,"creditCard, applePay, bikeParking",94108,278 Post street
+2204,Elegance Preserved," Dry Cleaning & Laundry,Sewing & Alterations,Bridal",8005399092,creditCard,94107,600 The Embarcadero
+2205,Little Minskys Burlesque, Dance Clubs,,"creditCard, goodForGroups",94117,1511 Haight street
+2206,Pacific Heights Cleaners," Dry Cleaning & Laundry,Sewing & Alterations",4155675999,creditCard,94115,2437 Fillmore street
+2207,Mapamundi Kids," Toy Stores,Gift Shops,Children's Clothing",4156416192,"creditCard, bikeParking",94114,1306 Castro street
+2208,Adel’s Wine Cellar," Beer, Wine & Spirits",4157316319,"creditCard, bikeParking",94117,1400 Cole Street
+2209,J.Crew," Men's Clothing,Women's Clothing,Accessories",4154342739,creditCard,,
+2210,Pottery Barn," Furniture Stores,Rugs,Outdoor Furniture Stores",4158610800,"creditCard, bikeParking",94114,2390 Market street
+2211,The Cottage Table Company, Furniture Stores,4152025268,creditCard,94107,635 C Texas street
+2212,Simayof, Jewelry,4153910152,"creditCard, bikeParking",94102,246 Powell street
+2213,Hotel Zelos San Francisco, Hotels,4153481111,"creditCard, applePay",94103,12 4th street
+2214,Dress," Women's Clothing,Accessories",4154403737,"creditCard, bikeParking",94123,2271 Chestnut street
+2215,Hilton San Francisco Union Square, Hotels,4157711400,creditCard,94102,333 O&#39;Farrell Street
+2216,Sunglass Hut, Eyewear & Opticians,4156654167,creditCard,94132,3251 20th avenue  Ste C
+2217,ANOMIE," Women's Clothing,Cosmetics & Beauty Supply,Accessories",4158729943,"creditCard, bikeParking",94123,2149 Union street
+2218,Cotelac," Women's Clothing,Men's Clothing",4153510200,creditCard,94115,1930 Fillmore street
+2219,Grafeo Coffee, Coffee & Tea,4154575131,"creditCard, bikeParking",94133,735 Columbus avenue
+2220,Steven Alan," Women's Clothing,Men's Clothing",4155588944,"creditCard, bikeParking",94102,445 Hayes street
+2221,S16 Home," Antiques,Used, Vintage & Consignment",4155960197,"creditCard, bikeParking",94114,286 Sanchez street
+2222,Lilith, Women's Clothing,4159137600,creditCard,94115,2029 Fillmore
+2223,London Pope Barber &amp; Spa," Barbers,Day Spas",7073331567,creditCard,94108,166 Geary street
+2224,Jazz’z Salon &amp; Spa, Hair Salons,4159281198,"creditCard, goodForKids",94198,1315 Fillmore street
+2225,Smaak," Women's Clothing,Men's Clothing,Accessories",4155031430,,94102,528 Hayes Street
+2226,ForageSF Wild Kitchen," Specialty Food,Caterers,Cooking Classes",4154662938,"creditCard, bikeParking",94110,
+2227,Microsoft Store," Electronics,Computers,Mobile Phones",4152297500,"creditCard, bikeParking",,
+2228,Nob Hill Club," American (New),Lounges,Wine Bars",4153923434,"reservations, takeout, creditCard, goodForKids, goodForGroups, hasTV, waiterService",94108,1 Nob Hill Cir
+2229,Brooks Brothers," Men's Clothing,Women's Clothing",4154020476,creditCard,94108,240 Post Street

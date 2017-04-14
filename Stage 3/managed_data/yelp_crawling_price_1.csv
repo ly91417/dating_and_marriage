@@ -1,0 +1,911 @@
+id,title,cuisine,phone,feature,zipcode,street_addr
+0,The Temporarium Coffee &amp; Tea, Coffee & Tea,4155470616,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94111,3414 22nd street
+1,Little Heaven Deli," Creperies,Delis,Bubble Tea",4158241293,"delivery, takeout, creditCard, bikeParking, goodForKids, waiterService",94110,2348 Mission street
+2,Zo11 Coffee," Coffee & Tea,Sandwiches,Coffee Roasteries",4158729880,"takeout, creditCard, applePay, bikeParking",94115,1035 Fillmore street
+3,Golden Bear Trading Company," Grocery,Coffee & Tea",4156645574,"takeout, creditCard, bikeParking, outdoorSeating, caters",94122,1401 6th avenue
+4,Philz Coffee, Coffee & Tea,4158759656,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94114,549 Castro street
+5,El Gallo Giro Taco Truck," Mexican,Food Trucks",4152401224,"takeout, bikeParking, goodForKids, goodForGroups, outdoorSeating",94110,23rd street &amp; Treat avenue
+6,Five Star Truffles Co.," Coffee & Tea,Chocolatiers & Shops",4155525128,"takeout, creditCard, applePay, bikeParking",94114,4251 A 18th street
+7,Castro Coffee Company, Coffee & Tea,4155526676,"takeout, creditCard, bikeParking",94114,427 Castro street
+8,Wildcraft Espresso Bar, Coffee & Tea,4154005036,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94114,2299 Market street
+9,Cheese Boutique," Cheese Shops,Sandwiches,Delis",4153333390,"takeout, creditCard, bikeParking, goodForKids",94131,660 Chenery street
+10,Thorough Bread &amp; Pastry," Bakeries,Sandwiches",4155580690,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94114,248 Church street
+11,Arizmendi Bakery," Bakeries,Pizza",4155663117,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating",94122,1331 9th avenue
+12,Papa November, Coffee & Tea,,takeout,94103,15th &amp; Kansas SE Corner
+13,The Sandwich Place, Sandwiches,4154313811,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, caters",94110,2029 Mission street
+14,Philz Coffee, Coffee & Tea,4158171510,"takeout, creditCard, applePay, bikeParking",94114,4298 24th street
+15,Samiramis Imports," Grocery,Middle Eastern",4158246555,"reservations, creditCard",94110,2990 Mission street
+16,Cup Coffee Bar," Coffee & Tea,Sandwiches",9257052521,"takeout, creditCard, applePay, bikeParking, goodForKids, outdoorSeating",94131,6 Monterey boulevard
+17,Philz Coffee, Coffee & Tea,4152927660,"takeout, creditCard, applePay, bikeParking",94102,748 Van Ness avenue
+18,Rosamunde Sausage Grill, German,4154376851,"delivery, takeout, bikeParking, goodForKids, caters",94117,545 Haight street
+19,Faye’s Video &amp; Espresso Bar," Videos & Video Game Rental,Coffee & Tea",4155220434,"takeout, creditCard, bikeParking, outdoorSeating",94110,3614 18th street
+20,Basa Seafood Express," Seafood,Sandwiches,Burgers",4155502388,"delivery, takeout, creditCard, bikeParking, goodForKids, caters",94110,3064 24th street
+21,Spike’s Coffees &amp; Teas, Coffee & Tea,4156265573,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94114,4117 19th street
+22,Teds Market," Delis,Sandwiches,Caterers",4155520309,"takeout, creditCard, bikeParking, goodForKids",94103,1530 Howard street
+23,Parkside Market," Grocery,Delis,Beer, Wine & Spirits",4158853483,"takeout, creditCard, bikeParking",94117,1600 Hayes street
+24,R Image Market," Convenience Stores,Sandwiches",4156485400,"takeout, creditCard, bikeParking",94110,2898 Folsom street
+25,The Flying Falafel," Falafel,Vegan",4159641003,"takeout, creditCard, bikeParking, goodForKids, caters",94103,1051 Market street
+26,Central Coffee Tea &amp; Spice," Coffee & Tea,Cafes,Breakfast & Brunch",4159222008,"takeout, creditCard, applePay, bikeParking, goodForKids, outdoorSeating",94117,1696 Hayes street
+27,Irving Subs," Sandwiches,Juice Bars & Smoothies,Gluten-Free",4155663155,"delivery, takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, hasTV, caters",94122,1298 12th avenue
+28,Crepes A Go Go," Creperies,Food Stands",4155031294,"takeout, bikeParking, goodForKids, goodForGroups, outdoorSeating",94103,350 11th street
+29,Cholo Soy, Peruvian,4153127232,"takeout, creditCard, bikeParking, goodForKids, waiterService",94110,2301 Mission street
+30,Rise &amp; Grind, Coffee & Tea,4157801579,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94118,785 8th avenue
+31,Roxie Food Center," Grocery,Sandwiches",4155872345,"takeout, creditCard, bikeParking, goodForKids, caters",94112,1901 San Jose avenue
+32,El Farolito, Mexican,4158247877,"takeout, bikeParking, goodForKids, goodForGroups",94110,2779 Mission street
+33,La Palma Mexicatessen, Mexican,4156471500,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, caters",94110,2884 24th street
+34,Bayshore Taqueria, Mexican,4152851100,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, caters",94124,300 Bayshore boulevard
+35,Lou’s Cafe," Coffee & Tea,Sandwiches,Salad",4153794429,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, hasTV, caters",94118,5017 Geary boulevard
+36,Wooly Pig Cafe," Sandwiches,Coffee & Tea,Breakfast & Brunch",4155928015,"takeout, creditCard, applePay, bikeParking, goodForKids, outdoorSeating",94122,205 Hugo street
+37,Submarine Center, Sandwiches,4155641455,"takeout, creditCard, bikeParking, goodForKids, caters",94127,820 Ulloa street
+38,New College Hill Market," Convenience Stores,Bagels,Sandwiches",4152852147,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94110,3798 Mission street
+39,Saigon Sandwich," Vietnamese,Sandwiches",4154745698,"takeout, bikeParking, goodForKids",94102,560 Larkin street
+40,Bernie’s, Coffee & Tea,4156421192,"takeout, creditCard, bikeParking, outdoorSeating",94114,3966 24th street
+41,Un Cafecito," Coffee & Tea,Breakfast & Brunch,Sandwiches",4156741769,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, waiterService, caters",94102,335 Jones street
+42,The Bar On Dolores, Sports Bars,4156951745,"bikeParking, goodForGroups, hasTV",94110,1600 Dolores street
+43,Home," Coffee & Tea,Bakeries",4157420038,"takeout, creditCard, bikeParking",94122,1222 Noriega  street
+44,Arizmendi Bakery," Bakeries,Pizza",4158269218,"takeout, creditCard, applePay, bikeParking, goodForKids, caters",94110,1268 Valencia street
+45,Dinosaurs," Vietnamese,Sandwiches",4155031421,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating",94114,2275 Market street
+46,Sugarfoot," Southern,Pop-Up Restaurants",6155576392,"takeout, creditCard, bikeParking, outdoorSeating, hasTV, caters",94110,2948 Folsom street
+47,Rhea’s Deli &amp; Market," Delis,Sandwiches",4152825255,"reservations, delivery, takeout, creditCard, bikeParking, goodForKids",94110,800 Valencia street
+48,Handy Deli," Delis,Beer, Wine & Spirits",4156813323,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, caters",94122,1815 Irving street
+49,Fresh Brew Coffee," Coffee & Tea,Sandwiches,Vietnamese",4155670915,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating",94108,882 Bush street
+50,Philz Coffee, Coffee & Tea,4156217000,"takeout, creditCard, applePay, bikeParking, caters",94102,399 Golden Gate avenue
+51,Grandma’s Deli &amp; Cafe," Coffee & Tea,Sandwiches,Juice Bars & Smoothies",4152520759,"takeout, creditCard, applePay, goodForKids, goodForGroups, hasTV, caters",94103,1551 Mission street
+52,Jump Start Coffee &amp; Grocery," Coffee & Tea,Sandwiches,Beer, Wine & Spirits",4156427555,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, hasTV, waiterService",94110,1192 Guerrero street
+53,The Pizza Shop, Pizza,4158241840,"takeout, bikeParking, goodForKids, goodForGroups",94110,3104 24th street
+54,Belly Good Cafe &amp; Crepes," Ice Cream & Frozen Yogurt,Creperies",4153468383,"takeout, goodForKids, goodForGroups",94115,1737 Post street
+55,Philz Coffee," Coffee & Tea,Sandwiches",4158759943,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, outdoorSeating",94158,201 Berry street
+56,Bacon Dog Cart," Hot Dogs,Street Vendors",,"takeout, goodForKids, goodForGroups, outdoorSeating",94110,The Mission
+57,Emanuel Coffee," Breakfast & Brunch,Salvadoran,Mexican",4158650522,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, caters",94117,488 Haight street
+58,Grand Coffee, Coffee & Tea,4152061238,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94110,2663 Mission street
+59,Paulie’s Pickling," Specialty Food,Delis,Sandwiches",4152850800,"takeout, creditCard, bikeParking, goodForKids",,
+60,San Pancho’s Tacos," Food Trucks,Mexican",4152751520,"takeout, creditCard, goodForKids, goodForGroups, waiterService, caters",94124,491 Bayshore boulevard
+61,Ro Cafe," Coffee & Tea,Middle Eastern,Sandwiches",4153409765,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",94118,2739 Geary street
+62,Reem’s," Middle Eastern,Arabian,Street Vendors",5108529390,"creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94110,
+63,The Chairman Truck," Food Trucks,Taiwanese",4158138800,"takeout, applePay, bikeParking, goodForKids, goodForGroups, caters",94102,
+64,El Castillito, Mexican,6284005723,"takeout, bikeParking, goodForKids, goodForGroups",94114,136 Church street
+65,Spin City Launderette &amp; Coffee Bar," Coffee & Tea,Laundromat",4156952939,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94114,1299 Sanchez street
+66,Bacon Bacon," Breakfast & Brunch,Cafes",4152184347,"takeout, creditCard, applePay, bikeParking, goodForKids, caters",94117,205 A Frederick street
+67,Sweet Chinito Coffee," Coffee & Tea,Sandwiches,Ice Cream & Frozen Yogurt",4158213388,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, caters",94110,3100 Mission street
+68,La Espiga De Oro, Mexican,4158261363,"takeout, creditCard, bikeParking, goodForKids, hasTV, caters",94110,2916 24th street
+69,Street Taco, Mexican,4155254435,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV",94117,1607 Haight street
+70,Tierra Mia Coffee," Coffee & Tea,Coffee Roasteries,Bakeries",4155253142,"takeout, creditCard, bikeParking, outdoorSeating",94110,3188 Mission street
+71,Palmyra," Mediterranean,Middle Eastern,Syrian",4158964172,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, caters",94117,700 Haight street
+72,Calabria Bros," Caterers,Sandwiches,Delis",4152392555,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, hasTV",94112,4763 Mission street
+73,Hot Press," Cafes,Sandwiches,Vegetarian",4158143814,"delivery, takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, caters",94110,2966 Mission street
+74,Estela’s Fresh Sandwiches," Delis,Juice Bars & Smoothies,Sandwiches",4155536068,"takeout, creditCard, applePay, bikeParking, goodForKids, caters",94117,250 Fillmore street
+75,Lucky 13, Dive Bars,4154871313,"bikeParking, goodForGroups, outdoorSeating, hasTV",94114,2140 Market street
+76,Shotwell’s, Pubs,4156484104,"bikeParking, goodForGroups, hasTV",94110,3349 20th street
+77,Truly Mediterranean, Mediterranean,4152527482,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating",94103,3109 16th street
+78,La Taqueria, Mexican,4152857117,"takeout, bikeParking, goodForKids, goodForGroups, outdoorSeating",94110,2889 Mission street
+79,Guerrero Market &amp; Deli," Grocery,Delis,Sandwiches",4156472530,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94110,701 Guerrero street
+80,Wicked Grounds," Coffee & Tea,Adult Entertainment",4155030405,"takeout, creditCard, bikeParking, goodForGroups",94103,289 8th street
+81,Diamond Cafe," Cafes,American (New)",4156553674,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating",94114,751 Diamond street
+82,L&amp;G Vietnamese Sandwich," Vietnamese,Sandwiches",4153451878,"takeout, bikeParking, goodForKids",94109,602 Eddy street
+83,The Boy’s Deli," Delis,Meat Shops,Sandwiches",4157763099,"delivery, takeout, creditCard, applePay, bikeParking, goodForKids, hasTV, caters",94109,2222 Polk street
+84,Réveille Coffee Co.," Coffee & Tea,Cafes",4157896258,"takeout, creditCard, bikeParking, outdoorSeating",94114,4076 18th street
+85,Four Barrel Coffee, Coffee & Tea,4152520800,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94103,375 Valencia street
+86,Cafeto Coffee Shop," Coffee & Tea,Bagels,Juice Bars & Smoothies",4159709090,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94110,111 Richland avenue
+87,Sweet Aha!," Vegan,Bakeries,Cupcakes",4158392138,"delivery, takeout, goodForKids, goodForGroups, outdoorSeating, caters",94103,
+88,Philz Coffee, Coffee & Tea,4158148096,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94107,1775 17th street
+89,Art’s Cafe," Diners,Korean,American (Traditional)",4156657440,"takeout, bikeParking, goodForKids, waiterService",94122,747 Irving street
+90,Cafe International," Coffee & Tea,Sandwiches,Desserts",4155527390,"takeout, bikeParking, goodForKids, goodForGroups, outdoorSeating",94117,508 Haight street
+91,Frena," Bakeries,Kosher,Donuts",6284443666,"takeout, creditCard, applePay, bikeParking, goodForKids, caters",94103,132 6th street
+92,Taqueria Vallarta, Mexican,4158268116,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV",94110,3033 24th street
+93,Last Call Bar," Gay Bars,Dive Bars,Pubs",4158611310,"bikeParking, goodForGroups, hasTV",94114,3988 18th street
+94,The Black Horse London Pub, Pubs,4159282414,"bikeParking, hasTV",94123,1514 Union street
+95,DragonEats, Vietnamese,4155226689,"takeout, creditCard, bikeParking, goodForKids, caters",94117,1671 Haight street
+96,Coffee Bar," Coffee & Tea,Sandwiches",4155518100,"takeout, creditCard, bikeParking, goodForGroups, outdoorSeating",94110,1890 Bryant street
+97,RAW - A Juice Company," Juice Bars & Smoothies,Fruits & Veggies,Live/Raw Food",4154630623,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, caters",94114,2175 Market Street
+98,Love N Haight Deli," Sandwiches,Vegan,Vegetarian",4152528190,"takeout, bikeParking, goodForKids",94117,553 Haight street
+99,Tortas Los Picudos," Mexican,Juice Bars & Smoothies,Sandwiches",4158244199,"takeout, creditCard, bikeParking, goodForKids",94110,2969 24th street
+100,The Chairman, Taiwanese,4158138800,"takeout, creditCard, goodForKids, caters",94109,670 Larkin street
+101,Philz Coffee, Coffee & Tea,4154231474,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94107,1258 Minnesota street
+102,Taqueria Cancún, Mexican,4152529560,"takeout, bikeParking, goodForKids, goodForGroups",94110,2288 Mission street
+103,Tacorea," Mexican,Korean,Latin American",4158851325,"takeout, creditCard, applePay, bikeParking, goodForKids, outdoorSeating, hasTV",94108,809 Bush street
+104,Cafe Sis," Cafes,Sandwiches",,"takeout, creditCard, applePay, bikeParking, goodForKids",94118,402 Balboa street
+105,Chiotras Grocery," Grocery,Delis",4158242353,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating",94107,858 Rhode Island street
+106,El Rio," Music Venues,Dive Bars",4152823325,"bikeParking, goodForGroups, outdoorSeating",94110,3158 Mission street
+107,Zaytoon Mediterranean Wraps," Mediterranean,Sandwiches",4158241787,"takeout, creditCard, applePay, bikeParking, goodForKids, outdoorSeating, hasTV, caters",94110,1136 Valencia street
+108,Temo Cafe," Coffee & Tea,Cafes",4158292822,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, hasTV",94110,3000 24th street
+109,Noc Noc, Lounges,4158615811,"creditCard, bikeParking, goodForGroups",94117,557 Haight street
+110,Alamo Square Market &amp; Deli," Grocery,Sandwiches,Delis",4158617120,"takeout, creditCard, goodForKids, outdoorSeating",94117,535 Scott street
+111,Mission Public," Cafes,Breakfast & Brunch",4155254175,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94103,233 14th street
+112,Mojo Bicycle Café," Coffee & Tea,American (New)",4154402338,"takeout, creditCard, bikeParking, goodForGroups, outdoorSeating",94117,639 Divisadero street
+113,Java Supreme," Coffee & Tea,Breakfast & Brunch,Cafes",4152061832,"takeout, goodForKids",94110,703 Guerrero street
+114,Waffle Mania Truck," Desserts,Food Trucks,Waffles",,"takeout, bikeParking, goodForKids, goodForGroups, outdoorSeating",94102,1182 Market street
+115,Cindy’s Market," Grocery,Delis",4152217403,"takeout, creditCard, bikeParking, goodForKids, hasTV",94117,2084 Hayes street
+116,Box Kitchen," Food Stands,Burgers",4155807170,"takeout, creditCard, bikeParking, goodForGroups",94103,431 Natoma street
+117,Guerra Quality Meats," Meat Shops,Delis,Grocery",4155640585,"takeout, creditCard, goodForKids, caters",94116,490 Taraval street
+118,New Star Market," Beer, Wine & Spirits,Delis",4158610723,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating",94103,269 14th street
+119,Streets Eat Street Food," Tacos,Hot Dogs,Sandwiches",4157751055,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94102,634 Polk street
+120,Piccolo Petes Cafe, Coffee & Tea,4154836416,"takeout, creditCard, bikeParking, outdoorSeating, caters",94134,2155 Bayshore boulevard
+121,Luna’s Coffee House," Coffee & Tea,Sandwiches",4157103066,"takeout, creditCard, goodForKids, caters",94110,1101 Potrero avenue
+122,La Santaneca De La Mission," Mexican,Salvadoran",4152852131,"takeout, bikeParking, goodForKids, goodForGroups, hasTV, waiterService",94110,2815 Mission street
+123,5 Sweets," Creperies,Bubble Tea,Juice Bars & Smoothies",4153477665,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups",94112,1125 Ocean avenue 102
+124,Super Duper Burgers," Burgers,American (New)",4155588123,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating",94114,2304 Market street
+125,Phat Philly," Sandwiches,Cheesesteaks,Chicken Wings",4155507428,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, caters",94110,3388 24th street
+126,Hai Ky Mi Gia," Chinese,Vietnamese,Noodles",4157712577,"takeout, goodForKids, goodForGroups, waiterService",94109,707 Ellis street
+127,El Farolito, Mexican,4156410758,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94110,2950 24th street
+128,Turner’s Kitchen," Sandwiches,Soup,Salad",4156213505,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, caters",94110,3505 B 17th street
+129,Good Luck Cafe and Deli," Delis,Cafes,Sandwiches",4157812328,"takeout, bikeParking, goodForKids",94108,621 Kearny street
+130,The Soapbox Cafe," Vietnamese,Bagels,Cafes",4158297139,"takeout, creditCard, goodForKids, caters",94109,1800 Hyde street
+131,Church Street Groceteria," Grocery,Beer, Wine & Spirits,Delis",4156605147,"takeout, creditCard, bikeParking",94114,300 Church street
+132,DragonEats, Vietnamese,4157951469,"takeout, creditCard, bikeParking, goodForKids, caters",94102,520 Gough street
+133,Gallardos Mexican Restaurant," Mexican,Breakfast & Brunch",4154369387,"reservations, takeout, goodForKids, goodForGroups, outdoorSeating, hasTV, waiterService, caters",94110,3248 18th street
+134,Philz Coffee, Coffee & Tea,4158759370,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94110,3101 24th street
+135,Pinhole Coffee, Coffee & Tea,4153648257,"takeout, creditCard, applePay, bikeParking",94110,231 Cortland avenue
+136,Hot Sauce and Panko," Chicken Wings,Specialty Food",4153591908,"delivery, takeout, creditCard, applePay, bikeParking, goodForKids, caters",94109,1468 Hyde street
+137,Fifty / Fifty Coffee and Tea, Coffee & Tea,4156848886,"takeout, creditCard, bikeParking",94118,3157 Geary boulevard
+138,Ty Sandwich," Vietnamese,Sandwiches",4153337242,"takeout, bikeParking, goodForKids",94112,4829 Mission street
+139,El Metate Restaurant, Mexican,4156417209,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94110,2406 Bryant street
+140,Mission Pie," Bakeries,Cafes",4152821500,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",94110,2901 Mission street
+141,Cafe Me," Coffee & Tea,Sandwiches,Breakfast & Brunch",4152888628,"takeout, creditCard, applePay, bikeParking, goodForKids, outdoorSeating, hasTV",94111,500 Washington street
+142,AK Subs," Sandwiches,Salad,Burgers",4152419600,"delivery, takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, hasTV, caters",94103,397 8th street
+143,Cool Cravings," Cafes,Delis,Juice Bars & Smoothies",4157714900,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",94115,1635 Divisadero street
+144,Monterey Deli," Delis,Coffee & Tea,American (Traditional)",4153378447,"delivery, takeout, creditCard, applePay, bikeParking, goodForKids, hasTV, caters",94127,499 Monterey boulevard
+145,Arinell Pizza, Pizza,4152551303,"takeout, bikeParking, goodForKids",94110,509 Valencia street
+146,Bean Bag Cafe," Coffee & Tea,Burgers,Sandwiches",4155633634,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV",94117,601 Divisadero street
+147,Vega Cafe, Coffee & Tea,4152607581,"takeout, bikeParking",94103,1246 Folsom street
+148,Butter," Dive Bars,American (Traditional),Dance Clubs",4158635964,"takeout, creditCard, applePay, bikeParking, goodForGroups, outdoorSeating, hasTV",94103,354 11th street
+149,Marcello’s Pizza, Pizza,4158633900,"delivery, takeout, bikeParking, goodForKids, outdoorSeating, hasTV, caters",94114,420 Castro street
+150,The Jelly Donut," Donuts,Coffee & Tea",4156481419,"takeout, bikeParking",94110,3198 24th street
+151,Boba Guys," Coffee & Tea,Bubble Tea",4159672622,"takeout, creditCard, outdoorSeating",94102,8 Octavia street
+152,Tselogs, Filipino,4156587142,"takeout, creditCard, goodForKids, waiterService, caters",94102,552 Jones street
+153,Chai Bar By David Rio," Tea Rooms,Cafes",4158650677,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94103,1019 Market street
+154,Beanstalk Cafe," Coffee & Tea,Sandwiches,Bagels",4155761966,"delivery, takeout, creditCard, applePay, goodForKids, outdoorSeating, caters",94108,724 Bush street
+155,Subs Inc," Sandwiches,Ice Cream & Frozen Yogurt",4156484256,"takeout, creditCard, bikeParking, goodForKids",94114,1300 Castro street
+156,Weaver’s Coffee &amp; Tea," Coffee & Tea,Breakfast & Brunch,Wraps",4154004372,"takeout, creditCard, applePay, bikeParking",94114,2301 Market street
+157,Cafe Seventy8, Coffee & Tea,4159702233,"takeout, creditCard, bikeParking, outdoorSeating",94110,78 29th street
+158,Sophie’s Crepes," Desserts,Creperies",4159297732,"takeout, goodForKids, goodForGroups",,
+159,Bite," Delis,Sandwiches",4155632483,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating",94104,912 Sutter street
+160,Petite Deli &amp; Picnic," Delis,Sandwiches,Salad",4153747351,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating",94133,752 Columbus avenue
+161,La Santaneca," Mexican,Salvadoran,Breakfast & Brunch",4156481034,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService",94110,3781 Mission street
+162,The Cookie Cloud Cafe," Desserts,Food Stands",4157355055,"takeout, bikeParking, goodForKids, goodForGroups, caters",94114,3859 24th street
+163,The Velo Rouge Cafe," Coffee & Tea,Breakfast & Brunch,Sandwiches",4157527799,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating",94118,798 Arguello boulevard
+164,Cafe Murano," Coffee & Tea,Breakfast & Brunch,Sandwiches",4157710888,"reservations, takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, waiterService",94115,1777 Steiner street
+165,Rossi’s Delicatessen," Delis,Sandwiches",4158634533,"takeout, creditCard, bikeParking, goodForKids, caters",94114,426 Castro street
+166,Genki Crepes &amp; Mini-Mart," Desserts,Creperies",4153796414,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating",94118,330 Clement street
+167,El Buen Comer," Food Stands,Mexican",4152481332,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94114,3861 24th street &amp; Sanchez
+168,Two Sons’ Sandwiches, Sandwiches,4158631213,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, waiterService, caters",94103,2249 17th street
+169,Alimento," Delis,Gelato,Sandwiches",4152969463,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94133,507 Columbus avenue
+170,Borderlands Café, Coffee & Tea,4159706998,"takeout, bikeParking",94110,870 Valencia street
+171,Balompie Cafe No 3," Seafood,Salvadoran",4156474000,"takeout, creditCard, goodForKids, goodForGroups, outdoorSeating, hasTV, waiterService, caters",94110,3801 Mission street
+172,Cinderella Bakery &amp; Cafe," Bakeries,Russian",4157519690,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, caters",94118,436 Balboa street
+173,Glutless," Gluten-Free,Bakeries,Pizza",4153057877,"delivery, takeout, creditCard, applePay, bikeParking, goodForKids, caters",94102,325 Mason street
+174,Belmar - La Gallinita Meat Market," Mexican,Meat Shops,Caterers",4158264600,"takeout, bikeParking, goodForKids",94110,2989 24th street
+175,Taqueria el Buen Sabor, Mexican,4155528816,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94110,697 Valencia street
+176,Lou’s Cafe," Sandwiches,Breakfast & Brunch,Salad",4156824083,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, caters",94116,1508 Taraval street
+177,Mission Banh Mi," Sandwiches,Vietnamese,Delis",4155511772,"takeout, creditCard, bikeParking, goodForKids",94110,2200 Mission street
+178,Bender’s Bar and Grill," Dive Bars,American (Traditional)",4158241800,"reservations, bikeParking, goodForGroups, outdoorSeating, hasTV",94110,806 S Van Ness avenue
+179,Trax," Gay Bars,Dive Bars",4158644213,"creditCard, bikeParking, goodForGroups, hasTV",94117,1437 Haight street
+180,Liquor Express &amp; Pupuseria," Salvadoran,Beer, Wine & Spirits,Delis",4156663534,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94118,4715 Geary boulevard
+181,Kung Food, Chinese,4156736688,"reservations, delivery, takeout, creditCard, applePay, goodForKids, goodForGroups, waiterService, caters",94115,1615 McAllister street
+182,Danny Coyle’s," Pubs,Sports Bars",4155588375,"creditCard, bikeParking, goodForGroups, hasTV",94117,668 Haight street
+183,HRD," Korean,Asian Fusion,Mexican",4155432355,"delivery, takeout, creditCard, applePay, bikeParking, goodForKids, hasTV, caters",94107,521A 3rd street
+184,Los Shucos Latin Hot Dogs," Hot Dogs,Latin American",4153663868,"takeout, creditCard, applePay, bikeParking, goodForKids, outdoorSeating, caters",94110,3224 1/2 22nd street
+185,The Richfield," Coffee & Tea,American (Traditional)",,"takeout, creditCard, applePay, bikeParking, goodForKids, outdoorSeating",94118,195 5th avenue
+186,Toronado," Dive Bars,Pubs",4158632276,"bikeParking, goodForGroups, hasTV",94117,547 Haight street
+187,Scullery," Coffee & Tea,Breakfast & Brunch,Patisserie/Cake Shop",4154404497,"takeout, creditCard, applePay, bikeParking, goodForKids, outdoorSeating, caters",94102,687 Geary street
+188,SF Eagle, Gay Bars,,"bikeParking, goodForGroups, outdoorSeating, hasTV",94103,398 12th street
+189,Pancho Villa Taqueria, Mexican,4158648840,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",94103,3071 16th street
+190,The Yellow Submarine, Sandwiches,4156815652,"takeout, bikeParking, goodForKids, goodForGroups",94122,503 Irving street
+191,Grubbin’, Sandwiches,4156887116,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, caters",94116,1404 Taraval street
+192,Capital One Café," Banks & Credit Unions,Coffee & Tea,Internet Cafes",4152484920,"takeout, creditCard, applePay, bikeParking",94108,101 Post street
+193,Castro Tarts," Vietnamese,Breakfast & Brunch,Sandwiches",4158613268,"takeout, creditCard, bikeParking, goodForKids",94114,564 Castro street
+194,Caffe Ambrosia," Ice Cream & Frozen Yogurt,Coffee & Tea,Juice Bars & Smoothies",4153620538,"takeout, bikeParking, outdoorSeating",94104,14 Trinity Pl
+195,Bay Subs &amp; Deli, Sandwiches,4153463888,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating",94115,2486 Sacramento street
+196,Mr. Pickle’s Sandwich Shop," Sandwiches,Salad",4158260143,"takeout, bikeParking, goodForKids, hasTV, caters",94110,3380 20th street
+197,New Alternatives Cafe," Cafes,Breakfast & Brunch,Juice Bars & Smoothies",4158265282,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, caters",94110,1600 Guerrero street
+198,Iron Horse Coffee Bar, Coffee & Tea,,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94108,25 Maiden Ln
+199,Gold Cane Cocktail Lounge," Dive Bars,Cocktail Bars",4156261112,"bikeParking, goodForGroups, outdoorSeating, hasTV",94117,1569 Haight street
+200,Sunstream Coffee," Brazilian,Coffee & Tea,Juice Bars & Smoothies",4155675330,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, hasTV",94118,2884 Geary boulevard
+201,Saint Frank Coffee," Coffee & Tea,Cafes,Sandwiches",4157751619,"takeout, creditCard, applePay, bikeParking, goodForGroups, outdoorSeating",94109,2340 Polk street
+202,Flying Pig Bistro Pub," Sandwiches,Pubs,Sports Bars",4159341234,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, caters",94103,433 S Van Ness avenue
+203,El Sur," Food Stands,Argentine",4155302803,"delivery, takeout, creditCard, goodForKids, goodForGroups, caters",94117,
+204,Jay’n Bee Club," Pubs,Dive Bars,American (Traditional)",4158244190,"takeout, bikeParking, goodForGroups, outdoorSeating, hasTV, waiterService",94110,2736 20th street
+205,Red Sea Market," Grocery,Pizza,Sandwiches",4153343300,"delivery, takeout, creditCard, bikeParking, goodForKids, hasTV, caters",94112,1801 San Jose avenue
+206,Junior Barbecue Burger," Food Stands,Brazilian,Burgers",6502712479,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating",94124,98 Napoleon street
+207,Andytown Coffee Roasters, Coffee & Tea,4157539775,"takeout, creditCard, applePay, bikeParking, outdoorSeating, caters",94122,3655 Lawton street
+208,The Salad Place," American (Traditional),Sandwiches,Salad",4153334030,"reservations, takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService, caters",94112,400 London street
+209,The Cheese Steak Shop," Sandwiches,Cheesesteaks",4153463712,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94115,1716 Divisadero street
+210,Morty’s Delicatessen," Sandwiches,Delis,Vegetarian",4155673354,"delivery, takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, hasTV, caters",94102,280 Golden Gate avenue
+211,Ferment Drink Repeat - FDR," Breweries,Beer Bar",4158255657,"creditCard, applePay, bikeParking, goodForGroups, hasTV",94134,2636 San Bruno Avenue
+212,L’s Caffe," Coffee & Tea,Sandwiches,Bagels",4152060274,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94110,2871 24th street
+213,Tony Baloney’s," Delis,Sandwiches,Breakfast & Brunch",4158631514,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94103,1098 Howard street
+214,Cafe La Flore," Sandwiches,Cafes,Salad",4155046798,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, hasTV",94122,1340 Irving street
+215,Pakwan Restaurant - 16th Street," Indian,Pakistani",4152552440,"takeout, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, caters",94103,3180-82 16th street
+216,Mercury Cafe," Coffee & Tea,Sandwiches",4152527855,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating",94102,201 Octavia boulevard
+217,The Homestead, Bars,4152824663,"creditCard, bikeParking, goodForGroups",94110,2301 Folsom street
+218,Big Rec Taproom," Beer Bar,Sports Bars,Burgers",4157963676,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, caters",94110,3066 24th street
+219,Thieves Tavern, Dive Bars,4152529082,"applePay, bikeParking, goodForGroups, hasTV",94103,496 14th street
+220,Snowbird Coffee," Coffee & Tea,Coffee Roasteries",4155737740,"takeout, creditCard, bikeParking",94122,1352 A 9th avenue
+221,Lime Tree Southeast Asian Kitchen," Singaporean,Malaysian,Indonesian",4156651415,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService",94122,450 Irving street
+222,Kebab King," Pakistani,Halal,Indian",4156741301,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService, caters",94115,1109 Fillmore street
+223,Pastel Brazzuca," Sandwiches,Brazilian,Breakfast & Brunch",4158007057,"takeout, creditCard, applePay, bikeParking, goodForKids, outdoorSeating, hasTV",94103,290 De Haro street
+224,Mellow’s Cafe," Coffee & Tea,Bakeries,Bagels",4157598955,"takeout, creditCard, bikeParking, outdoorSeating",94116,1400 Taraval street
+225,Bello Coffee &amp; Tea, Coffee & Tea,4155853457,"takeout, creditCard, applePay, bikeParking",94131,2885 Diamond street
+226,M &amp; C Market," Beer, Wine & Spirits,Delis,Sandwiches",4159209442,creditCard,94110,1200 Valencia street
+227,Donut World," Coffee & Tea,Donuts",4156654240,"takeout, bikeParking",94122,1399 9th avenue
+228,Fritas Tacos, Mexican,4155294000,"takeout, creditCard, goodForKids, goodForGroups, caters",94103,1900 Folsom street
+229,Cordon Bleu," Vietnamese,Asian Fusion",4156735637,"takeout, bikeParking, waiterService",94109,1574 California street
+230,Wild Side West," Gay Bars,Dive Bars",4156473099,"bikeParking, goodForGroups, outdoorSeating, hasTV",94110,424 Cortland avenue
+231,Joe’s Ice Cream," Ice Cream & Frozen Yogurt,Burgers,Hot Dogs",4157511950,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94121,5420 Geary boulevard
+232,Twisted Donuts and Coffee," Donuts,Coffee & Tea,Bakeries",4154635437,"takeout, creditCard, bikeParking",94122,1243 Noriega street
+233,Luv a Java, Coffee & Tea,4154016444,"takeout, creditCard, bikeParking",94114,1300 Dolores street
+234,Little Sweet," Bubble Tea,Coffee & Tea,Juice Bars & Smoothies",4157026763,"takeout, creditCard, bikeParking, outdoorSeating, caters",94118,3836 Geary boulevard
+235,Samovar Tea," Tea Rooms,Coffee & Tea,Cafes",4155536887,"takeout, creditCard, applePay, bikeParking, outdoorSeating, caters",94103,411 Valencia street
+236,The Little Shamrock, Pubs,4156610060,"bikeParking, goodForGroups, hasTV",94122,807 Lincoln Way
+237,La Oaxaqueña," Mexican,Desserts,Seafood",4156215446,"takeout, creditCard, goodForKids, waiterService",94110,2128 Mission street
+238,Peasant Pies Noe Valley," Soup,Gluten-Free,Vegetarian",4156421316,"delivery, takeout, creditCard, applePay, bikeParking, goodForKids, caters",94114,4108 24th street
+239,Underdog," Hot Dogs,American (Traditional),Breakfast & Brunch",4156658881,"reservations, delivery, takeout, creditCard, bikeParking, goodForKids, outdoorSeating, hasTV, caters",94122,1634 Irving street
+240,That’s It Market," Beer, Wine & Spirits,Sandwiches",4152859833,"takeout, creditCard, bikeParking, hasTV",94110,2699 Mission  street
+241,Metro Caffe," Burgers,Cheesesteaks,Hot Dogs",4156219536,"delivery, takeout, creditCard, applePay, bikeParking, goodForKids, outdoorSeating, hasTV",94117,247 Fillmore street
+242,Dapper Dog, Hot Dogs,4155536332,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating",94114,417 Castro street
+243,Dynamo Donut &amp; Coffee," Coffee & Tea,Donuts",4159201978,"takeout, creditCard, bikeParking, outdoorSeating",94110,2760 24th street
+244,Tempest," American (Traditional),Dive Bars",4154951863,"takeout, creditCard, bikeParking, goodForGroups, hasTV",94103,431 Natoma street
+245,El Tonayense Taco Truck," Mexican,Food Trucks",,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",94103,1717 Harrison street
+246,Lucca Delicatessen," Delis,Sandwiches,Cheese Shops",4159217873,"takeout, creditCard, bikeParking, goodForKids, caters",94123,2120 Chestnut street
+247,Amitis Café," Coffee & Tea,Sandwiches,Poke",4155632828,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, caters",94117,800 Masonic avenue
+248,Tacos Club, Mexican,4157962818,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, hasTV",94114,2312 Market street
+249,Turk &amp; Larkin Deli," Delis,Sandwiches",4157716889,"takeout, bikeParking, goodForKids, goodForGroups, caters",94102,476 Turk street
+250,Seakor Polish Delicatessen and Sausage Factory," Grocery,Delis,Polish",4153878660,"takeout, creditCard, bikeParking, goodForKids, caters",94121,5957 Geary boulevard
+251,Church Street Cafe, Coffee & Tea,4156212233,"takeout, bikeParking, outdoorSeating",94114,260 Church street
+252,Golden Coffee Shop," Diners,Breakfast & Brunch",4159220537,"takeout, goodForKids, waiterService",94109,901 Sutter street
+253,Cafe La Flore," Sandwiches,Cafes,Salad",4153862814,"delivery, takeout, creditCard, bikeParking, goodForKids, outdoorSeating, hasTV",94118,1032 Clement street
+254,Escape From New York Pizza," Pizza,Gluten-Free,Chicken Wings",4156685577,"delivery, takeout, creditCard, bikeParking, goodForKids, caters",94117,1737 Haight street
+255,Hollow," Coffee & Tea,Gift Shops",4152424119,"takeout, creditCard, bikeParking, outdoorSeating",94122,1435 Irving street
+256,The Sandwich Shop," Sandwiches,Breakfast & Brunch,Burgers",4159340756,"takeout, creditCard, applePay, goodForKids, goodForGroups, caters",94107,2071 3rd street
+257,The Mix," Gay Bars,Dance Clubs",4154318616,"bikeParking, goodForGroups, outdoorSeating, hasTV",94114,4086 18th street
+258,Sutter St. Cafe," Cafes,Delis",4153628342,"takeout, creditCard, bikeParking, goodForKids, waiterService, caters",94108,450 Sutter street
+259,El Rincón Yucateco, Mexican,4158729231,"takeout, creditCard, bikeParking, goodForKids, hasTV, waiterService, caters",94102,491 O&#39;farrell street
+260,Taqueria Guadalajara, Mexican,4154695480,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV",94112,4798 Mission street
+261,Hole In The Wall Coffee, Coffee & Tea,4158102092,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94133,524 Union street
+262,Mission Bar," Dive Bars,Pubs",4156472300,"bikeParking, goodForGroups, hasTV",94110,2695 Mission street
+263,farm : table," Coffee & Tea,Breakfast & Brunch",,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94109,754 Post street
+264,Hoang Dat Coffee Shop," Vietnamese,Sandwiches,Coffee & Tea",4159235254,"takeout, bikeParking, goodForKids, goodForGroups, hasTV",94109,930 Geary street
+265,Sun Rise Restaurant," Latin American,Breakfast & Brunch",4152061219,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService, caters",94110,3126 24th street
+266,Eddie’s Cafe," Soul Food,Breakfast & Brunch,Cafes",4155639780,"takeout, bikeParking, goodForKids, waiterService",94117,800 Divisadero street
+267,Mexico Tipico, Mexican,4153377562,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, caters",94112,4581 Mission street
+268,Amnesia," Dive Bars,Music Venues",,"bikeParking, goodForGroups",94110,853 Valencia street
+269,The Codmother Fish and Chips," British,Fish & Chips,Seafood",4156069349,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating",94133,496 Beach street
+270,Swich," Ice Cream & Frozen Yogurt,Sandwiches,Bakeries",4155928091,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups",94122,2045 Irving street
+271,Pacific Plaza Cafe, Sandwiches,4159288999,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",94109,1338 Franklin street
+272,Boba Guys," Coffee & Tea,Bubble Tea",4159672622,"takeout, creditCard, bikeParking, outdoorSeating",94110,3491 19th street
+273,JapaCurry Truck," Food Trucks,Japanese Curry",4152908857,"takeout, goodForKids, goodForGroups",94103,
+274,Los Panchos, Mexican,4152851033,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService",94110,3206 Mission street
+275,Lava Java," Coffee & Tea,Breakfast & Brunch",4157517375,"takeout, bikeParking, goodForKids, outdoorSeating",94117,852 Stanyan street
+276,Opa," Beer, Wine & Spirits,Mediterranean",4159137745,"takeout, creditCard, goodForKids, hasTV, caters",94115,2401 Post street
+277,Latin American Club, Bars,4156472732,"bikeParking, goodForGroups",94110,3286 22nd street
+278,Steep," Coffee & Tea,Bubble Tea,Juice Bars & Smoothies",4158288785,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94107,240 Ritch street
+279,Gestalt Haus," Bars,German,Sandwiches",4156559935,"bikeParking, goodForGroups, hasTV",94110,3159 16th street
+280,Boba Guys," Coffee & Tea,Bubble Tea,Desserts",,"takeout, creditCard, bikeParking",94108,429 Stockton street
+281,Mazarine Coffee," Coffee & Tea,Breakfast & Brunch,Beer, Wine & Spirits",4153987700,"takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, caters",94102,720 Market street
+282,Antigua Coffee Shop, Coffee & Tea,4156833259,"takeout, creditCard, applePay, bikeParking, caters",94116,1131 Taraval street
+283,Jenny’s Burgers," American (Traditional),Burgers,Sandwiches",4157531453,"bikeParking, goodForKids",94122,1233 9th avenue
+284,JB’s Place," Sandwiches,Diners",4156267973,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, hasTV, caters",94107,1435 17th street
+285,Peet’s Coffee, Coffee & Tea,4155938830,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94107,310 Broderick street
+286,Curry Up Now," Indian,Vegetarian,Gluten-Free",6287772276,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, caters",94110,659 Valencia street
+287,Golden Boy Pizza," Pizza,Italian",4159829738,"takeout, bikeParking, goodForKids, hasTV, caters",94133,542 Green street
+288,Stanza Coffee," Cafes,Coffee & Tea",4155538966,"takeout, creditCard, bikeParking, goodForGroups, outdoorSeating",94103,3126 16th street
+289,La Corneta Taqueria, Mexican,4154698757,"takeout, bikeParking, goodForKids, goodForGroups, caters",94131,2834 Diamond street
+290,Il Canto Cafe," Coffee & Tea,Cafes",4159866565,"takeout, creditCard, bikeParking, goodForKids",94111,275 Battery street
+291,Knockout," Dive Bars,Dance Clubs",4155506994,"creditCard, bikeParking, goodForGroups, hasTV",94110,3223 Mission street
+292,The Chai Cart," Coffee & Tea,Street Vendors,Caterers",4157354519,"takeout, creditCard, bikeParking",94105,545 Market street
+293,Angel Cafe &amp; Deli," Coffee & Tea,Sandwiches",4159313467,"reservations, takeout, creditCard, applePay, bikeParking, goodForKids, outdoorSeating, hasTV, caters",94109,700 Geary street
+294,Beanery, Coffee & Tea,4156611255,"takeout, creditCard, bikeParking, outdoorSeating",94122,1307 9th avenue
+295,Cafe La Vie," Coffee & Tea,Bagels",4156216877,"takeout, creditCard, bikeParking, outdoorSeating",94102,514 Octavia street
+296,Yamo," Burmese,Chinese",4155538911,"takeout, bikeParking",94110,3406 18th street
+297,George And Lennie, Coffee & Tea,,"takeout, creditCard, applePay, bikeParking",94102,277 Golden Gate avenue
+298,Atlas Cafe," Sandwiches,Breakfast & Brunch,Cafes",4156481047,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating",94110,3049 20th street
+299,Tommy’s Joynt," American (Traditional),Bars,Breakfast & Brunch",4157754216,"takeout, goodForKids, goodForGroups, hasTV, waiterService",94109,1101 Geary boulevard
+300,Cento, Coffee & Tea,,"bikeParking, outdoorSeating",94107,372 Ritch street
+301,Kissako Tea," Tea Rooms,Sushi Bars,Ice Cream & Frozen Yogurt",4155674988,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",,
+302,Panini," Coffee & Tea,Sandwiches",4155528057,"takeout, creditCard, bikeParking, goodForKids, caters",94117,1457 Haight street
+303,Cantata Coffee Company, Coffee & Tea,4152215555,"takeout, creditCard, bikeParking, outdoorSeating",94117,1708 Haight street
+304,The Sandwich Spot," Sandwiches,Delis,Cafes",4158292587,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, caters",94123,3213 Pierce street
+305,The Pig &amp; Whistle," Pubs,British",4158854779,"takeout, creditCard, bikeParking, goodForGroups, hasTV, waiterService",94118,2801 Geary boulevard
+306,Halal Wings Plus," Burgers,Chicken Wings,Halal",4154407786,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, caters",94102,533 Jones street
+307,Flywheel Coffee Roasters, Coffee & Tea,4156824023,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94117,672 Stanyan street
+308,Roxie’s Market &amp; Deli," Sandwiches,Grocery,Beer, Wine & Spirits",4157310982,"takeout, creditCard, bikeParking, goodForKids",94122,500 Kirkham street
+309,Golden Gate Market Deli &amp; Liquor," Delis,Beer, Wine & Spirits",4153466052,"takeout, creditCard, bikeParking, goodForKids",94123,2767 Lombard street
+310,Cafe Bunn Mi," Vietnamese,Sandwiches",4156688908,"takeout, bikeParking, goodForKids, outdoorSeating",94118,417 Clement street
+311,Durty Nelly’s," Irish,Irish Pub",4156642555,"takeout, creditCard, bikeParking, goodForGroups, hasTV, waiterService",94122,2328 Irving street
+312,El Tonayense Taco Truck," Mexican,Food Trucks",4155590404,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",94103,
+313,Speakeasy Ales &amp; Lagers," Breweries,Speakeasies",4156423371,"creditCard, bikeParking, goodForGroups, outdoorSeating, hasTV, caters",94124,1195 Evans avenue
+314,La Corneta Taqueria, Mexican,4156437001,"reservations, takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, caters",94110,2731 Mission street
+315,Kasa Indian Eatery, Indian,4156216940,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94114,4001 18th street
+316,Thai Time Restaurant, Thai,4158313663,"delivery, takeout, creditCard, bikeParking, goodForKids, waiterService",94118,315 8th avenue
+317,Coffee Mission, Coffee & Tea,4158749419,"takeout, creditCard, applePay, bikeParking",94110,3325 24th street
+318,500 Club, Dive Bars,4158612500,"creditCard, bikeParking, goodForGroups, hasTV",94110,500 Guerrero street
+319,Pluto’s," Sandwiches,American (Traditional),Salad",4157538867,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, caters",94122,627 Irving street
+320,Daniel’s Cafe," Coffee & Tea,Bagels,Delis",4159561760,"takeout, goodForKids, outdoorSeating",94102,154 Ellis street
+321,Whiskey Thieves, Whiskey Bars,4155068331,"creditCard, bikeParking, goodForGroups, hasTV",94109,839 Geary street
+322,Thai Nghiep Ky Mi Gia," Vietnamese,Chinese,Noodles",4156828528,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService",94122,1427 Noriega street
+323,Pho 2000," Vietnamese,Noodles",4154741188,"reservations, takeout, bikeParking, goodForKids, goodForGroups, hasTV, waiterService, caters",94109,637 Larkin street
+324,Toy Boat Dessert Café," Ice Cream & Frozen Yogurt,Sandwiches,Wraps",4157517505,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94118,401 Clement street
+325,Taqueria Los Coyotes, Mexican,4158613708,"reservations, takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, caters",94103,3036 16th street
+326,Sing Sing Sandwich Shop," Sandwiches,Vietnamese",4158855159,"takeout, bikeParking, goodForKids, goodForGroups, hasTV",94109,309 Hyde street
+327,Crepes Ooh La La, Creperies,4154094646,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94109,1220 Polk street
+328,Panchita’s Restaurant No 2," Salvadoran,Mexican",4154314232,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService, caters",94103,3091 16th street
+329,Michaelis Food Store," Grocery,Delis",4156739708,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, caters",94109,901 N Point street
+330,Good Mong Kok Bakery," Bakeries,Dim Sum,Cantonese",4153972688,"takeout, goodForKids",94108,1039 Stockton street
+331,Shufat Market," Delis,Sandwiches",4158266207,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94114,3807 24th street
+332,The Revolution Cafe," Coffee & Tea,American (Traditional),Wine Bars",4156420474,"takeout, bikeParking, goodForGroups, outdoorSeating",94110,3248 22nd street
+333,Ly’s Vietnamese Cuisine," Vietnamese,Noodles,Desserts",4155631927,"reservations, takeout, creditCard, goodForKids, goodForGroups, hasTV, waiterService, caters",94123,1779 Lombard street
+334,O’Keeffe’s Bar, Bars,4157511449,"bikeParking, goodForGroups, hasTV",94118,598 5th avenue
+335,Twilight Cafe, Middle Eastern,4153866115,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",94118,2600 McAllister street
+336,Ace’s, Bars,4156730644,"reservations, creditCard, bikeParking, goodForGroups, hasTV",94109,998 Sutter street
+337,Cafe La Taza," Coffee & Tea,Latin American",4158247717,"reservations, takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService",94110,2475 Mission street
+338,Another Cafe," Coffee & Tea,Cafes",4158575770,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating",94109,1191 Pine street
+339,The Sentinel, Sandwiches,4152849960,"takeout, creditCard, bikeParking, caters",94105,37 New Montgomery street
+340,Duc Loi Supermarket," Grocery,Delis",4155511772,"takeout, creditCard, bikeParking, goodForKids",94110,2200 Mission street
+341,Peasant Pies Café &amp; Catering," Fast Food,Vegetarian,Coffee & Tea",4157311978,"delivery, takeout, creditCard, applePay, bikeParking, goodForKids, caters",94122,1039 Irving street
+342,Adobo Hobo," Food Stands,Filipino",,"takeout, goodForKids, goodForGroups, outdoorSeating",94110,
+343,Mae Krua, Thai,4155747334,"takeout, creditCard, bikeParking, goodForKids",,
+344,Uncle Boy’s," Burgers,Fast Food",4157424468,"takeout, creditCard, goodForKids, hasTV",94118,245 Balboa street
+345,Kilowatt," Dive Bars,Sports Bars",4158612595,"bikeParking, goodForGroups, hasTV",94103,3160 16th street
+346,Doña Tere’s Market," Mexican,Food Stands",,"takeout, bikeParking, goodForKids, goodForGroups, hasTV",94110,2780 21st street
+347,Wok Shop Cafe," Chinese,Seafood,Soup",4157712142,"reservations, delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService, caters",94109,1307 Sutter street
+348,All Star Donuts," Donuts,Sandwiches,Coffee & Tea",4152219838,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94118,901 Clement street
+349,Zeitgeist," Dive Bars,Burgers,Beer Gardens",4154316891,"takeout, bikeParking, goodForGroups, outdoorSeating, hasTV",94103,199 Valencia street
+350,Hey Cookie," Desserts,Bakeries,Food Delivery Services",4159990205,"delivery, takeout, creditCard, bikeParking",94114,18TH street
+351,House Of Pancakes," Chinese,Coffee & Tea,Desserts",4156818388,"takeout, bikeParking, goodForKids, goodForGroups, waiterService",94116,937 Taraval street
+352,La Torta Gorda, Mexican,4156429600,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, waiterService, caters",94110,2833 24th street
+353,Crossroads Cafe," Coffee & Tea,Sandwiches,Community Service/Non-Profit",4155125111,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating",94107,699 Delancey street
+354,Señor Sisig," Filipino,Food Trucks,Asian Fusion",8557474455,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94104,
+355,Jay’s Cheesesteak," Sandwiches,Cheesesteaks,Burgers",4152855200,"delivery, takeout, applePay, bikeParking, goodForKids, outdoorSeating, hasTV",94110,3285 21st street
+356,Henry’s House of Coffee," Coffee & Tea,Coffee Roasteries",4156819363,"takeout, creditCard, bikeParking, outdoorSeating",94122,1618 Noriega street
+357,All Star Tamales," Mexican,Food Stands",9252521097,"takeout, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94102,United Nations Plz
+358,Club 93," Dive Bars,Sports Bars",4159520207,"creditCard, bikeParking, goodForGroups, hasTV",94103,93 9th street
+359,Uptown, Dive Bars,4158618231,"bikeParking, goodForGroups, hasTV",94110,200 Capp street
+360,ilana’s Coffee," Cafes,Bakeries,Coffee & Tea",4153872313,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating",94121,2314 Clement street
+361,Roli Roti Gourmet Rotisserie," Sandwiches,Food Trucks,Specialty Food",5107800300,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",,
+362,Heung Yuen Restaurant, Chinese,4156482666,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService, caters",94110,3279 22nd street
+363,Little Vietnam Cafe," Vietnamese,Vegan,Sandwiches",4158760283,"takeout, bikeParking, goodForKids, outdoorSeating, hasTV, caters",94118,309 6th avenue
+364,Chomp N’ Swig," Sandwiches,Beer Bar,Wine Bars",4156835946,"takeout, creditCard, applePay, bikeParking, goodForGroups, outdoorSeating, hasTV",94118,1541 Clement street
+365,The Sea Star," Dive Bars,Cocktail Bars,Pool Halls",4155525330,"creditCard, bikeParking, goodForGroups, hasTV",94107,2289 3rd street
+366,The Page," Bars,Pool Halls",4152556101,"bikeParking, goodForGroups, hasTV",94117,298 Divisadero street
+367,Aria," Korean,Tapas Bars,Ramen",4152926914,"delivery, takeout, creditCard, goodForKids, caters",94109,932 Larkin street
+368,The Steamin’ Burger," Food Trucks,Burgers",6509184777,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94103,
+369,Kings Bakery Cafe," Bakeries,Coffee & Tea,Cupcakes",4152824550,"takeout, bikeParking",94110,2846 Mission street
+370,Four Seasons Restaurant," Vietnamese,Coffee & Tea",4156744146,"reservations, takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService",94109,721 Larkin street
+371,Mong Thu Cafe," Vietnamese,Sandwiches,Soup",4159286724,"takeout, goodForKids, hasTV, waiterService",94102,248 Hyde street
+372,Choice Yakiniku, Japanese,4152069755,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService",94131,Diamond Heights Shopping Ctr
+373,Tú Lan, Vietnamese,4156260927,"takeout, creditCard, goodForKids, waiterService",94103,8 6th street
+374,Taqueria Cazadores," Mexican,Food Trucks",6284005914,"takeout, creditCard, applePay, bikeParking, goodForKids, outdoorSeating, caters",94103,1600 Mission street
+375,Oakside Cafe, Coffee & Tea,4154371985,"takeout, creditCard, applePay, bikeParking",94117,1195 Oak street
+376,Joey &amp; Pat’s Italian Bakery &amp; Cafe," Desserts,Bakeries,Coffee & Tea",4156553918,"takeout, creditCard, bikeParking",94110,2499 Folsom  street
+377,Taqueria Guadalajara, Mexican,4156424892,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV",94110,3146 24th street
+378,Hazel’s Kitchen," Delis,Sandwiches,Caterers",4156477941,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating",94107,1319 18th street
+379,Pineapples," Desserts,Shaved Ice,Hawaiian",4157695328,"takeout, creditCard, goodForKids",94112,296 Ocean avenue
+380,Golden State Market, Delis,4157695737,"takeout, creditCard, goodForKids, goodForGroups, hasTV",94112,4448 Mission street
+381,Superstar Restaurant," Filipino,Chinese",4155854360,"takeout, goodForKids",94112,4919 Mission street
+382,Wiggle Bicycles," Bikes,Bike Repair/Maintenance",4158633033,"creditCard, bikeParking",94117,520 Waller street
+383,Red Cafe," Diners,Breakfast & Brunch",4152821515,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService",94110,2894 Mission street
+384,Moulin Rouge Restaurant," Diners,Breakfast & Brunch,American (Traditional)",4159280158,"takeout, creditCard, bikeParking, goodForKids, waiterService",94109,887 Geary street
+385,Rolling Out," Bakeries,Cafes,Coffee & Tea",4155136054,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",94116,1722 Taraval street
+386,Phone Booth, Dive Bars,4156484683,"goodForGroups, hasTV",94110,1398 S Van Ness avenue
+387,Le Bread Xpress," Bakeries,French",5103250184,"delivery, takeout, creditCard, applePay, bikeParking, goodForKids, outdoorSeating, hasTV, caters",,
+388,Celtic Coffee Company," Sandwiches,Bagels,Cafes",4152550208,"takeout, creditCard, applePay, goodForKids, goodForGroups, outdoorSeating, hasTV, caters",94102,142 McAllister street
+389,Ganim’s Deli," Burgers,Delis,Middle Eastern",4152829289,"takeout, creditCard, bikeParking, goodForKids, hasTV",94107,1135 18th street
+390,Joy’s Place," Desserts,Coffee & Tea",4158171391,"takeout, creditCard, applePay",94109,611 Post street
+391,Mission Hill Saloon, Dive Bars,4155525545,"bikeParking, goodForGroups, hasTV",94110,491 Potrero avenue
+392,El Tomate Restaurant, Mexican,4154018766,"reservations, takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService",94110,2904 24th street
+393,Pho Tan Hoa," Vietnamese,Noodles",4156733163,"takeout, goodForKids, goodForGroups, hasTV, waiterService",94102,431 Jones street
+394,Blackthorn," Sports Bars,Pubs",4155646626,"creditCard, bikeParking, goodForGroups, outdoorSeating, hasTV",94122,834 Irving street
+395,Cafe Algiers," Coffee & Tea,Sandwiches",4155128681,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating",94105,50 Beale street
+396,iCafe San Francisco," Coffee & Tea,Bakeries",4153922682,"delivery, takeout, bikeParking, outdoorSeating, caters",94108,57 Walter U Lum Pl
+397,Ha-Ra Club," Dive Bars,Social Clubs",4156733148,"creditCard, bikeParking, goodForGroups, hasTV",94109,875 Geary street
+398,Batter Up," American (Traditional),Desserts",4152056032,"reservations, takeout, creditCard, goodForKids, goodForGroups, outdoorSeating",94112,888 Geneva avenue
+399,540 Club, Bars,4157527276,"bikeParking, goodForGroups, outdoorSeating, hasTV",94118,540 Clement street
+400,Brew Bros Cafe," Cafes,Breakfast & Brunch",4156559102,"takeout, creditCard, applePay, goodForKids, goodForGroups, hasTV",94109,1299 Pacific avenue
+401,El Toro Taqueria, Mexican,4154313351,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",94110,598 Valencia street
+402,Aunt Charlie’s Lounge, Gay Bars,4154412922,"reservations, bikeParking, goodForGroups, hasTV",94102,133 Turk street
+403,Balo Vietnamese Eatery," Vietnamese,Sandwiches",4155254923,"reservations, takeout, creditCard, bikeParking, goodForKids, caters",94102,426 Larkin street
+404,El Taco Loco The Original, Mexican,4152827018,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV",94110,3274 24th street
+405,Pete’s Barbeque, Barbeque,4158261009,"takeout, goodForKids, caters",94110,2399 Mission street
+406,Taqueria El Castillito Star, Mexican,4158850866,"takeout, bikeParking, goodForKids, goodForGroups, hasTV",94102,250 Golden Gate avenue
+407,Stella Pastry &amp; Cafe," Bakeries,Coffee & Tea",4159862914,"takeout, creditCard, bikeParking",94133,446 Columbus avenue
+408,Silk Road," Russian,Asian Fusion,Uzbek",,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",94132,3251 20th avenue
+409,Coffee to the People, Coffee & Tea,4156262435,"takeout, creditCard, bikeParking",94117,1206 Masonic avenue
+410,Clancey’s Market &amp; Deli," Grocery,Delis,Sandwiches",4156819569,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, hasTV",94122,3960 Irving street
+411,El Salvador, Salvadoran,4158646668,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService",94110,2278 Mission street
+412,Happy Donuts," Donuts,Bakeries,Coffee & Tea",4152855890,"takeout, bikeParking",94114,3801 24th street
+413,Pilsner Inn, Gay Bars,4156217058,"bikeParking, goodForGroups, outdoorSeating, hasTV",94114,225 Church street
+414,Panucho’s, Mexican,4157887034,"takeout, creditCard, goodForKids, caters",94133,620 Broadway
+415,Macha Cafe," Coffee & Tea,Sandwiches,Cafes",4155638079,"takeout, bikeParking, goodForKids, hasTV, caters",94109,1355 Sutter street
+416,El Rancho Grande," Tex-Mex,Mexican",4156738226,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV",94117,855 Divisadero street
+417,El Farolito, Mexican,4153375500,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV",94112,4817 Mission street
+418,Café UB," Coffee & Tea,Cafes",4155528378,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, caters",94114,3901 18th street
+419,Tasty Coffee," Coffee & Tea,Breakfast & Brunch,Sandwiches",4155858853,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV",94112,1818 San Jose avenue
+420,Martha &amp; Brothers Coffee, Coffee & Tea,4156414433,"takeout, creditCard, bikeParking, outdoorSeating",94114,3868 24th street
+421,Jackson Place Cafe," Italian,Breakfast & Brunch,Cafes",4152254891,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, caters",94111,633 Battery street
+422,Doc’s Clock, Cocktail Bars,4158243627,"bikeParking, goodForGroups, hasTV",94110,2575 Mission street
+423,The Love of Ganesha, Gift Shops,4158630999,"creditCard, bikeParking",94117,1573 Haight street
+424,The Dosa Brothers," Street Vendors,Indian",4153780984,"takeout, creditCard, applePay, bikeParking, goodForKids, caters",94104,598 Market street
+425,El Burrito Express 2, Mexican,4157764246,"takeout, creditCard, bikeParking, goodForKids, hasTV, caters",94115,1812 Divisadero street
+426,St Marys Pub, Dive Bars,4155291325,"creditCard, goodForGroups, hasTV",94110,3845 Mission street
+427,Slice House By Tony Gemignani," Salad,Pizza,Burgers",4155522520,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups",94117,1535 Haight street
+428,The Mission Fruit Cart," Food Stands,Mexican",,"takeout, goodForKids, goodForGroups",94110,Mission street  at 21st street
+429,Big Mouth Burgers, Burgers,4158214821,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV",94110,3392 24th street
+430,Trouble Coffee Company, Coffee & Tea,,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94124,1730 Yosemite avenue
+431,Blue Danube Coffee House, Coffee & Tea,4152219041,"takeout, applePay, bikeParking, outdoorSeating",94118,306 Clement street
+432,Pho Huynh Hiep 2 - Kevin’s Noodle House," Vietnamese,Noodles",4156640469,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService",94122,1833 Irving street
+433,Sextant Coffee Roasters, Coffee & Tea,4153551415,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94103,1415 Folsom street
+434,New Taraval Cafe," Breakfast & Brunch,Diners",4157313816,"takeout, bikeParking, goodForKids, goodForGroups, waiterService",94116,1054 Taraval street
+435,Special Xtra, Coffee & Tea,,"takeout, bikeParking",94105,46 Minna street
+436,Marina Submarine," Delis,Sandwiches",4159213990,"takeout, bikeParking, goodForKids",94123,2299 Union street
+437,Ambrosia Bakery," Bakeries,Sandwiches,Patisserie/Cake Shop",4153345305,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",94132,2605 Ocean avenue
+438,Muracci’s Japanese Curry &amp; Grill, Japanese Curry,4157731101,"takeout, creditCard, bikeParking, caters",94108,307 Kearny street
+439,La Stazione Coffee &amp; Wine Bar," Coffee & Tea,Italian,Wine Bars",4159449613,"takeout, creditCard, bikeParking, outdoorSeating",94107,701 Pennsylvania avenue
+440,Lahore Karahi," Indian,Pakistani",4155678603,"takeout, creditCard, goodForKids, goodForGroups, hasTV, waiterService",94109,612 O&#39;farrell street
+441,Sai Jai Thai Restaurant, Thai,4156735774,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService",94109,771 O&#39;Farrell street
+442,Eden Plaza Cafe," Delis,Sandwiches,Salad",4157774709,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating",94107,600 Harrison street
+443,Freddie’s Sandwiches, Sandwiches,4154332882,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, caters",94133,300 Francisco street
+444,The Kabob Job," Middle Eastern,Food Trucks,Halal",4159677544,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, caters",94103,428 11th street
+445,Dinosaurs Vietnamese Sandwiches," Vietnamese,Sandwiches",4157011421,"takeout, creditCard, bikeParking, goodForKids, caters",94103,18 Boardman Pl
+446,Chez Fayala," Sandwiches,Salad",4157731220,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94104,200 Pine street
+447,The Chai Cart," Coffee & Tea,Street Vendors",4157354519,"takeout, creditCard",94110,560 Valencia street
+448,The Saloon," Jazz & Blues,Dive Bars",4159897666,"bikeParking, goodForGroups",94133,1232 Grant avenue
+449,Philz Coffee, Coffee & Tea,4158345933,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94111,5 Embarcadero Ctr
+450,El Norteno Taco Truck," Mexican,Food Trucks",4157561220,"takeout, creditCard, goodForKids, goodForGroups, caters",94103,801 Bryant street
+451,L’acajou Bakery and Cafe," Coffee & Tea,Bakeries,Sandwiches",4156263683,"delivery, takeout, creditCard, applePay, bikeParking, goodForKids, outdoorSeating, caters",94103,498 9th street
+452,Freshroll Vietnamese Rolls &amp; Bowls," Vietnamese,Sandwiches",4153481858,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",94103,157 4th street
+453,eatsa," Fast Food,Salad,Vegetarian",4159304006,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating",94105,121 Spear street
+454,Martha &amp; Brothers Coffee," Coffee & Tea,Bakeries,Bagels",4157424662,"delivery, takeout, creditCard, bikeParking, outdoorSeating, caters",94122,401 Irving street
+455,Broken Record, Dive Bars,4159631713,"bikeParking, goodForGroups, outdoorSeating, hasTV",94112,1166 Geneva avenue
+456,Charlie’s Deli Cafe," Delis,Sandwiches",4156415051,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94117,3202 Folsom street
+457,Yumma’s Mediterranean Grill," Greek,Mediterranean,Salad",4156820762,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, caters",94122,721 Irving street
+458,R Bar, Dive Bars,4155677441,"creditCard, goodForGroups, hasTV",94109,1176 Sutter street
+459,Taqueria San Francisco, Mexican,4156411770,"takeout, bikeParking, goodForKids, goodForGroups, hasTV",94110,2794 24th street
+460,Taqueria San Francisco, Mexican,4156411770,"takeout, bikeParking, goodForKids, goodForGroups, hasTV",94110,2794 24th street
+461,Starbucks, Coffee & Tea,4156829477,"takeout, creditCard, applePay, bikeParking",94127,675 Portola Dr
+462,Grove Street Market," Grocery,Delis",4158612293,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV",94102,500 Grove street
+463,Philz Coffee, Coffee & Tea,4155682535,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94111,1 Front street
+464,The Wooden Nickel, Bars,4152520306,"creditCard, bikeParking, goodForGroups, outdoorSeating, hasTV",94103,1900 Folsom street
+465,Hilda’s Mart &amp; Bake Shop," Bakeries,Filipino",4153333122,"takeout, goodForKids, caters",94112,145 Persia avenue
+466,Deja Vu Pizza and Pasta, Pizza,4152551600,"delivery, takeout, creditCard, bikeParking, goodForKids, hasTV",94103,3227 16th street
+467,A K Meats," Delis,Sandwiches",4159336328,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, caters",94121,2346 Clement street
+468,Huli Huli Hawaiian Grill," Hawaiian,Breakfast & Brunch",4159701990,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94124,4100 3rd street
+469,Hot Spud," Gluten-Free,Fast Food",4153991065,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",94133,2640 Mason street
+470,Turtle Tower," Vietnamese,Noodles",4154093333,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService, caters",94109,645 Larkin street
+471,Serrano’s Pizza," Pizza,Italian",4156951615,"delivery, takeout, creditCard, bikeParking, goodForKids, outdoorSeating, hasTV",94110,3274 21st street
+472,Cavalli Cafe," Desserts,Cafes,Breakfast & Brunch",4154214219,"takeout, applePay, goodForKids, goodForGroups, outdoorSeating",94133,1441 Stockton street
+473,Stop N Wrap," American (New),Coffee & Tea,Breakfast & Brunch",4153492074,"takeout, creditCard, goodForKids, goodForGroups, outdoorSeating, hasTV, waiterService, caters",94112,1217 Geneva avenue
+474,Olivo’s," Mexican,Latin American",4159313019,"takeout, bikeParking, goodForKids, goodForGroups, hasTV, waiterService",94109,1017 Larkin street
+475,Loving Hut," Vegan,Vegetarian",4159753888,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",,
+476,Lou’s Cafe," Salad,Soup,Sandwiches",4152834777,"takeout, creditCard, goodForKids, outdoorSeating, caters",94111,100 Pine street
+477,Sammy’s on 2nd, Sandwiches,4152430311,"takeout, creditCard, caters",94105,84 2nd street
+478,Thee Parkside," Bars,Music Venues",4152521330,"bikeParking, goodForGroups, outdoorSeating, hasTV",94107,1600 17th street
+479,440 Castro, Gay Bars,4156218732,"bikeParking, goodForGroups, hasTV",94114,440 Castro street
+480,Fireside Bar, Bars,4157316433,"creditCard, bikeParking, goodForGroups, hasTV",94122,603 Irving street
+481,Mamá Art Cafe," Art Galleries,Cafes",4155868453,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating",94112,4754 Mission street
+482,Edinburgh Castle Pub, Pubs,4158854074,"creditCard, goodForGroups, hasTV",94109,950 Geary street
+483,Shalimar Resturant," Indian,Pakistani",4157764642,"takeout, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94109,1409 Polk street
+484,Good Luck Dim Sum, Dim Sum,4153863388,"takeout, bikeParking, goodForKids",94118,736 Clement street
+485,Goody Goodie Cream &amp; Sugar," Bakeries,Coffee & Tea,Desserts",4158646370,"delivery, takeout, creditCard, bikeParking, outdoorSeating, caters",94103,1830 Harrison street
+486,Fayala," Mediterranean,Mexican,French",4157570444,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, caters",94105,215 Fremont street
+487,Yo Yo’s, Japanese,4152968273,"takeout, bikeParking, goodForKids",94111,318 Pacific avenue
+488,Sun Kwong Restaurant, Chinese,4156739478,"takeout, goodForKids, goodForGroups, waiterService, caters",94109,1400 Jackson street
+489,Fillmore Street Cafe," Coffee & Tea,Delis,Cafes",4157490987,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV",94115,1301 Fillmore street
+490,Emperor Norton’s Boozeland, Bars,4159268118,"reservations, bikeParking, goodForGroups, outdoorSeating, hasTV",94102,510 Larkin street
+491,Howard’s Cafe," American (Traditional),Diners,Breakfast & Brunch",4155644723,"takeout, bikeParking, goodForKids, goodForGroups, waiterService",94122,1309 9th avenue
+492,The Little Spot Cafe," Coffee & Tea,Bagels,Sandwiches",4155501800,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, waiterService",94110,1199 S Van Ness avenue
+493,Oasis Grill," Greek,Mediterranean,American (Traditional)",4157810313,"takeout, creditCard, bikeParking, goodForKids, caters",94111,91 Drumm street
+494,Bow-K," Convenience Stores,Beer, Wine & Spirits,Coffee & Tea",4152789985,bikeParking,94107,700 4th street
+495,McDonald’s," Fast Food,Burgers",4153621082,"delivery, takeout, creditCard, applePay, goodForKids, goodForGroups, waiterService",94108,441 Sutter street
+496,Cafe Dolci," Coffee & Tea,Vietnamese,Sandwiches",4153929222,"takeout, bikeParking, goodForKids",94102,740 Market street
+497,The Blue Fig," Coffee & Tea,Breakfast & Brunch",4158759622,"takeout, bikeParking, goodForKids, outdoorSeating",94110,990 Valencia street
+498,Viking’s Giant Submarines," Burgers,Sandwiches",4155865333,"takeout, creditCard, bikeParking, goodForKids",94131,2906 Diamond street
+499,Chapter 2 Coffee," Coffee & Tea,Cafes",,"creditCard, goodForKids, goodForGroups, hasTV",94111,411 Sansome street
+500,Bazaar Cafe," Coffee & Tea,American (New)",4158315620,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, outdoorSeating",94121,5927 California street
+501,Progressive Grounds," Coffee & Tea,Sandwiches",4152826233,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94110,400 Cortland avenue
+502,Estela’s Fresh Sandwiches," Sandwiches,Juice Bars & Smoothies",4154409500,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, caters",94108,891 Bush street
+503,Diju Jewelery," Watch Repair,Jewelry",4158143644,"creditCard, applePay, bikeParking",94110,3247 24th street
+504,Portal’s Tavern," Pubs,Sports Bars",4157311208,"bikeParking, goodForGroups, outdoorSeating, hasTV",94127,179 West Portal avenue
+505,Sheboygan Bratwurst Stands," Food Stands,Hot Dogs",8889666966,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV",94107,24 Willie Mays Plz
+506,Mint Cafe, Sandwiches,4154316468,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94102,400 Mcallister street
+507,Geary Club, Dive Bars,4159284516,hasTV,94109,768 Geary street
+508,Active Nutrition," Health Markets,Vitamins & Supplements",4152552844,"creditCard, bikeParking",94114,2275 Market street
+509,Nizario’s Pizza, Pizza,4154870777,"delivery, takeout, creditCard, bikeParking, goodForKids, hasTV",94114,4077 18th street
+510,Showdown, Bars,4155030684,"creditCard, goodForGroups, hasTV",94103,10 6th street
+511,Yo Soy Café Guatemalteco, Cafes,4154666900,"takeout, creditCard, goodForKids, goodForGroups, waiterService",94112,4794 Mission street
+512,Taboun, Middle Eastern,4155669696,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94117,203 Parnassus avenue
+513,Blue Bottle Coffee, Coffee & Tea,5106533394,"takeout, creditCard, applePay, bikeParking",94111,1 Ferry building
+514,Boudin Bakery," Bakeries,Delis",4152211210,"takeout, creditCard, goodForKids, outdoorSeating, caters",94118,399 10th avenue
+515,Hawaiian Drive Inn, Hawaiian,4155869382,"takeout, bikeParking, goodForKids, caters",94112,4827 Mission street
+516,Duboce Park Cafe," Coffee & Tea,Sandwiches,Breakfast & Brunch",4156211108,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating",94114,2 Sanchez street
+517,Le Petitt’s Kitchen, Sandwiches,4153559404,"takeout, creditCard, goodForKids, caters",94102,265 Golden Gate avenue
+518,The Morning Fix," Cafes,Salad,Breakfast & Brunch",,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating",94109,1008 Bush street
+519,Papalote Mexican Grill, Mexican,4157760106,"takeout, creditCard, bikeParking, goodForKids, hasTV, caters",94117,1777 Fulton street
+520,Onigilly," Japanese,Fast Food",4156714706,"takeout, creditCard, bikeParking, goodForKids, caters",94108,343 Kearny street
+521,Woods Polk Station," Breweries,Beer Bar",4154835530,"takeout, creditCard, bikeParking",94109,2255 Polk street
+522,Nick’s Crispy Tacos," Mexican,Lounges,Venues & Event Spaces",4154098226,"reservations, delivery, takeout, bikeParking, goodForGroups, outdoorSeating, hasTV, caters",94109,1500 Broadway
+523,The Hearth, Bars,4157510200,"bikeParking, goodForGroups, hasTV",94118,4701 Geary boulevard
+524,V Cafe," Cheesesteaks,Salad,Burgers",4158633620,"delivery, takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, hasTV",94103,1525 Folsom street
+525,Haus Coffee, Coffee & Tea,4153747353,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94110,3086 24th street
+526,Uncle Benny’s," Donuts,Bagels,Coffee & Tea",4157311323,"takeout, creditCard, bikeParking",94122,2049 Irving street
+527,MunchBoxx," Vietnamese,Sandwiches,American (Traditional)",4152777208,"delivery, takeout, creditCard, goodForKids, caters",94111,643 Clay street
+528,Martha &amp; Bros Coffee Company, Coffee & Tea,4156481166,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94131,1551 Church street
+529,The Boardroom," Bars,American (Traditional)",4159828898,"takeout, creditCard, bikeParking, goodForGroups, hasTV",94133,1609 Powell street
+530,Greenhouse Cafe," Coffee & Tea,Cafes,Tea Rooms",4157425545,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating",94127,329 W Portal avenue
+531,Lone Star Saloon, Gay Bars,4158639999,"bikeParking, goodForGroups, outdoorSeating, hasTV",94103,1354 Harrison street
+532,Kusina Ni Tess," Filipino,Seafood",4153511169,"takeout, creditCard, bikeParking, goodForKids, hasTV, caters",94102,237 Ellis street
+533,The Bird," Chicken Shop,Sandwiches",4158729825,"takeout, creditCard, bikeParking, goodForKids",94105,115 New Montgomery street
+534,The Golden West," Bakeries,Sandwiches,American (New)",4152166443,"takeout, creditCard, applePay, bikeParking, caters",94104,8 Trinity Pl
+535,San Francisco Community Acupuncture," Acupuncture,Massage,Traditional Chinese Medicine",4156758973,"creditCard, bikeParking",94103,220 Valencia street
+536,New Village Cafe," Diners,Breakfast & Brunch,Burgers",4157719598,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService, caters",94109,1426 Polk street
+537,Martha &amp; Brothers Coffee, Coffee & Tea,4156427585,"takeout, creditCard, bikeParking, outdoorSeating",94110,745 Cortland avenue
+538,Jim Georgie’s Donuts," Donuts,American (Traditional)",4154683413,"takeout, bikeParking, goodForKids, goodForGroups",94134,2462 San Bruno avenue
+539,Peet’s Coffee, Coffee & Tea,4155932661,"takeout, creditCard, applePay, bikeParking",94102,601 Van Ness
+540,Yancy’s Saloon, Sports Bars,4156656551,"bikeParking, goodForGroups, hasTV",94122,734 Irving street
+541,The Bitter End, Pubs,4152219538,"creditCard, bikeParking, goodForGroups, hasTV",94118,441 Clement street
+542,Shangri-La Vegetarian Restaurant," Chinese,Vegetarian,Kosher",4157312548,"reservations, takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService",94122,2026 Irving street
+543,Moby Dick, Gay Bars,4158611199,"goodForGroups, hasTV",94114,4049 18th street
+544,Blue Bottle Coffee Stand," Coffee & Tea,Food Stands",,"takeout, creditCard, applePay, bikeParking",94105,1 Ferry building
+545,Asha Tea House," Coffee & Tea,Tea Rooms",4155493688,"takeout, creditCard, applePay, bikeParking",94108,17 Kearny street
+546,Lidia’s Cafe Restaurant," Cafes,Breakfast & Brunch",4156266608,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, waiterService, caters",94103,550 15th street
+547,Dovre Club," Bars,Irish",4152854169,"bikeParking, goodForGroups, hasTV",94110,1498 Valencia street
+548,Finnegans Wake, Bars,4157316119,"bikeParking, goodForGroups, outdoorSeating, hasTV",94117,937 Cole street
+549,The Art Bistro," Coffee & Tea,Sandwiches,Bagels",4153797119,"takeout, goodForKids",94121,6900 Geary boulevard
+550,Dagwood &amp; Scoops," Sandwiches,Ice Cream & Frozen Yogurt,Delis",4158143459,"takeout, creditCard, bikeParking, goodForKids, caters",94110,2736 24th street
+551,Wing Lee Bakery," Dim Sum,Bakeries",4156689481,"takeout, bikeParking, goodForKids",94118,503 Clement street
+552,Mr. T Cafe," Coffee & Tea,Juice Bars & Smoothies,Bubble Tea",4157695681,"creditCard, caters",94112,4689 Mission street
+553,Last Minute Gear," Sports Wear,Outdoor Gear",4158131881,"creditCard, bikeParking",94103,1049 Market
+554,All Star Cafe," Donuts,Coffee & Tea,Breakfast & Brunch",4158634949,"delivery, takeout, creditCard, goodForKids, goodForGroups, hasTV, caters",94103,98 9th street
+555,Sunflower Vietnamese, Vietnamese,4156265022,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService",94103,3111 16th street
+556,Zen Yai Thai Restaurant, Thai,4158850725,"reservations, delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService, caters",94109,771 Ellis street
+557,La Paz Restaurant Pupuseria," Mexican,Latin American",4155508313,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService",94110,1028 Potrero avenue
+558,CrepeCone by Sophie," Desserts,Gelato,Creperies",4157951331,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94107,684 King street
+559,Pop’s Sandwich Shop, Sandwiches,4156819501,"delivery, takeout, creditCard, bikeParking, goodForKids, caters",94127,737 Portola Dr
+560,Miss SaiGon, Vietnamese,4155220332,"reservations, takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService, caters",94103,100 6th street
+561,Andersen Bakery," Bakeries,Sandwiches",4153451046,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating",94115,1737 Post street
+562,Cresta’s Twenty Two Eleven Club, Dive Bars,4156732211,"creditCard, bikeParking, hasTV",94109,2211 Polk street
+563,The Beanery, Coffee & Tea,4156611090,"takeout, creditCard, bikeParking, outdoorSeating",94122,602 Irving street
+564,Gangway, Gay Bars,4157766828,"creditCard, goodForGroups, hasTV",94109,841 Larkin street
+565,Alhamra," Indian,Pakistani,Vegetarian",4156213935,"reservations, delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService, caters",94103,3083 16th street
+566,Dinosaurs Vietnamese Sandwiches," Sandwiches,Vietnamese",4153341421,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating",94132,2522 Ocean avenue
+567,Libby Jane Cafe, Cafes,4159262540,"takeout, creditCard, bikeParking, goodForKids",94109,644 Polk street
+568,Pharaohs Mediterranean Sandwich," Mediterranean,Sandwiches",4152927271,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, caters",94102,608 Geary street
+569,Cole Valley Cafe," Coffee & Tea,Sandwiches,Bagels",4156685282,"takeout, creditCard, bikeParking, goodForKids",94117,701 Cole street
+570,Donuts &amp; Things," Donuts,Coffee & Tea",4158851942,"takeout, creditCard, bikeParking",94109,1549 Polk street
+571,Volcano, Japanese Curry,4157527671,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94121,5454 Geary boulevard
+572,Boccalone," Italian,Sandwiches",4154336500,"takeout, creditCard, bikeParking, goodForKids, caters",94111,1 Ferry building
+573,Tortas Boos Voni, Mexican,4155855880,"takeout, creditCard, bikeParking, goodForKids, hasTV, waiterService",94112,5170 Mission street
+574,Stoner’s, Delis,4159137753,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94102,752 Van Ness avenue
+575,Sushi Taka," Sushi Bars,Japanese",,"takeout, creditCard, goodForKids, outdoorSeating, caters",94108,600 Kearny street
+576,Sunrise Deli," Delis,Mediterranean",4156648210,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, caters",94122,2115 Irving street
+577,Chutney," Indian,Pakistani",4159315541,"takeout, creditCard, goodForKids, goodForGroups, waiterService, caters",94102,511 Jones street
+578,Earth’s Coffee, Coffee & Tea,4159338628,"takeout, creditCard, bikeParking",94118,3400 Geary boulevard
+579,Ayola," Greek,Mediterranean",4153911154,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, caters",94108,327 Kearny street
+580,Elbo Room," Bars,Dance Clubs,Music Venues",4155527788,"bikeParking, goodForGroups",94110,647 Valencia street
+581,Q Bar," Gay Bars,Dance Clubs",4158642877,"bikeParking, goodForGroups, hasTV",94114,456 Castro street
+582,The Deli Lama," Delis,Cheesesteaks,Breakfast & Brunch",4158213795,"takeout, bikeParking, goodForKids, goodForGroups, hasTV",94124,150 Toland street
+583,Peet’s Coffee, Coffee & Tea,4155938920,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94105,405 Howard
+584,Clement BBQ," Dim Sum,Barbeque",4157529520,"takeout, bikeParking, goodForKids, caters",94118,617 Clement street
+585,Whiz Burgers Drive-In, Burgers,4158245888,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating",94110,700 S Van Ness avenue
+586,George’s Zoo Liquor Deli," Beer, Wine & Spirits,Sandwiches",4156643215,"takeout, creditCard, bikeParking, goodForKids",94116,2560 Sloat boulevard
+587,El Tepa Taqueria, Mexican,4152558372,"takeout, creditCard, goodForKids, goodForGroups, hasTV",94110,2198 Folsom street
+588,Pete’s Deli &amp; Cafe," Delis,Coffee & Tea",4159314800,"takeout, bikeParking, goodForKids, goodForGroups, hasTV, caters",94115,1661 Divisadero street
+589,Cafe Isabella," Coffee & Tea,Breakfast & Brunch,Sandwiches",4153783241,"takeout, creditCard, goodForKids, outdoorSeating",94133,1414 Taylor street
+590,Chrome Coffee Bar Powered By Cento, Cafes,,"takeout, bikeParking, caters",94107,580 4th street
+591,Sanguchón Peruvian Food Truck," Peruvian,Food Trucks",4158859816,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94103,
+592,Peet’s Coffee, Coffee & Tea,4155639930,"takeout, creditCard, bikeParking, outdoorSeating",94115,2197 Fillmore Street
+593,Nizario’s Pizza, Pizza,4157527777,"delivery, takeout, creditCard, bikeParking, goodForKids, hasTV",94118,3840 Geary boulevard
+594,Buster’s Cheesesteak," American (Traditional),Cheesesteaks",4153922800,"takeout, creditCard, applePay, bikeParking, goodForKids, outdoorSeating",94133,366 Columbus avenue
+595,Caffe Terzetto Express," Coffee & Tea,Food Stands",,"takeout, creditCard, bikeParking",94122,400 Parnassus street
+596,Peet’s Coffee, Coffee & Tea,4154954323,"takeout, creditCard, bikeParking",94105,595 Mission Street
+597,White Palace Liquor Store," Beer, Wine & Spirits,Sandwiches",4154680985,"takeout, creditCard, caters",94134,1524 Silver avenue
+598,Za Pizza," Pizza,Beer Bar",4157713100,"delivery, takeout, creditCard, bikeParking, goodForKids, outdoorSeating, hasTV, waiterService, caters",94109,1919 Hyde street
+599,Prima Cafe," Coffee & Tea,Juice Bars & Smoothies",4152229918,"takeout, creditCard, applePay, bikeParking, caters",94105,215 Fremont street
+600,The Coffee Smith, Coffee & Tea,4155031476,"takeout, creditCard, applePay, bikeParking",94102,401 Golden Gate avenue
+601,La Promenade Café, Coffee & Tea,4152216063,"takeout, creditCard, bikeParking",94121,3643 Balboa street
+602,KJ Paul Karaoke," Karaoke,Party & Event Planning",4155230523,"bikeParking, goodForGroups, outdoorSeating, hasTV",94110,
+603,Buddha Lounge, Dive Bars,4153621792,"bikeParking, goodForGroups, hasTV",94108,901 Grant avenue
+604,Caffe Greco," Coffee & Tea,Desserts,Sandwiches",4153976261,"takeout, bikeParking, goodForKids, goodForGroups, outdoorSeating",94133,423 Columbus avenue
+605,Zona Rosa, Mexican,4156687717,"takeout, bikeParking, goodForKids, goodForGroups, hasTV",94117,1797 Haight street
+606,The Blarney Stone," Pubs,Irish",4153869914,"creditCard, bikeParking, goodForGroups, outdoorSeating, hasTV",94121,5625 Geary boulevard
+607,Paramo Coffee Company," Coffee & Tea,Cafes",4154344472,"takeout, creditCard, bikeParking, outdoorSeating",94111,4 Embarcadero Ctr
+608,Coffee Cultures, Coffee & Tea,6284004376,"takeout, creditCard, bikeParking",94103,1301 Mission street
+609,Broken Seal Buttons," Accessories,Printing Services",4159900594,"creditCard, bikeParking",94110,3150 18th street
+610,Toma, Mexican,4159218662,"delivery, takeout, creditCard, bikeParking, goodForKids, outdoorSeating, caters",94123,3318 Steiner street
+611,Henry’s Cafe &amp; Deli," Convenience Stores,Delis,Korean",4153920612,"takeout, creditCard, bikeParking, goodForKids",94104,111 Sutter street
+612,Bi-Rite Creamery," Ice Cream & Frozen Yogurt,Bakeries",4156265600,"takeout, creditCard, bikeParking",94110,3692 18th street
+613,EndGames Improv," Performing Arts,Comedy Clubs,Specialty Schools",4158542262,"creditCard, bikeParking, goodForGroups",94103,446 Valencia street
+614,Peet’s Coffee, Coffee & Tea,4154218420,"takeout, creditCard, applePay",94104,217 Montgomery Street
+615,Duc Loi’s Pantry," Grocery,Delis",4153494988,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94124,5900 3rd street
+616,Front Door Cafe," Sandwiches,American (Traditional)",4159893244,"takeout, creditCard, bikeParking, goodForKids, caters",94111,1 Front street
+617,Peet’s Coffee, Coffee & Tea,4152303091,"takeout, creditCard, applePay, bikeParking",94107,370 Fourth Street
+618,The Hot Spot, Dive Bars,4153559800,"creditCard, bikeParking, goodForGroups, hasTV",94102,1414 Market street
+619,Brainwash Cafe &amp; Laundromat," Cafes,Laundromat",4158613663,"takeout, creditCard, applePay, bikeParking, goodForGroups, outdoorSeating",94103,1122 Folsom street
+620,Casa Mexicana, Mexican,4155512272,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV",94114,180 Church street
+621,The Pastry Cupboard," Bakeries,Cafes,Breakfast & Brunch",4158642755,"delivery, takeout, creditCard, bikeParking, goodForKids, caters",94102,1596 Market street
+622,Eddy’s Food Store," Beer, Wine & Spirits,Delis,Sandwiches",4156615151,"takeout, creditCard, goodForKids, goodForGroups, hasTV",94122,951 Irving street
+623,Chabaa Thai Cuisine," Thai,Desserts,Vegan",4153463121,"delivery, takeout, creditCard, goodForKids, hasTV, waiterService, caters",94102,420 Geary street
+624,The Cinch," Gay Bars,Dance Clubs",4157764162,"creditCard, bikeParking, goodForGroups, outdoorSeating, hasTV",94109,1723 Polk street
+625,Rockit Swirl," Ice Cream & Frozen Yogurt,Bubble Tea,Sandwiches",4158395282,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, caters",94131,2810 Diamond street
+626,Taqueria Castillo Mason, Mexican,4159860426,"takeout, bikeParking, goodForKids, goodForGroups, hasTV",94102,10 Mason street
+627,Tony’s Cable Car Restaurant," Burgers,Hot Dogs,Sandwiches",4159312416,"takeout, bikeParking, goodForKids, outdoorSeating",94115,2500 Geary boulevard
+628,King of Thai Noodle House," Thai,Noodles",4157525198,"delivery, takeout, bikeParking, goodForKids, hasTV, waiterService",94118,639 Clement street
+629,Copper Top Ovens," Pizza,Food Stands",5107085040,"takeout, goodForKids, goodForGroups, outdoorSeating, caters",,
+630,Bronze Organics," Spray Tanning,Reiki",4158604123,"creditCard, bikeParking",,
+631,The Corner Spot, Sports Bars,4157425572,"creditCard, bikeParking, goodForGroups, hasTV",94122,1368 Irving street
+632,Yonkers Cafe," Cafes,Wine Bars",4153794459,"takeout, creditCard, goodForKids, hasTV, caters",94122,3815 Noriega street
+633,Jim’s Restaurant, Breakfast & Brunch,4152856020,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService",94110,2420 Mission street
+634,Peet’s Coffee, Coffee & Tea,4156266416,"takeout, creditCard, applePay, bikeParking, outdoorSeating, caters",94114,2257 Market Street
+635,Wild Pepper, Chinese,4156957678,"reservations, delivery, takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, waiterService, caters",94110,3601 26th street
+636,Bow Bow Cocktail Lounge," Karaoke,Bars",4154216730,"creditCard, bikeParking, goodForGroups, hasTV",94133,1155 Grant avenue
+637,My Corner Cafe, American (Traditional),4155502382,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94110,1500 S Van Ness avenue
+638,Death Guild," Dance Clubs,Lounges",4156261409,"reservations, creditCard, bikeParking, goodForGroups",94103,375 11th street
+639,Tanguito," Argentine,Burgers",4155774223,"takeout, bikeParking, goodForKids, goodForGroups, outdoorSeating, waiterService",94133,2850 Jones street
+640,Phillies," Sandwiches,Cheesesteaks",4153349606,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, hasTV, caters",94112,932 Geneva avenue
+641,Crepe Temptations," Desserts,Creperies,Bubble Tea",4153794892,"takeout, goodForKids, goodForGroups, hasTV",94122,2575 Judah street
+642,Yummy Dumpling," Do-It-Yourself Food,Chinese",4157539308,"takeout, creditCard, bikeParking, goodForKids",94122,1708 Irving street
+643,San Buena Taco Truck," Food Stands,Mexican",4155596127,"reservations, takeout, bikeParking, goodForKids, goodForGroups",94103,Shotwell &amp; 16th street
+644,Yan’s Kitchen, Chinese,4159898820,"takeout, bikeParking, goodForKids, goodForGroups, waiterService",94111,57 Columbus avenue
+645,Anchor Brewing Company, Breweries,4158638350,"creditCard, bikeParking, caters",94107,1705 Mariposa street
+646,The Plough &amp; Stars," Pubs,Music Venues",4157511122,"creditCard, bikeParking, goodForGroups, hasTV",94118,116 Clement street
+647,Delicious Dim Sum," Dim Sum,Cantonese",4157810721,"takeout, goodForKids",94133,752 Jackson street
+648,Eleven O One, Sandwiches,4155671101,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV",94109,1101 Polk street
+649,Murio’s Trophy Room," Dive Bars,Lounges",4157522971,"creditCard, bikeParking, goodForGroups, hasTV",94117,1811 Haight street
+650,Sam Wo Restaurant, Chinese,4159898898,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService, caters",94108,713 Clay street
+651,Miss Tomato Sandwich Shop," Sandwiches,Breakfast & Brunch,Coffee & Tea",4153970100,"delivery, takeout, creditCard, goodForKids, outdoorSeating, caters",94111,388 Market street
+652,La Quinta Restaurant, Mexican,4156479000,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService",94110,2425 Mission street
+653,Jake’s Steaks," Sandwiches,Sports Bars,Cheesesteaks",4159222211,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, waiterService",94123,3301 Buchanan street
+654,Amawele’s South African Kitchen, South African,4155365900,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",94105,101 Spear street
+655,Taqueria El Castillito, Mexican,4156216971,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV",94110,2092 Mission street
+656,Blind Cat, Dive Bars,4158015111,"applePay, bikeParking, goodForGroups, hasTV",94110,3050 24th street
+657,Super Cue Cafe," Coffee & Tea,Desserts,Bubble Tea",4155665888,"takeout, creditCard, applePay, bikeParking",94116,1139 Taraval street
+658,Hai’s Restaurant, Chinese,4153458728,"takeout, bikeParking, goodForKids, goodForGroups, waiterService",94102,227 Hyde street
+659,Farley’s, Coffee & Tea,4156481545,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94107,1315 18th street
+660,El Tonayense," Mexican,Food Trucks",4155590404,"takeout, creditCard, applePay, goodForKids, goodForGroups, caters",94110,
+661,Northstar Cafe," Bars,Cafes",4153970577,"creditCard, bikeParking, goodForGroups, hasTV",94133,1560 Powell street
+662,Starbucks, Coffee & Tea,4153872249,"takeout, creditCard, applePay, bikeParking",94118,3595 California street
+663,Mission’s Kitchen, Diners,4156481577,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService",94110,2738 Mission street
+664,Little Red Riding Truck," Food Trucks,German",4156666821,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",,
+665,Los Planes De Renderos Pupuseria, Salvadoran,4155858645,"takeout, goodForKids, goodForGroups, waiterService, caters",94112,12 Persia avenue
+666,Double Decker," Burgers,Chicken Wings",4155528042,"delivery, takeout, creditCard, bikeParking, goodForKids, hasTV",94102,465 Grove street
+667,Tacos El Primo," Mexican,Food Trucks",4158464975,"takeout, bikeParking, goodForKids, outdoorSeating, hasTV",94124,Yosemite &amp; Jennings
+668,Golden Gate Bridge Welcome Center," Landmarks & Historical Buildings,Souvenir Shops",4154265220,"creditCard, bikeParking",94129,Golden Gate Bridge
+669,Summer Place Cocktail Lounge, Cocktail Bars,4154412252,"goodForGroups, hasTV",94108,801 Bush street
+670,Working Girls’ Cafe," Sandwiches,Salad,Breakfast & Brunch",4153981390,"delivery, takeout, creditCard, bikeParking, goodForKids, outdoorSeating, caters",94108,259 Kearny street
+671,Yum Yum Hunan, Chinese,4153468235,"reservations, delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService",94115,1828 Divisadero street
+672,Dos Piñas, Mexican,4152528220,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, caters",94103,251 Rhode Island street
+673,Golden Lotus," Vietnamese,Noodles",4153451355,"reservations, takeout, creditCard, goodForKids, goodForGroups, hasTV, waiterService",94109,631 Larkin street
+674,Baiano Pizzeria," Pizza,Salad",4156211401,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, caters",94102,100 Gough street
+675,Circle Community Acupuncture," Acupuncture,Massage",4158641070,"creditCard, bikeParking",94103,1351 Harrison street
+676,Peet’s Coffee, Coffee & Tea,4155938945,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94105,692 Mission street
+677,Raavi, Indian,4156930499,"reservations, delivery, takeout, creditCard, applePay, goodForKids, goodForGroups, hasTV, caters",94133,533 Jackson street
+678,The Stud," Gay Bars,Dance Clubs",4158636623,"bikeParking, goodForGroups",94103,399 9th street
+679,Picnix Bistro, Vietnamese,4157512255,"delivery, takeout, creditCard, bikeParking, goodForKids, outdoorSeating, waiterService, caters",94118,3872 Sacramento street
+680,El Paraiso Cafe," Sandwiches,Latin American",4158242535,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating",94110,1198 Treat avenue
+681,Supreme Pizza, Pizza,4154379400,"delivery, takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, hasTV, caters",94110,3348 18th street
+682,Specs’ Twelve Adler Museum Cafe," Bars,Cafes",4154214112,"bikeParking, goodForGroups",94133,12 William Saroyan Pl
+683,Katani Pizza, Pizza,4157425234,"delivery, takeout, creditCard, bikeParking, goodForKids, outdoorSeating, hasTV, caters",94117,2077 Hayes street
+684,Philz Coffee Truck," Food Trucks,Coffee & Tea",4152441134,"takeout, creditCard, bikeParking",,
+685,Jolt ‘n Bolt," Bakeries,Coffee & Tea,Cafes",4158638761,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, hasTV, caters",94107,2325 3rd street
+686,Ayola," Greek,Mediterranean",4153480808,"takeout, creditCard, bikeParking, goodForKids, caters",94105,118 New Montgomery street
+687,Li Po Cocktail Lounge, Dive Bars,4159820072,"goodForGroups, hasTV",94108,916 Grant avenue
+688,Popsons, Burgers,4156545001,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV",94107,330 Townsend street
+689,Courtney Produce," Fruits & Veggies,Grocery",4156261850,"takeout, bikeParking",94114,101 Castro street
+690,Mucky Duck, Bars,4156614340,"creditCard, bikeParking, goodForGroups, hasTV",94122,1315 9th avenue
+691,Make-Out Room," Dance Clubs,Bars",4156472888,"bikeParking, goodForGroups",94110,3225 22nd street
+692,Cafe Madeleine," Coffee & Tea,Sandwiches",4153621713,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, caters",94108,43 O&#39;Farrell street
+693,Sun Fat Seafood Company, Seafood Markets,4152829339,"takeout, creditCard, applePay, bikeParking",94110,2687 Mission street
+694,Han’s Coffee Shop," Diners,Breakfast & Brunch",4157767875,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService",94109,900 Sutter street
+695,Evergreen Garden Restaurant, Vietnamese,4158641657,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, waiterService",94110,3100 18th street
+696,Taqueria Cancun, Mexican,4155501414,"takeout, bikeParking, goodForKids, goodForGroups",94110,3211 Mission street
+697,The Buccaneer, Dive Bars,4156738023,"creditCard, applePay, bikeParking, goodForGroups, hasTV",94109,2155 Polk street
+698,Halal Cart," Halal,Food Stands,Sandwiches",6282084052,"reservations, takeout, bikeParking, goodForKids, goodForGroups, outdoorSeating, waiterService, caters",94105,425 Market street
+699,Mai’s Vietnamese Restaurant, Vietnamese,4152213046,"reservations, takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService",94118,316 Clement street
+700,Pluto’s," American (New),Sandwiches,Salad",4157758867,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94123,3258 Scott street
+701,Espresso Bar at Nordstrom," Coffee & Tea,Internet Cafes",4159775152,creditCard,,
+702,Viking’s Giant Submarines, Sandwiches,4156735619,"takeout, creditCard, bikeParking, goodForKids",94123,1418 Lombard street
+703,Caffe Centro," Sandwiches,Coffee & Tea,Breakfast & Brunch",4158821500,"delivery, takeout, creditCard, bikeParking, goodForKids, outdoorSeating, hasTV, caters",94107,102 S Park street
+704,Tyger’s," Diners,Breakfast & Brunch",4152394060,"takeout, bikeParking, goodForKids, goodForGroups, waiterService",94131,2798 Diamond street
+705,Starbucks, Coffee & Tea,4152557561,"takeout, creditCard, applePay, bikeParking",94103,689 Townsend street
+706,Taqueria Castillo B, Mexican,4154311092,"takeout, goodForKids, goodForGroups, hasTV",94102,86 McAllister street
+707,Red Door Coffee, Coffee & Tea,4159741719,"takeout, creditCard, bikeParking, outdoorSeating",94105,505 Howard street
+708,Golden Gate Meat Company," Meat Shops,Delis",4159837800,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating",94111,1 Ferry building
+709,JT Restaurant, Filipino,4155715108,"delivery, takeout, bikeParking, goodForKids, goodForGroups, hasTV, caters",94103,953 Mission street
+710,Peet’s Coffee, Coffee & Tea,4152218506,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94118,3419 California Street
+711,Cheung Hing," Chinese,Barbeque",4156653271,"takeout, bikeParking, goodForKids, waiterService, caters",94122,2339 Noriega street
+712,Autumn Express," Cards & Stationery,Printing Services",4158242222,"creditCard, bikeParking",94110,2071 Mission street
+713,Starbucks, Coffee & Tea,4156266263,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94114,4094 18th street
+714,Hemlock Tavern," Music Venues,Bars",4159230923,"creditCard, bikeParking, goodForGroups, hasTV",94109,1131 Polk street
+715,Asian Box," Vietnamese,Asian Fusion,Gluten-Free",4152883688,"takeout, creditCard, goodForKids, goodForGroups, caters",94102,170 O&#39;Farrell street
+716,Hayes Valley Bakeworks," Bakeries,Coffee & Tea,American (New)",4158642688,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, caters",94102,550 Gough street
+717,Cafe Madeleine," Bakeries,Coffee & Tea,Sandwiches",4152274077,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, caters",94105,149 New Montgomery street
+718,Gobba Gobba Hey," Desserts,Food Stands",,"takeout, goodForKids, goodForGroups",94110,
+719,The Bagel Bakery," Bagels,Breakfast & Brunch,Sandwiches",6284006032,"takeout, creditCard, bikeParking, goodForKids, caters",94107,151 Townsend street
+720,Viking Hair Styling, Barbers,4156263102,bikeParking,94114,380 Sanchez street
+721,Cafe Venue," Coffee & Tea,Sandwiches,Breakfast & Brunch",4155461144,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94103,67 5th street
+722,Casanova Lounge," Lounges,Cocktail Bars",4158639328,"creditCard, applePay, bikeParking, goodForGroups, hasTV",94110,527 Valencia street
+723,TC Pastry, Dim Sum,4157531133,"takeout, goodForKids",94103,2222 Irving street
+724,Marina Lounge, Lounges,4159221475,"bikeParking, goodForGroups, hasTV",94123,2138 Chestnut street
+725,Cafe La Boheme, Coffee & Tea,4156430481,"takeout, creditCard, bikeParking, outdoorSeating",94110,3318 24th street
+726,Don Chuys Mexi-Mercado," Delis,Mexican,Sandwiches",4155858092,"takeout, creditCard, goodForKids, caters",94112,544 Excelsior avenue
+727,Pop’s Bar, Dive Bars,4158725160,"bikeParking, goodForGroups, hasTV",94110,2800 24th street
+728,King of Noodles," Chinese,Noodles,Soup",4155668318,"takeout, creditCard, bikeParking, goodForKids, waiterService",94122,1639 Irving street
+729,Katea," Bubble Tea,Coffee & Tea,Juice Bars & Smoothies",4157030318,"takeout, creditCard, bikeParking",94103,3128 16th street
+730,Tope," Dance Clubs,Cocktail Bars",4158007145,"creditCard, bikeParking, goodForGroups, hasTV",94133,1326 Grant avenue
+731,Blaze Fast-Fire’d Pizza," Pizza,Salad,Fast Food",4152426282,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating",94132,157 Stonestown Galleria
+732,Working Girls’ Cafe," Sandwiches,Salad,Breakfast & Brunch",4155371170,"delivery, takeout, creditCard, bikeParking, goodForKids, outdoorSeating, caters",94105,122 New Montgomery street
+733,Smashburger, Burgers,4158902410,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94103,2300 16th street
+734,Thanh Tam II, Vietnamese,4152521190,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService, caters",94110,577 Valencia street
+735,Golden Star Vietnamese Restaurant," Vietnamese,Noodles",4153981215,"takeout, bikeParking, goodForKids, goodForGroups, waiterService",94108,11 Walter U Lum Pl
+736,McTeague’s Saloon, Pubs,4157761237,"creditCard, bikeParking, goodForGroups, hasTV",94109,1237 Polk street
+737,DeLise Café," Coffee & Tea,Bakeries,Ice Cream & Frozen Yogurt",4153999694,"delivery, takeout, creditCard, applePay",94133,327 Bay street
+738,Cafe Venue," Sandwiches,Coffee & Tea,Juice Bars & Smoothies",4159891144,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",94104,218 Montgomery street
+739,Mitchell’s Ice Cream," Ice Cream & Frozen Yogurt,Bakeries,Custom Cakes",4156482300,"takeout, creditCard, bikeParking",94110,688 San Jose avenue
+740,Grand Seven Food Liquer &amp; Deli," Delis,Sandwiches",4158260455,"takeout, bikeParking, goodForKids",94124,1740 Cesar Chavez
+741,Cafe XO," Coffee & Tea,Sandwiches",4158263535,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, hasTV",94131,1799 Church street
+742,Cozy Cafe, Cafes,4159224826,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating",94109,965 Sutter street
+743,Red Rooster Tacos," Mexican,Food Trucks",4153058280,"delivery, takeout, creditCard, goodForKids, goodForGroups, caters",,
+744,Midnight Sun," Gay Bars,Lounges,Cocktail Bars",4158614186,"bikeParking, goodForGroups, hasTV",94114,4067 18th street
+745,House of Bagels - San Francisco," Bakeries,Bagels,Delis",4157526000,"takeout, creditCard, applePay, bikeParking, goodForKids, caters",94118,5030 Geary boulevard
+746,Beacon Coffee &amp; Pantry," Coffee & Tea,Specialty Food,Sandwiches",4158142551,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups",94133,805 Columbus avenue
+747,New Lun Ting Cafe," Chinese,American (Traditional),Asian Fusion",4153625667,"takeout, goodForKids, goodForGroups, waiterService",94133,670 Jackson street
+748,Black Magic Voodoo Lounge, Dive Bars,4159318711,"bikeParking, goodForGroups, hasTV",94123,1400 Lombard street
+749,The Golden Donut," Donuts,Coffee & Tea,Sandwiches",4154220623,"delivery, takeout, bikeParking, goodForKids, goodForGroups, caters",94121,5401 Geary boulevard
+750,Miyako Old Fashioned Ice Cream, Ice Cream & Frozen Yogurt,4159315260,"takeout, bikeParking",94118,1470 Fillmore street
+751,ÉireTrea," Food Trucks,Irish,African",4159672726,"takeout, creditCard, goodForKids, goodForGroups, outdoorSeating, caters",94109,
+752,Toad Hall Bar, Gay Bars,4156212811,"bikeParking, goodForGroups, outdoorSeating, hasTV",94114,4146 18th street
+753,Caffe Sapore," Sandwiches,Breakfast & Brunch,Bagels",4154741222,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, waiterService, caters",94133,790 Lombard street
+754,Kenny’s Restaurant," Diners,Salad,Breakfast & Brunch",4156218902,"takeout, goodForKids, goodForGroups, hasTV, waiterService",94110,518 S Van Ness avenue
+755,Starbucks, Coffee & Tea,4155522649,"takeout, creditCard, bikeParking, outdoorSeating",94110,2727 Mariposa street
+756,Special Xtra 2, Coffee & Tea,,"takeout, bikeParking",94105,138 Minna street
+757,Taqueria Cancun," Mexican,Spanish,Latin American",4158646773,"takeout, bikeParking",94103,1003 Market street
+758,Ali Baba’s Cave," Fast Food,Mediterranean",4158633054,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94110,799 Valencia street
+759,You See Sushi," Japanese,Sushi Bars",4156814010,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService",94122,94 Judah street
+760,Peet’s Coffee," Coffee & Tea,Cafes,Internet Cafes,Bakeries",4152131991,"takeout, creditCard, applePay, bikeParking, goodForKids, outdoorSeating",94117,919 Cole street
+761,Punjab Restaurant, Chinese,4152824011,"reservations, takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService, caters",94110,2838 24th street
+762,Peet’s Coffee, Coffee & Tea,4157310375,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94127,54 West Portal Avenue
+763,Specialty’s Café &amp; Bakery," Sandwiches,Cafes,Salad",8775022837,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",94104,1 Post street
+764,Nite Cap Bar, Bars,4158297796,"creditCard, goodForGroups, hasTV",94109,699 O&#39;Farrell street
+765,Hyde Out, Dive Bars,4154411914,"bikeParking, goodForGroups, hasTV",94109,1068 Hyde street
+766,SF Smart Wireless," Mobile Phone Repair,Mobile Phones",4159396699,"creditCard, applePay, bikeParking",,
+767,Deli World, Sandwiches,4153343111,"takeout, bikeParking, goodForKids, goodForGroups",94112,18 Ocean avenue
+768,Gyro King," Greek,Turkish,Mediterranean",4156218313,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, caters",94102,25 Grove street
+769,Sam’s," American (Traditional),Burgers,Pizza",4153911539,"takeout, bikeParking, hasTV",94133,618 Broadway
+770,San Francisco Brewing Co. Tap Room," Breweries,Pubs",4154842337,"reservations, creditCard, applePay, bikeParking, goodForGroups, outdoorSeating, hasTV",94114,2175 Market street
+771,Eat Curbside, Food Stands,4155721592,"takeout, goodForKids, goodForGroups, caters",94102,
+772,Kozy Kar," Lounges,Dive Bars",4153465699,"creditCard, bikeParking, goodForGroups, hasTV",94109,1548 Polk street
+773,Kingdom of Dumpling, Dim Sum,4155666143,"takeout, creditCard, bikeParking, goodForKids, waiterService",94116,1713 Taraval street
+774,New Golden Daisy," Chinese,Chicken Wings,Barbeque",4153920111,"takeout, caters",94108,1041 Stockton street
+775,Red Jade, Chinese,4156213020,"reservations, delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService, caters",94114,245 Church street
+776,Costco Food Court," Pizza,Hot Dogs,Fast Food",4156264832,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",,
+777,The Daily Habit, Coffee & Tea,4154332968,"takeout, creditCard, bikeParking",94111,1 Maritime Plz
+778,Kawika’s Ocean Beach Deli," Delis,Sandwiches,Gluten-Free",4152212031,"delivery, takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, caters",94121,734 La Playa street
+779,Beep’s Burgers, Burgers,4155842650,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating",94112,1051 Ocean avenue
+780,Molotov’s, Dive Bars,4155588019,"applePay, bikeParking, goodForGroups, hasTV",94117,582 Haight street
+781,Bio Cafe," Cafes,Gluten-Free,Breakfast & Brunch",4153620255,"takeout, creditCard, bikeParking, outdoorSeating, caters",94108,75 O&#39;Farrell street
+782,Garage Cafe," Middle Eastern,Beer, Wine & Spirits,Convenience Stores",4158610888,"takeout, creditCard, bikeParking, goodForGroups, hasTV",94103,320 11th street
+783,Peet’s Coffee, Coffee & Tea,4153215280,"takeout, creditCard, bikeParking",94111,450 Sansome
+784,Cinco De Mayo Taqueria, Mexican,4154689272,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV",94134,2426 San Bruno avenue
+785,Anthony’s Cookies, Desserts,4156559834,"takeout, creditCard, bikeParking",94110,1417 Valencia street
+786,Arkadiy Minasian Watch Repair &amp; Sales," Jewelry,Watches",4157010502,"creditCard, bikeParking",94103,888 Brannan street
+787,Pho Phu Quoc PPQ Beef Noodle House Restaurant," Vietnamese,Noodles",4156618869,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService",94122,1816 Irving street
+788,Glen Park Station," Dive Bars,Sports Bars,Lounges",4153334633,"bikeParking, goodForGroups, hasTV",94131,2816 Diamond street
+789,Red A Bakery," Hawaiian,Bakeries,Chinese",4156688881,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, caters",94118,634 Clement street
+790,Soul Food City, Soul Food,4154411976,"delivery, takeout, creditCard, goodForKids, waiterService, caters",94109,403 Eddy street
+791,Alamo Square Cafe," Sandwiches,Coffee & Tea",4154478636,"takeout, creditCard, applePay, bikeParking, goodForKids",94117,711 Fillmore street
+792,United VIP Lounge, Lounges,,"creditCard, goodForGroups, hasTV",94103,845 Market street
+793,El Huarache Loco, Mexican,4155726832,"takeout, bikeParking, goodForKids, goodForGroups, outdoorSeating",94110,100 Alemany boulevard
+794,Jimmy John’s, Sandwiches,4159821234,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94104,50 Post street
+795,The Lucky Horseshoe," Dive Bars,Music Venues,Sports Bars",4152823456,"bikeParking, goodForGroups, hasTV",94110,453 Cortland avenue
+796,Coffee Mine," Coffee & Tea,Breakfast & Brunch,Sandwiches",4152529795,"takeout, creditCard, goodForKids",94103,79 9th street
+797,Caffe Trieste," Coffee & Tea,Recording & Rehearsal Studios",4153926739,"takeout, bikeParking, outdoorSeating",94133,609 Vallejo street
+798,Green Apple Books," Music & DVDs,Bookstores",4153872272,"creditCard, bikeParking",94118,506 Clement street
+799,InfiniTea," Coffee & Tea,Bubble Tea",4157511744,"takeout, creditCard, bikeParking",94121,5351 Geary boulevard
+800,R Caffe," Salad,Sandwiches,Coffee & Tea",4154005147,"takeout, creditCard, bikeParking, goodForKids, caters",94102,614 Polk street
+801,Punjab Kabab House," Indian,Pakistani,Halal",4154477499,"reservations, delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService",94102,101 Eddy street
+802,The Peaks Bar Noe Valley," Dive Bars,Sports Bars,Pubs",4158260100,"creditCard, bikeParking, goodForGroups, outdoorSeating, hasTV",94114,1316 Castro street
+803,Gold Club," Adult Entertainment,Bars,Buffets",4155360300,"reservations, creditCard, goodForGroups, hasTV, waiterService",94105,650 Howard street
+804,Them Ky, Vietnamese,4154418525,"takeout, goodForKids, goodForGroups, hasTV, waiterService",94109,717 Ellis street
+805,Darbar Restaurant," Indian,Pakistani,Caterers",4153591236,"reservations, delivery, takeout, creditCard, goodForKids, goodForGroups, outdoorSeating, waiterService",94109,1412 Polk street
+806,Good Eats Cafe, Cafes,4152888612,"delivery, takeout, creditCard, goodForKids, outdoorSeating, caters",94104,200 Pine street
+807,Alfaro Catering," Mexican,Food Trucks",4158504247,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",94103,332 Valencia street
+808,AJ’s Bbq And Cafe," Burgers,Filipino,Breakfast & Brunch",4158255983,"reservations, takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, waiterService, caters",94112,2275 San Jose avenue
+809,ShakeDown, Ice Cream & Frozen Yogurt,4153747523,"takeout, creditCard, bikeParking",94109,835 Geary street
+810,The City Taqueria, Mexican,4153463515,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, caters",94115,1836 Divisadero street
+811,Fox and Lion Bread," Coffee & Tea,Bakeries",4158729789,"takeout, creditCard, bikeParking",94124,5273 3rd street
+812,Seniore’s Pizza," Pizza,Burgers,Salad",4154005222,"delivery, takeout, creditCard, goodForKids, goodForGroups, hasTV, caters",94117,559 Divisadero street
+813,Banh Mi House," Sandwiches,Coffee & Tea",4157695556,"takeout, goodForKids",94134,2701 San Bruno avenue
+814,Sabor De San Miguel," Food Trucks,Latin American",4157548283,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",,
+815,Underground SF," Dive Bars,Dance Clubs",4158647386,"creditCard, bikeParking, goodForGroups",94117,424 Haight street
+816,Black Point Cafe," Cafes,Coffee & Tea",4158008448,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94109,882 N Point street
+817,JINS, Eyewear & Opticians,4153912481,"creditCard, bikeParking",94102,151 Powell street
+818,Thinkers Cafe, Coffee & Tea,4152858294,"takeout, creditCard, bikeParking, outdoorSeating",94107,1631 20th street
+819,Holy Grill," Burgers,Sandwiches,Diners",4154314659,"takeout, creditCard, bikeParking, goodForKids, hasTV",94103,659 Townsend street
+820,Melisa’s Chinese Cuisine, Chinese,4153871680,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService, caters",94118,450 Balboa street
+821,Cafe Franco," Salad,Sandwiches,Cafes",4157712268,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV",94123,240 Fort Mason
+822,BB Tea Station," Bubble Tea,Coffee & Tea",4156815888,"takeout, bikeParking",94122,1314 Noriega street
+823,BAMBU," Coffee & Tea,Juice Bars & Smoothies,Bubble Tea",4153794683,"takeout, creditCard, bikeParking, caters",94121,6050 Geary boulevard
+824,Peet’s Coffee, Coffee & Tea,4154741871,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94109,2139C Polk Street
+825,Latte Express," Coffee & Tea,Vietnamese,Sandwiches",4152847328,"takeout, creditCard, goodForKids, hasTV",94103,48 5th street
+826,Carlin’s Cafe," Coffee & Tea,Sandwiches,Breakfast & Brunch",4155523147,"takeout, creditCard, bikeParking, goodForKids, goodForGroups",94103,298 Valencia street
+827,Fog Baby Cafe," Breakfast & Brunch,Desserts,Sandwiches",4152212466,"takeout, creditCard, applePay, bikeParking, goodForKids, outdoorSeating, caters",94121,3516 Balboa street
+828,The Sandwich Stand," Street Vendors,Vietnamese,Sandwiches",5109319828,"takeout, goodForKids",94105,Main street Between Market and Mission
+829,Pakwan Restaurant - O’Farrell Street," Indian,Pakistani",4157760160,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",94102,501 O`Farrell street
+830,Park Gyros," Turkish,Mediterranean,Salad",4157310400,"delivery, takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, outdoorSeating, waiterService, caters",94122,1201 9th avenue
+831,Two Jacks Seafood, Seafood,4154316290,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, caters",94117,401 Haight street
+832,Garden Creamery," Ice Cream & Frozen Yogurt,Food Trucks,Caterers",8082246626,"takeout, creditCard, bikeParking",94110,
+833,Pissed Off Pete’s," Sports Bars,Burgers,Chicken Wings",4155845122,"takeout, creditCard, bikeParking, goodForGroups, hasTV",94112,4528 Mission street
+834,Craftsman and Wolves - The Den," Coffee & Tea,Bakeries,Sandwiches",4154233337,"takeout, creditCard, bikeParking, outdoorSeating, caters",94124,1598 Yosemite avenue
+835,Gordo Taqueria," Fast Food,Mexican",4153874484,"takeout, creditCard, bikeParking, goodForKids",94121,2252 Clement street
+836,Creperie Saint Germain," Creperies,Food Stands",4157069733,"takeout, bikeParking, goodForKids, caters",94105,222 Second street
+837,Cherimoya 2," Vietnamese,Noodles",4156503009,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, caters",94122,2110 Irving street
+838,SF Wraps," Mediterranean,Fast Food",4159563070,"takeout, creditCard, goodForKids, hasTV, caters",94108,255 Kearny street
+839,Bini’s Kitchen," Himalayan/Nepalese,Food Stands",4153616911,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, caters",94104,1 Post Plz
+840,Green Tiffin," Food Delivery Services,Vegan,Vegetarian",4152837856,"delivery, creditCard, bikeParking, goodForGroups",95014,
+841,Golden Kim Tar, Chinese,4153468889,"reservations, delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService, caters",94102,434 Larkin street
+842,Horseshoe Tavern," Pubs,Lounges",4153461430,"creditCard, bikeParking, goodForGroups, hasTV",94123,2024 Chestnut street
+843,Pizzeria Avellino, Pizza,4157762500,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, caters",94123,2769 Lombard street
+844,OneUp," Pool Halls,Sports Bars",,"creditCard, bikeParking, goodForGroups, hasTV",94122,1232 Noriega street
+845,Mr. Bing’s, Dive Bars,,"bikeParking, hasTV",94133,201 Columbus avenue
+846,Slider Shack," Food Trucks,Burgers,Hawaiian",4156722902,"delivery, takeout, creditCard, goodForKids, goodForGroups, caters",94105,400 Howard street
+847,Cafe Capriccio," Breakfast & Brunch,Cafes,Wine Bars",4157720937,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating",94133,2200 Mason street
+848,Latte Express," Coffee & Tea,Vietnamese,Sandwiches",4152968838,"takeout, creditCard, applePay, bikeParking, goodForKids, hasTV",94108,646 Kearny street
+849,901 Columbus Cafe," Coffee & Tea,Mediterranean",4154099001,"takeout, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV",94133,901 Columbus avenue
+850,Buffalo Burger Restaurant, Burgers,4156681267,"takeout, creditCard, bikeParking, goodForKids, hasTV",94121,5317 Geary boulevard
+851,Cafe Enchante," Coffee & Tea,Bagels",4155003345,"takeout, creditCard, bikeParking",94121,6157 Geary boulevard
+852,Royal Grounds Coffee, Coffee & Tea,4154745957,"takeout, creditCard, bikeParking, outdoorSeating",94109,2216 Polk street
+853,The Ave," Dive Bars,Sports Bars",4155876645,"creditCard, bikeParking, goodForGroups, hasTV",94112,1607 Ocean avenue
+854,Martita’s Kitchen," American (Traditional),Mexican",4152821103,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, caters",94124,2560 Marin street
+855,Columbus Cafe," Dive Bars,Sports Bars,Italian",4152742599,"creditCard, bikeParking, goodForGroups, hasTV",94133,562 Green street
+856,Cheaper Than Therapy," Comedy Clubs,Performing Arts",5125864401,"creditCard, bikeParking, goodForGroups",94102,533 Sutter street
+857,Taqueria San Jose, Mexican,4152820203,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, caters",94110,2830 Mission street
+858,Cup &amp; Cake Cafe," Coffee & Tea,Sandwiches",4159336373,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups",94118,3500 Geary boulevard
+859,Joe’s Coffee Shop, Diners,4156689382,"takeout, bikeParking, goodForKids, hasTV, waiterService",94121,6134 Geary boulevard
+860,Tio Chilo’s Grill, Mexican,4152851382,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService, caters",94110,2872 24th street
+861,FNL," Notaries,Photography Stores & Services,Fingerprinting",4156120728,"creditCard, applePay, bikeParking",,
+862,Kam Po Kitchen," Cantonese,Noodles",4159823516,"takeout, goodForKids, goodForGroups, waiterService",94133,801 Broadway
+863,Dol Ho, Dim Sum,4153922828,"takeout, goodForKids, goodForGroups, waiterService",94133,808 Pacific avenue
+864,Sweetie’s Art Bar," Bars,Pool Halls,Art Galleries",4154332343,"creditCard, bikeParking, goodForGroups, hasTV",94133,475 Francisco street
+865,The Wreck Room, Bars,4159326715,"creditCard, goodForGroups, hasTV",94109,1390 California street
+866,The Red Jack Saloon," Sports Bars,Dive Bars",4159890700,"creditCard, bikeParking, goodForGroups, hasTV",94133,131 Bay street
+867,Baladie Gourmet Cafe," Greek,Mediterranean,Middle Eastern",4159896629,"delivery, takeout, creditCard, goodForKids, outdoorSeating, caters",94108,337 Kearny street
+868,Tava Kitchen," Indian,Halal,Gluten-Free",4155438282,"delivery, takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, caters",94105,163 2nd street
+869,Lanna Thai Restaurant, Thai,4156658080,"reservations, takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService, caters",94122,1245 Noriega street
+870,Los Hermanos Taqueria, Mexican,4154740530,"takeout, creditCard, bikeParking, goodForKids, hasTV",94109,868 Geary street
+871,BibimBar," Food Court,Korean",4153991961,"takeout, creditCard, applePay, goodForKids, goodForGroups, hasTV, caters",94104,380 Bush street  Ste 2
+872,Cafe Bean," Coffee & Tea,Creperies",4159280888,"takeout, creditCard, goodForKids, outdoorSeating, hasTV, waiterService",94109,800 Sutter street
+873,Progressive Cuts, Hair Stylists,4152926474,"bikeParking, goodForKids",94117,
+874,Aladdin Rugs &amp; Mattresses," Mattresses,Rugs",4156405603,"creditCard, applePay, bikeParking",94121,2001 Clement street
+875,Good Earth Cafe," Bubble Tea,Cafes",4153622822,"takeout, creditCard, goodForKids",94108,835 Kearny street
+876,Royal Ground Coffee," Coffee & Tea,Delis",4153862057,"takeout, creditCard, bikeParking, goodForKids, outdoorSeating, caters",94118,3101 Geary boulevard
+877,Sapphire Asian Cuisine," Burmese,Asian Fusion",4159840428,"delivery, takeout, creditCard, bikeParking, goodForGroups, hasTV, waiterService, caters",94111,475 Sacramento street
+878,Sammy’s Cafe," Cafes,Delis,Sandwiches",4157491938,"delivery, takeout, creditCard, goodForKids, goodForGroups",94109,1416 Bush street
+879,Multikulti," Jewelry,Women's Clothing",4154371718,"creditCard, bikeParking",94110,539 Valencia street
+880,Sausalito Cafe 1st St," Coffee & Tea,Mediterranean,Breakfast & Brunch",4152229922,"delivery, takeout, creditCard, bikeParking, goodForKids, outdoorSeating, caters",94105,100 1st street
+881,El Pollo Supremo," Mexican,Latin American,Sandwiches",4153375750,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, caters",94112,5210 Mission street
+882,Benkyodo Co," Bakeries,Candy Stores",4159221244,"takeout, bikeParking",94115,1747 Buchanan street
+883,The Edge, Gay Bars,4158634027,"bikeParking, goodForGroups, hasTV",94114,4149 18th street
+884,Trad’r Sam," Dive Bars,Pubs",4152210773,"goodForGroups, hasTV",94121,6150 Geary boulevard
+885,In-N-Out Burger," Fast Food,Burgers",8007861000,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating",,
+886,Working Girls’ Cafe," Sandwiches,Cafes,Salad",4154958985,"delivery, takeout, creditCard, bikeParking, goodForKids, caters",94105,101 Mission street
+887,Counter Offer," American (Traditional),Pubs",4158241800,"takeout, creditCard, bikeParking, goodForGroups, outdoorSeating, hasTV",94110,800 S Van Ness avenue
+888,Shear Irish, Hair Salons,4156828803,"bikeParking, goodForKids",94116,2393 16th avenue
+889,Kiki Japanese Restaurant," Japanese,Sushi Bars",4156615522,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, waiterService, caters",94122,1269 9th avenue
+890,Starbucks, Coffee & Tea,4154411740,"takeout, creditCard, applePay, bikeParking, outdoorSeating",94129,1 Letterman Dr
+891,illy Caffè," Coffee & Tea,Italian,Cafes",6284443171,"takeout, creditCard, outdoorSeating",94111,123 Battery street
+892,Elsy’s Restaurant, Salvadoran,4156420104,"takeout, creditCard, goodForKids, goodForGroups",94110,2893 Mission street
+893,Peet’s Coffee, Coffee & Tea,4159814550,"takeout, creditCard, bikeParking",94111,22 Battery Street
+894,Bite Me Sandwiches, Sandwiches,4154314788,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV, caters",94103,2797 16th street
+895,Sweet Kneads," Gluten-Free,Caterers",4159719066,"delivery, goodForKids, goodForGroups",94123,
+896,Peet’s Coffee, Coffee & Tea,4155922200,"takeout, creditCard, bikeParking, outdoorSeating, caters",94118,5201 Geary boulevard
+897,Frozen Kuhsterd," Ice Cream & Frozen Yogurt,Food Trucks",4153719050,"takeout, creditCard, applePay, bikeParking, caters",94103,428 11th street
+898,Sweet Penelope," Cards & Stationery,Bridal",4155135735,creditCard,94114,
+899,El Sol Taqueria, Mexican,4154410405,"takeout, creditCard, bikeParking, goodForKids",94102,595 Geary street
+900,Hunan Cafe 2," Chinese,Noodles,Soup",4157511682,"delivery, takeout, creditCard, goodForKids, goodForGroups, waiterService",94121,4450 Cabrillo street
+901,Good Noodle Restaurant," Vietnamese,Chinese,Noodles",4153799008,"takeout, creditCard, bikeParking, goodForKids, goodForGroups, hasTV, waiterService",94118,239 Clement street
+902,Du’s Sandwich," Vietnamese,Street Vendors,Sandwiches",5105218563,"takeout, bikeParking, goodForKids",94103,1st Sansome street
+903,Baby’s Eatery and Palabok, Filipino,4155850990,,94112,4609 Mission street
+904,Specialty’s Café &amp; Bakery," Sandwiches,Salad,Cafes",8775022837,,94104,369 Pine street
+905,San Francisco Herb Company," Grocery,Health Markets",4158617174,"creditCard, bikeParking",94103,250 14th street
+906,Shanghai Kelly’s," Pubs,Sports Bars",4157713300,,94109,2064 Polk street
+907,Geary Salon, Hair Stylists,4153868809,,94118,3151 Geary boulevard
+908,Belly, Burgers,4159336232,"takeout, creditCard, applePay, bikeParking, goodForKids, goodForGroups, outdoorSeating, hasTV",94121,5740 Geary boulevard
+909,eatsa," Salad,Vegetarian,Breakfast & Brunch",4159304006,,94111,1 California street

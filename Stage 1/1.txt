@@ -1,0 +1,2 @@
+Attempting to extract near San Francisco with price range 3
+Starting crawling from: https://www.yelp.com/search?find_loc=San+Francisco,+CA&start=0&attrs=RestaurantsPriceRange2.3
