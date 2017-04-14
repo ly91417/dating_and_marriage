@@ -7,6 +7,7 @@
 import re
 import os
 import csv
+import pandas as pd
 
 def read_raw_table(file):
 	id_dict = {}
@@ -42,7 +43,7 @@ if __name__ == '__main__':
 	orig_B_files = ['yelp_crawling_result.csv']
 	match_file = ['matched_table.csv']
 	filtered_files = ['Table_A.csv', 'Table_B.csv']
-
+	set_filename = 'set.csv'
 	# Read original files
 	id_dict_A, id_dict_B = {}, {}
 	for file in orig_A_files:
@@ -68,9 +69,13 @@ if __name__ == '__main__':
 		f.write(id_dict_B[-1])
 		for row in match_tuples_B:
 			f.write(row)
-					
-
-
-
-
-
+	
+	# Concatenate table A and table B into new csv file
+	tableA = pd.read_csv(os.path.join(managed_data_dir, filtered_files[0]))
+	tableB = pd.read_csv(os.path.join(managed_data_dir, filtered_files[1]))
+	Atitles = {title:'A_{}'.format(title) for title in list(tableA)}
+	Btitles = {title:'B_{}'.format(title) for title in list(tableB)}
+	newA = tableA.rename(columns=Atitles)
+	newB = tableB.rename(columns=Btitles)
+	table_all = pd.concat([newA, newB],axis=1)
+	table_all.to_csv(os.path.join(managed_data_dir, set_filename),index=False)

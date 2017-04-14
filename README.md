@@ -1,8 +1,8 @@
-#CS838 Project Stage 4 Report
-###University of Wisconsin-Madison
-###Fan Wu, Wei Li, Ying Li    {fwu49,wli284,li528}@wisc.edu
+# CS838 Project Stage 4 Report
+## University of Wisconsin-Madison
+## Fan Wu, Wei Li, Ying Li    {fwu49,wli284,li528}@wisc.edu
 
-How did you combine the two tables A and B to obtain E? 
+## How did you combine the two tables A and B to obtain E? 
 To decide the schema of E, we looked into the raw data file we crawled from TripAdvisor and Yelp instead of the table we obtained in stage 3 (the table of matching entities, with a few columns removed for sake of matching). The final schema for table E is shown as follows:
 
 (title,phone,tags,price,yelp_rating,food_rating,service_rating,value_rating,atmosphere_rating,feature,street_address,zipcode,zipcode_extension,monday,tuesday,wednesday,thursday,friday,saturday,sunday,webpage)
@@ -19,13 +19,13 @@ Schema for Table B (From Yelp Data:
 
 A python script is used to do the merging, as we will discuss later.
 
-Did you add any other table? 
+## Did you add any other table? 
 
 We did not add any other table.
 
 Since we cannot obtain Table E directly from Table A and B, we use the id of rows in table A and B to locate the corresponding rows in the original comprehensive tables where A and B are derived. The id field is not shown in the schema above, because it is used merely to facilitate the translation of rows between multiple tables.
 
-When you did the combination, did you run into any issues?
+## When you did the combination, did you run into any issues?
 
 By looking at Table A and B, we found that a few entries have titles in gibberish, which are stemmed from the web crawling process. Our solution is to use the value without any gibberish when possible. If both values contain gibberish, we use a rule to decide which one to keep. We will discuss the rule in details later.
 
@@ -100,7 +100,7 @@ Example 2:
 Table B: 11:30 am-2:30 pm 5:30 pm-10:00 pm
 Table E: 11:30 AM-2:30 PM, 5:30 PM-10:00 PM
 
-Statistics on Table E: specifically, what is the schema of Table E, how many tuples are in Table E? Give at least four sample tuples from Table E. 
+## Statistics on Table E: specifically, what is the schema of Table E, how many tuples are in Table E? Give at least four sample tuples from Table E. 
 final schema for table E:
 (title,phone,tags,price,yelp_rating,food_rating,service_rating,value_rating,atmosphere_rating,feature,street_address,zipcode,zipcode_extension,monday,tuesday,wednesday,thursday,friday,saturday,sunday,webpage)
 
@@ -115,16 +115,16 @@ Quince,(415) 775-8500,"French, Italian",$61-$300,4.0,4.5/5,4.5/5,4.5/5,4/5,"Rese
 Piqueos,(415) 282-8812,"Peruvian, Latin, Spanish, Latin American",$15-$60,4.0,4.5/5,4.5/5,4/5,4/5,"Serves Alcohol, Applepay, Seating, Waitstaff, Parking, Alcohol, Caters, Creditcard, Reservations, Delivery, Attire",830 Cortland avenue,94110,,5:30 PM-9:00 PM,5:30 PM-9:00 PM,5:30 PM-9:00 PM,5:30 PM-9:00 PM,5:30 PM-10:00 PM,5:30 PM-10:00 PM,5:30 PM-9:00 PM,http://www.yelp.com/ /biz/piqueos-san-francisco
 
 
-Append the code of the Python script to the end of this pdf file. 
+## Append the code of the Python script to the end of this pdf file. 
 
 Instruction to run the code:
-# Sort Table A, Table B by matching id
+#Sort Table A, Table B by matching id
 cd script
 python raw_data_extraction.py
 python select_original_entries.py
-# perform schema matching
+#perform schema matching
 python schema_merging.py
-# The filename of the combined table is  Table_E.csv
+#The filename of the combined table is  Table_E.csv
 Source Code:
 raw_data_extraction.py
 schema_merging.py
