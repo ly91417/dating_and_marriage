@@ -37,6 +37,7 @@ Discuss the combination process in detail, e.g., when you merge tuples, what are
 #### title: 
 
 we want to use the title without any gibberish. The rule is to firstly remove any gibberish in the value to get the cleaned string, then to choose the longer string for more information purposes. We also run the values through the str.title() function to get a nice string format. The following is an example.
+
 	Example:
 	Table A: george‰Û¡ÌÝåÁÌÎÌÌ´åÈs zoo liquor deli
 	Table B: cafÌÎÌ_Ì´å© at the opera
@@ -45,6 +46,7 @@ we want to use the title without any gibberish. The rule is to firstly remove an
 #### price:
 
  we combined two data sources and unioned the price range from Table A and Table B by keeping the maximum and minimum prices. There are some cases when Table B only contains strings like “pricy”, “moderate” and table A have null values, we keep those strings.
+
 	Example:
 	Table A: NULL
 	Table B: inexpensive
@@ -66,6 +68,7 @@ we want to use the title without any gibberish. The rule is to firstly remove an
 #### tags:
 
  this attribute is used to indicate the category of cuisine. In this category field, we unioned two category lists from Table A and Table B to eliminate the redundant features. 
+
 	Example: 
 	Table A: Japanese, Chinese
 	Table B: Japanese, French, Chinese.
@@ -74,6 +77,7 @@ we want to use the title without any gibberish. The rule is to firstly remove an
 #### street_address:
 
  similarly to title, we first examined if the address contains the gibberish characters and removed the gibberish characters from the address string. We keep the longer value for more information purposes. Also we removed the zipcode and zipcode extension using regex, as they will have their own columns.
+
 	Example: (street_address)
 	Table A: 200 Jackson Street,San Francisco, CA 94111-1806
 	Table B: 200 Jackson StSan Francisco, CA 94111
@@ -82,6 +86,7 @@ we want to use the title without any gibberish. The rule is to firstly remove an
 #### zipcode:
 
  Zipcode is extracted from address selected by the rule of street_address line using regular expression.
+
 	Example: 
 	Table A: 200 Jackson Street,San Francisco, CA 94111-1806
 	Table B: 200 Jackson StSan Francisco, CA 94111
@@ -89,6 +94,7 @@ we want to use the title without any gibberish. The rule is to firstly remove an
 
 #### zipcode_extension:
  Zipcode_extension is extracted from the raw address selected by the rule of street_address line using regular expression.
+
 	Example: 
 	Table A: 200 Jackson Street,San Francisco, CA 94111-1806
 	Table B: 200 Jackson StSan Francisco, CA 94111
@@ -97,6 +103,7 @@ we want to use the title without any gibberish. The rule is to firstly remove an
 #### features:
 
   For this column we combined features from TripAdvisor and Yelp. The two values have different formats. The value from TripAdvisor is given as a list, and the value from Yelp is given as a set of boolean values. For example: takeout=Yes, delivery=No, etc. Our final form contains a list of features. Also, we use the set union to remove any duplicates. The following is an example.
+
 	Example:
 	Table A: Deliver, Drive-through
 	Table B: deliver=Yes, take-out=No, ApplePay=Yes
@@ -141,19 +148,27 @@ Instruction to run the code:
 #Sort Table A, Table B by matching id
 
 cd script
+
 python raw_data_extraction.py
+
 python select_original_entries.py
+
 #perform schema matching
+
 python schema_merging.py
+
 #The filename of the combined table is  Table_E.csv
 
 Source Code:
+
 raw_data_extraction.py
+
 schema_merging.py
+
 select_original_entries.py
 
 
 
-Suggestions for the instructor:
+## Suggestions for the instructor:
 We figured out that jupyter notebook don’t work well with auto-merge with the git because formatting reasons. So, we recommend later semesters students to use different filenames to avoid conflict. Otherwise if there is any good ways to improve the conflict in git by using jupyter, please let us know.
 
