@@ -34,72 +34,91 @@ Also, we ran into the issue of missing values. If either the value from A or B i
 
 Discuss the combination process in detail, e.g., when you merge tuples, what are the merging functions (such as to merge two age values, always select the age value from the tuple from Table A, unless this value is missing in which case we select the value from the tuple in Table B). 
 
-title: we want to use the title without any gibberish. The rule is to firstly remove any gibberish in the value to get the cleaned string, then to choose the longer string for more information purposes. We also run the values through the str.title() function to get a nice string format. The following is an example.
-Example:
-Table A: george‰Û¡ÌÝåÁÌÎÌÌ´åÈs zoo liquor deli
-Table B: cafÌÎÌ_Ì´å© at the opera
-Table E: George's Zoo Liquor Deli
+#### title: 
 
-price: we combined two data sources and unioned the price range from Table A and Table B by keeping the maximum and minimum prices. There are some cases when Table B only contains strings like “pricy”, “moderate” and table A have null values, we keep those strings.
+we want to use the title without any gibberish. The rule is to firstly remove any gibberish in the value to get the cleaned string, then to choose the longer string for more information purposes. We also run the values through the str.title() function to get a nice string format. The following is an example.
+	Example:
+	Table A: george‰Û¡ÌÝåÁÌÎÌÌ´åÈs zoo liquor deli
+	Table B: cafÌÎÌ_Ì´å© at the opera
+	Table E: George's Zoo Liquor Deli
+
+#### price:
+
+ we combined two data sources and unioned the price range from Table A and Table B by keeping the maximum and minimum prices. There are some cases when Table B only contains strings like “pricy”, “moderate” and table A have null values, we keep those strings.
 	Example:
 	Table A: NULL
 	Table B: inexpensive
 	Table E: inexpensive (this will be transformed into 25% of the price distribution when performing the analysis )
 
-Table A: $15 -$30
+	Table A: $15 -$30
 	Table B: $20 -$40
 	Table E: $15 -$40
 
-phone: we first converted all phone numbers to the (xxx) xxx-xxxx format using regular expressions. Some phone numbers have the additional country code, so we removed that. If two phone numbers do not agree we kept them both. And if a phone number has a length less than 10, we simply dropped it and chose the other one.
+#### phone:
 
-Example: 
-Table A: +1 415-673-0557
-Table B: (628) 444-3666
-Table E: (415) 673-0557 or (628) 444-3666
+ we first converted all phone numbers to the (xxx) xxx-xxxx format using regular expressions. Some phone numbers have the additional country code, so we removed that. If two phone numbers do not agree we kept them both. And if a phone number has a length less than 10, we simply dropped it and chose the other one.
 
-tags: this attribute is used to indicate the category of cuisine. In this category field, we unioned two category lists from Table A and Table B to eliminate the redundant features. 
-Example: 
-Table A: Japanese, Chinese
-Table B: Japanese, French, Chinese.
-Table E: Japanese, Chinese, French.
+	Example: 
+	Table A: +1 415-673-0557
+	Table B: (628) 444-3666
+	Table E: (415) 673-0557 or (628) 444-3666
 
-street_address: similarly to title, we first examined if the address contains the gibberish characters and removed the gibberish characters from the address string. We keep the longer value for more information purposes. Also we removed the zipcode and zipcode extension using regex, as they will have their own columns.
-Example: (street_address)
-Table A: 200 Jackson Street,San Francisco, CA 94111-1806
-Table B: 200 Jackson StSan Francisco, CA 94111
-Table E: 200 Jackson Street
+#### tags:
 
-zipcode: Zipcode is extracted from address selected by the rule of street_address line using regular expression.
-Example: 
-Table A: 200 Jackson Street,San Francisco, CA 94111-1806
-Table B: 200 Jackson StSan Francisco, CA 94111
-Table E: 94111
+ this attribute is used to indicate the category of cuisine. In this category field, we unioned two category lists from Table A and Table B to eliminate the redundant features. 
+	Example: 
+	Table A: Japanese, Chinese
+	Table B: Japanese, French, Chinese.
+	Table E: Japanese, Chinese, French.
 
-zipcode_extension: Zipcode_extension is extracted from the raw address selected by the rule of street_address line using regular expression.
-Example: 
-Table A: 200 Jackson Street,San Francisco, CA 94111-1806
-Table B: 200 Jackson StSan Francisco, CA 94111
-Table E: 1806
+#### street_address:
 
-features:  For this column we combined features from TripAdvisor and Yelp. The two values have different formats. The value from TripAdvisor is given as a list, and the value from Yelp is given as a set of boolean values. For example: takeout=Yes, delivery=No, etc. Our final form contains a list of features. Also, we use the set union to remove any duplicates. The following is an example.
-Example:
+ similarly to title, we first examined if the address contains the gibberish characters and removed the gibberish characters from the address string. We keep the longer value for more information purposes. Also we removed the zipcode and zipcode extension using regex, as they will have their own columns.
+	Example: (street_address)
+	Table A: 200 Jackson Street,San Francisco, CA 94111-1806
+	Table B: 200 Jackson StSan Francisco, CA 94111
+	Table E: 200 Jackson Street
+
+#### zipcode:
+
+ Zipcode is extracted from address selected by the rule of street_address line using regular expression.
+	Example: 
+	Table A: 200 Jackson Street,San Francisco, CA 94111-1806
+	Table B: 200 Jackson StSan Francisco, CA 94111
+	Table E: 94111
+
+#### zipcode_extension:
+ Zipcode_extension is extracted from the raw address selected by the rule of street_address line using regular expression.
+	Example: 
+	Table A: 200 Jackson Street,San Francisco, CA 94111-1806
+	Table B: 200 Jackson StSan Francisco, CA 94111
+	Table E: 1806
+
+#### features:
+
+  For this column we combined features from TripAdvisor and Yelp. The two values have different formats. The value from TripAdvisor is given as a list, and the value from Yelp is given as a set of boolean values. For example: takeout=Yes, delivery=No, etc. Our final form contains a list of features. Also, we use the set union to remove any duplicates. The following is an example.
+	Example:
 	Table A: Deliver, Drive-through
 	Table B: deliver=Yes, take-out=No, ApplePay=Yes
 	Table E: Deliver, Derive-through, ApplePay
 
-trip_food_rating,  trip_service_rating, trip_atmosphere_rating,  trip_ vaule_rating, trip_price_range, yelp_Page,  yelp_rating, yelp_price: We directly copied from table A or table B, since there is no much meaning in combining these attributes. In detail, the tripAdvisor data set contain 5 kind of ratings while yelp only have one overall rating. It is necessary to keep all the data for later analysis. Thus, all these features were decided to be kept without any merging steps.
+#### trip_food_rating,  trip_service_rating, trip_atmosphere_rating,  trip_ vaule_rating, trip_price_range, yelp_Page,  yelp_rating, yelp_price:
 
-Hours: the original values contain only one entry for the week. After merging, we have an individual column for each day in the week. We used the regular expression to extract the time in a day. In situation of inconsistent values, we calculated the hours conservatively in the sense that we always choose the later opening time and the earlier closing time. Moreover, a restaurant could have multiple intervals of operation (the owner decides to take an one-hour break in the morning etc.). We also kept the information. The following is an example.
+ We directly copied from table A or table B, since there is no much meaning in combining these attributes. In detail, the tripAdvisor data set contain 5 kind of ratings while yelp only have one overall rating. It is necessary to keep all the data for later analysis. Thus, all these features were decided to be kept without any merging steps.
 
-Example 1:
+#### Hours: 
+
+the original values contain only one entry for the week. After merging, we have an individual column for each day in the week. We used the regular expression to extract the time in a day. In situation of inconsistent values, we calculated the hours conservatively in the sense that we always choose the later opening time and the earlier closing time. Moreover, a restaurant could have multiple intervals of operation (the owner decides to take an one-hour break in the morning etc.). We also kept the information. The following is an example.
+
+	Example 1:
 	Table A: 11:30 am - 5:00 pm
-Table B: 11:00 am - 4:30 pm
-Table E: 11:30 AM - 4:30 PM
+	Table B: 11:00 am - 4:30 pm
+	Table E: 11:30 AM - 4:30 PM
 
-Example 2:
+	Example 2:
 	Table A: 11:30 am - 10:00 pm
-Table B: 11:30 am-2:30 pm 5:30 pm-10:00 pm
-Table E: 11:30 AM-2:30 PM, 5:30 PM-10:00 PM
+	Table B: 11:30 am-2:30 pm 5:30 pm-10:00 pm
+	Table E: 11:30 AM-2:30 PM, 5:30 PM-10:00 PM
 
 ## Statistics on Table E: specifically, what is the schema of Table E, how many tuples are in Table E? Give at least four sample tuples from Table E. 
 final schema for table E:
