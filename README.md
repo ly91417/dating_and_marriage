@@ -1,6 +1,7 @@
 # CS838 Project Stage 4 Report
-## University of Wisconsin-Madison
-## Fan Wu, Wei Li, Ying Li    {fwu49,wli284,li528}@wisc.edu
+### University of Wisconsin-Madison
+### Fan Wu, Wei Li, Ying Li    
+### {fwu49,wli284,li528}@wisc.edu
 
 ## How did you combine the two tables A and B to obtain E? 
 To decide the schema of E, we looked into the raw data file we crawled from TripAdvisor and Yelp instead of the table we obtained in stage 3 (the table of matching entities, with a few columns removed for sake of matching). The final schema for table E is shown as follows:
@@ -119,12 +120,14 @@ Piqueos,(415) 282-8812,"Peruvian, Latin, Spanish, Latin American",$15-$60,4.0,4.
 
 Instruction to run the code:
 #Sort Table A, Table B by matching id
+
 cd script
 python raw_data_extraction.py
 python select_original_entries.py
 #perform schema matching
 python schema_merging.py
 #The filename of the combined table is  Table_E.csv
+
 Source Code:
 raw_data_extraction.py
 schema_merging.py
