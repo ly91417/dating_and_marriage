@@ -3,6 +3,8 @@
 #### Fan Wu, Wei Li, Ying Li    
 #### {fwu49,wli284,li528}@wisc.edu
 
+[please visit us at here] (https://sites.google.com/site/cs838spring2017group9/home/stage-4)
+
 ## How did you combine the two tables A and B to obtain E? 
 To decide the schema of E, we looked into the raw data file we crawled from TripAdvisor and Yelp instead of the table we obtained in stage 3 (the table of matching entities, with a few columns removed for sake of matching). The final schema for table E is shown as follows:
 
@@ -167,7 +169,7 @@ schema_merging.py
 
 select_original_entries.py
 
-[please visit us at here] (https://sites.google.com/site/cs838spring2017group9/home/stage-4)
+
 
 ## Suggestions for the instructor:
 We figured out that jupyter notebook don’t work well with auto-merge with the git because formatting reasons. So, we recommend later semesters students to use different filenames to avoid conflict. Otherwise if there is any good ways to improve the conflict in git by using jupyter, please let us know.
