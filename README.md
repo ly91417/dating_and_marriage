@@ -148,7 +148,7 @@ Instruction to run the code:
 #Sort Table A, Table B by matching id
 
 cd script
-
+'''
 python raw_data_extraction.py
 
 python select_original_entries.py
@@ -167,7 +167,7 @@ schema_merging.py
 
 select_original_entries.py
 
-
+[please visit us at here] (https://sites.google.com/site/cs838spring2017group9/home/stage-4)
 
 ## Suggestions for the instructor:
 We figured out that jupyter notebook don’t work well with auto-merge with the git because formatting reasons. So, we recommend later semesters students to use different filenames to avoid conflict. Otherwise if there is any good ways to improve the conflict in git by using jupyter, please let us know.
