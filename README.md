@@ -1,7 +1,7 @@
 # CS838 Project Stage 4 Report
-### University of Wisconsin-Madison
-### Fan Wu, Wei Li, Ying Li    
-### {fwu49,wli284,li528}@wisc.edu
+#### University of Wisconsin-Madison
+#### Fan Wu, Wei Li, Ying Li    
+#### {fwu49,wli284,li528}@wisc.edu
 
 ## How did you combine the two tables A and B to obtain E? 
 To decide the schema of E, we looked into the raw data file we crawled from TripAdvisor and Yelp instead of the table we obtained in stage 3 (the table of matching entities, with a few columns removed for sake of matching). The final schema for table E is shown as follows:
